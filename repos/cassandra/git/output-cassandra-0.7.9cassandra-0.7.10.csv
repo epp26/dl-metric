@@ -1,0 +1,13 @@
+committer,commit,file
+slebresne@apache.org,99c8d803c4369f4169c66536b2453ce0c419ea04,debian/changelog
+slebresne@apache.org,99c8d803c4369f4169c66536b2453ce0c419ea04,build.xml
+slebresne@apache.org,99c8d803c4369f4169c66536b2453ce0c419ea04,CHANGES.txt
+slebresne@apache.org,99c8d803c4369f4169c66536b2453ce0c419ea04,NEWS.txt
+slebresne@apache.org,abd78259e11305ffed0ae0391ef8da2a16d68210,build.xml
+jbellis@apache.org,a9e0930a0889d5f4e2710e8c40600141b78d97ac,CHANGES.txt
+jbellis@apache.org,71ebcafb49033dc895db971ddf7b702bed55a8cd,src/java/org/apache/cassandra/service/GCInspector.java
+jbellis@apache.org,d9bd402bf51567bd9711bcbe1d74c80b7aec2595,src/java/org/apache/cassandra/hadoop/ColumnFamilyRecordReader.java
+jbellis@apache.org,d9bd402bf51567bd9711bcbe1d74c80b7aec2595,CHANGES.txt
+jbellis@apache.org,e5c70deff84e2d5efd33e4416dea6a9ed0a50794,src/java/org/apache/cassandra/db/ColumnIndexer.java
+jbellis@apache.org,e5c70deff84e2d5efd33e4416dea6a9ed0a50794,CHANGES.txt
+brandonwilliams@apache.org,64b4e4f23dbd5020087200f478c7a69fa51db989,src/java/org/apache/cassandra/tools/NodeCmd.java

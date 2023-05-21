@@ -1,0 +1,13 @@
+committer,commit,file
+omalley@apache.org,d6b7f10438677507fbe1adadec28d219889eab5b,src/core/org/apache/hadoop/security/token/SecretManager.java
+mattf@apache.org,00db197b57b5b6026e6c42cf318f97d10c53037c,lib/jdiff/hadoop_1.0.3.xml
+mattf@apache.org,c6a250ebb84b1bbf37efad9963459b409afedb55,CHANGES.txt
+mattf@apache.org,c6a250ebb84b1bbf37efad9963459b409afedb55,src/mapred/org/apache/hadoop/mapred/TaskTracker.java
+mattf@apache.org,ee8dd689bb2b8d4ac285d92274f3b073b23f4698,bin/hadoop-config.sh
+mattf@apache.org,ee8dd689bb2b8d4ac285d92274f3b073b23f4698,CHANGES.txt
+mattf@apache.org,e816716ff61288af236b34b0828058b43ee4655e,CHANGES.txt
+mattf@apache.org,e816716ff61288af236b34b0828058b43ee4655e,src/docs/releasenotes.html
+todd@apache.org,775a88c37238c5b4bdc55765248a33168febf342,CHANGES.txt
+todd@apache.org,9ddaf9db5c209ee69dd97c363ca4eba7b835835b,CHANGES.txt
+todd@apache.org,9ddaf9db5c209ee69dd97c363ca4eba7b835835b,src/hdfs/org/apache/hadoop/hdfs/server/namenode/FSEditLog.java
+todd@apache.org,9ddaf9db5c209ee69dd97c363ca4eba7b835835b,src/test/org/apache/hadoop/hdfs/server/namenode/TestStorageDirectoryFailure.java

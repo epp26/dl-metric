@@ -1,0 +1,12 @@
+committer,commit,file
+sylvain@datastax.com,c9cef44a1a6c10036200f410c8a26942e64c8f12,src/java/org/apache/cassandra/hadoop/cql3/CqlPagingRecordReader.java
+sylvain@datastax.com,c9cef44a1a6c10036200f410c8a26942e64c8f12,CHANGES.txt
+sylvain@datastax.com,c9cef44a1a6c10036200f410c8a26942e64c8f12,test/unit/org/apache/cassandra/pig/ThriftColumnFamilyTest.java
+sylvain@datastax.com,5a658be5ed3339b7dc52084d7eb33dd8295fa9f3,debian/changelog
+sylvain@datastax.com,5a658be5ed3339b7dc52084d7eb33dd8295fa9f3,build.xml
+sylvain@datastax.com,5a658be5ed3339b7dc52084d7eb33dd8295fa9f3,NEWS.txt
+sylvain@datastax.com,04250f2e5c2f0e2b5fcacdbbfb9c62e25dbcc440,CHANGES.txt
+sylvain@datastax.com,135513cf9b95edadf7ab52be8b05c2d83019f3cd,src/java/org/apache/cassandra/utils/ByteBufferUtil.java
+sylvain@datastax.com,135513cf9b95edadf7ab52be8b05c2d83019f3cd,src/java/org/apache/cassandra/locator/CloudstackSnitch.java
+sylvain@datastax.com,135513cf9b95edadf7ab52be8b05c2d83019f3cd,src/java/org/apache/cassandra/utils/FBUtilities.java
+brandonwilliams@apache.org,73e1eff683d92427ef81ede2ae2b1ec76737263f,CHANGES.txt

@@ -1,0 +1,11 @@
+committer,commit,file
+slebresne@apache.org,cec89bbffec5038a2709c9e8278cab8d2e4963af,src/java/org/apache/cassandra/service/StorageProxy.java
+slebresne@apache.org,cec89bbffec5038a2709c9e8278cab8d2e4963af,CHANGES.txt
+slebresne@apache.org,63c937985ba9ec4c6f0badb05744dae2d5e711bb,debian/changelog
+slebresne@apache.org,63c937985ba9ec4c6f0badb05744dae2d5e711bb,build.xml
+slebresne@apache.org,63c937985ba9ec4c6f0badb05744dae2d5e711bb,NEWS.txt
+slebresne@apache.org,39b7d5e76b97fb829173f4f3c76d01a9e07432ce,src/java/org/apache/cassandra/db/SystemTable.java
+slebresne@apache.org,39b7d5e76b97fb829173f4f3c76d01a9e07432ce,src/java/org/apache/cassandra/io/sstable/SSTableReader.java
+slebresne@apache.org,39b7d5e76b97fb829173f4f3c76d01a9e07432ce,src/java/org/apache/cassandra/io/sstable/Descriptor.java
+slebresne@apache.org,39b7d5e76b97fb829173f4f3c76d01a9e07432ce,CHANGES.txt
+slebresne@apache.org,39b7d5e76b97fb829173f4f3c76d01a9e07432ce,src/java/org/apache/cassandra/io/sstable/SSTableMetadata.java
