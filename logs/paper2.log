@@ -1,0 +1,1002 @@
+nohup: ignoring input
+Name: avro Tag: release-1.4.0
+HEAD is now at 5f1806b2e Tagging release 1.4.0.
+Name: avro Tag: release-1.4.1
+Previous HEAD position was 5f1806b2e Tagging release 1.4.0.
+HEAD is now at c646fd429 Tag release 1.4.1.
+Name: avro Tag: release-1.5.0
+Previous HEAD position was c646fd429 Tag release 1.4.1.
+HEAD is now at 6ee867478 Promote 1.5.0-rc3 to 1.5.0.
+Name: avro Tag: release-1.5.1
+Previous HEAD position was 6ee867478 Promote 1.5.0-rc3 to 1.5.0.
+HEAD is now at cb6560b1a Tag 1.5.1 release.
+Name: avro Tag: release-1.5.2
+Previous HEAD position was cb6560b1a Tag 1.5.1 release.
+HEAD is now at eb7871400 Tagging release 1.5.2.
+Name: avro Tag: release-1.5.3
+Previous HEAD position was eb7871400 Tagging release 1.5.2.
+HEAD is now at 74aae533d Tagging 1.5.3 release.
+Name: avro Tag: release-1.5.4
+Previous HEAD position was 74aae533d Tagging 1.5.3 release.
+HEAD is now at 76dbd5fe1 Tag release 1.5.4.
+Name: avro Tag: release-1.6.0
+Previous HEAD position was 76dbd5fe1 Tag release 1.5.4.
+HEAD is now at 7b60f03ad Finalize tag for 1.6.0.
+Name: avro Tag: release-1.6.1
+Previous HEAD position was 7b60f03ad Finalize tag for 1.6.0.
+HEAD is now at 0a4726777 Tagging 1.6.1.
+Name: avro Tag: release-1.6.2
+Previous HEAD position was 0a4726777 Tagging 1.6.1.
+HEAD is now at 4937406e4 Tagging 1.6.2.
+Name: avro Tag: release-1.6.3
+Previous HEAD position was 4937406e4 Tagging 1.6.2.
+HEAD is now at b72784d7a Tagging release 1.6.3.
+Name: avro Tag: release-1.7.0
+Previous HEAD position was b72784d7a Tagging release 1.6.3.
+HEAD is now at 45af85387 Tagging 1.7.0.
+Name: avro Tag: release-1.7.1
+Previous HEAD position was 45af85387 Tagging 1.7.0.
+HEAD is now at 6e782954a Tag 1.7.1.
+Name: avro Tag: release-1.7.2
+Previous HEAD position was 6e782954a Tag 1.7.1.
+HEAD is now at c1aca86bf Tag 1.7.2.
+Name: avro Tag: release-1.7.3
+Previous HEAD position was c1aca86bf Tag 1.7.2.
+HEAD is now at bffc3c670 Tagging 1.7.3.
+Name: avro Tag: release-1.7.4
+Previous HEAD position was bffc3c670 Tagging 1.7.3.
+HEAD is now at 7364df6e1 Release 1.7.4.
+Name: avro Tag: release-1.7.5
+Previous HEAD position was 7364df6e1 Release 1.7.4.
+HEAD is now at de1904f0a Avro Release 1.7.5
+Name: avro Tag: release-1.7.6
+Previous HEAD position was de1904f0a Avro Release 1.7.5
+HEAD is now at 3c6c62ad7 Tagging release 1.7.6.
+Name: camel Tag: camel-2.2.0
+Previous HEAD position was 0b0fd8139c9 [maven-release-plugin] prepare release camel-2.9.8
+HEAD is now at 389a4ea6432 [maven-scm] copy for tag camel-2.2.0
+Name: camel Tag: camel-2.3.0
+Previous HEAD position was 389a4ea6432 [maven-scm] copy for tag camel-2.2.0
+HEAD is now at 8a471f4432d [maven-scm] copy for tag camel-2.3.0
+Name: camel Tag: camel-2.4.0
+Previous HEAD position was 8a471f4432d [maven-scm] copy for tag camel-2.3.0
+HEAD is now at f2863edcfe2 [maven-scm] copy for tag camel-2.4.0
+Name: camel Tag: camel-2.5.0
+Previous HEAD position was f2863edcfe2 [maven-scm] copy for tag camel-2.4.0
+HEAD is now at ce48fd14228 [maven-release-plugin]  copy for tag camel-2.5.0
+Name: camel Tag: camel-2.6.0
+Previous HEAD position was ce48fd14228 [maven-release-plugin]  copy for tag camel-2.5.0
+HEAD is now at 20f2898f608 [maven-release-plugin]  copy for tag camel-2.6.0
+Name: camel Tag: camel-2.7.0
+Previous HEAD position was 20f2898f608 [maven-release-plugin]  copy for tag camel-2.6.0
+HEAD is now at 27105d1ffda [maven-release-plugin]  copy for tag camel-2.7.0
+Name: camel Tag: camel-2.7.1
+Previous HEAD position was 27105d1ffda [maven-release-plugin]  copy for tag camel-2.7.0
+HEAD is now at 6c680beb351 [maven-release-plugin]  copy for tag camel-2.7.1
+Name: camel Tag: camel-2.7.2
+Previous HEAD position was 6c680beb351 [maven-release-plugin]  copy for tag camel-2.7.1
+HEAD is now at 0c863ed14e0 [maven-release-plugin]  copy for tag camel-2.7.2
+Name: camel Tag: camel-2.7.3
+Previous HEAD position was 0c863ed14e0 [maven-release-plugin]  copy for tag camel-2.7.2
+HEAD is now at f09cf96c58c [maven-release-plugin]  copy for tag camel-2.7.3
+Name: camel Tag: camel-2.7.4
+Previous HEAD position was f09cf96c58c [maven-release-plugin]  copy for tag camel-2.7.3
+HEAD is now at cfe49e9e0da [maven-release-plugin]  copy for tag camel-2.7.4
+Name: camel Tag: camel-2.7.5
+Previous HEAD position was cfe49e9e0da [maven-release-plugin]  copy for tag camel-2.7.4
+HEAD is now at 599996f563e [maven-release-plugin]  copy for tag camel-2.7.5
+Name: camel Tag: camel-2.8.0
+Previous HEAD position was 599996f563e [maven-release-plugin]  copy for tag camel-2.7.5
+HEAD is now at 9d5fd0d1209 [maven-release-plugin]  copy for tag camel-2.8.0
+Name: camel Tag: camel-2.8.1
+Previous HEAD position was 9d5fd0d1209 [maven-release-plugin]  copy for tag camel-2.8.0
+HEAD is now at 38e046d246c [maven-release-plugin]  copy for tag camel-2.8.1
+Name: camel Tag: camel-2.8.2
+Previous HEAD position was 38e046d246c [maven-release-plugin]  copy for tag camel-2.8.1
+HEAD is now at f3147cb31c0 [maven-release-plugin]  copy for tag camel-2.8.2
+Name: camel Tag: camel-2.8.3
+Previous HEAD position was f3147cb31c0 [maven-release-plugin]  copy for tag camel-2.8.2
+HEAD is now at b24c1f96478 [maven-release-plugin]  copy for tag camel-2.8.3
+Name: camel Tag: camel-2.8.4
+Previous HEAD position was b24c1f96478 [maven-release-plugin]  copy for tag camel-2.8.3
+HEAD is now at 28938ca0b93 [maven-release-plugin]  copy for tag camel-2.8.4
+Name: camel Tag: camel-2.8.5
+Previous HEAD position was 28938ca0b93 [maven-release-plugin]  copy for tag camel-2.8.4
+HEAD is now at 96d7b11ad57 [maven-release-plugin]  copy for tag camel-2.8.5
+Name: camel Tag: camel-2.8.6
+Previous HEAD position was 96d7b11ad57 [maven-release-plugin]  copy for tag camel-2.8.5
+HEAD is now at 2e3960bbc21 [maven-release-plugin]  copy for tag camel-2.8.6
+Name: camel Tag: camel-2.9.0
+Previous HEAD position was 2e3960bbc21 [maven-release-plugin]  copy for tag camel-2.8.6
+HEAD is now at 4a0282b413d [maven-release-plugin]  copy for tag camel-2.9.0
+Name: camel Tag: camel-2.9.1
+Previous HEAD position was 4a0282b413d [maven-release-plugin]  copy for tag camel-2.9.0
+HEAD is now at 08266bb3ff3 [maven-release-plugin]  copy for tag camel-2.9.1
+Name: camel Tag: camel-2.9.2
+Previous HEAD position was 08266bb3ff3 [maven-release-plugin]  copy for tag camel-2.9.1
+HEAD is now at 78ebec3138b [maven-release-plugin]  copy for tag camel-2.9.2
+Name: camel Tag: camel-2.9.3
+Previous HEAD position was 78ebec3138b [maven-release-plugin]  copy for tag camel-2.9.2
+HEAD is now at ea2d4facb74 [maven-release-plugin]  copy for tag camel-2.9.3
+Name: camel Tag: camel-2.9.4
+Previous HEAD position was ea2d4facb74 [maven-release-plugin]  copy for tag camel-2.9.3
+HEAD is now at 21e554fbbf2 [maven-release-plugin]  copy for tag camel-2.9.4
+Name: camel Tag: camel-2.9.5
+Previous HEAD position was 21e554fbbf2 [maven-release-plugin]  copy for tag camel-2.9.4
+HEAD is now at bd1cafcc328 [maven-release-plugin]  copy for tag camel-2.9.5
+Name: camel Tag: camel-2.9.6
+Previous HEAD position was bd1cafcc328 [maven-release-plugin]  copy for tag camel-2.9.5
+HEAD is now at aa902d6749f [maven-release-plugin]  copy for tag camel-2.9.6
+Name: camel Tag: camel-2.9.7
+Previous HEAD position was aa902d6749f [maven-release-plugin]  copy for tag camel-2.9.6
+HEAD is now at a8a49b01f30 [maven-release-plugin]  copy for tag camel-2.9.7
+Name: camel Tag: camel-2.9.8
+Previous HEAD position was a8a49b01f30 [maven-release-plugin]  copy for tag camel-2.9.7
+HEAD is now at 0b0fd8139c9 [maven-release-plugin] prepare release camel-2.9.8
+Name: cassandra Tag: cassandra-0.7.1
+Previous HEAD position was 484d281694 Fix flapping RecoveryManagerTest
+HEAD is now at 8ff96c2ed0 tagging 0.7.1 release
+Name: cassandra Tag: cassandra-0.7.2
+Previous HEAD position was 8ff96c2ed0 tagging 0.7.1 release
+HEAD is now at 0b5575d5cb tagging 0.7.2 release
+Name: cassandra Tag: cassandra-0.7.3
+Previous HEAD position was 0b5575d5cb tagging 0.7.2 release
+HEAD is now at c91b6402c0 tagging 0.7.3
+Name: cassandra Tag: cassandra-0.7.4
+Previous HEAD position was c91b6402c0 tagging 0.7.3
+HEAD is now at 3c04a0cb82 tag 0.7.4 release
+Name: cassandra Tag: cassandra-0.7.5
+Previous HEAD position was 3c04a0cb82 tag 0.7.4 release
+HEAD is now at 03ffa30434 Tag 0.7.5 release
+Name: cassandra Tag: cassandra-0.7.6
+Previous HEAD position was 03ffa30434 Tag 0.7.5 release
+HEAD is now at 76fce08036 Creating 0.7.6 tag
+Name: cassandra Tag: cassandra-0.7.7
+Previous HEAD position was 76fce08036 Creating 0.7.6 tag
+HEAD is now at 42369967f8 Create 0.7.7 tag
+Name: cassandra Tag: cassandra-0.7.8
+Previous HEAD position was 42369967f8 Create 0.7.7 tag
+HEAD is now at bd1d02d467 Create 0.7.8 branch
+Name: cassandra Tag: cassandra-0.7.9
+Previous HEAD position was bd1d02d467 Create 0.7.8 branch
+HEAD is now at d706a762cd tagging 0.7.9 release
+Name: cassandra Tag: cassandra-0.7.10
+Previous HEAD position was d706a762cd tagging 0.7.9 release
+HEAD is now at be4d852b54 Create tag for 0.7.10 release
+Name: cassandra Tag: cassandra-0.8.0
+Previous HEAD position was be4d852b54 Create tag for 0.7.10 release
+HEAD is now at b44fa707cc tagging 0.8.0 final
+Name: cassandra Tag: cassandra-0.8.1
+Previous HEAD position was b44fa707cc tagging 0.8.0 final
+HEAD is now at 4cdffba4ae Create 0.8.1 tag
+Name: cassandra Tag: cassandra-0.8.2
+Previous HEAD position was 4cdffba4ae Create 0.8.1 tag
+HEAD is now at 207f0a18ba Tagging 0.8.2
+Name: cassandra Tag: cassandra-0.8.3
+Previous HEAD position was 207f0a18ba Tagging 0.8.2
+HEAD is now at f49ef35aff Creating 0.8.3 tag
+Name: cassandra Tag: cassandra-0.8.4
+Previous HEAD position was f49ef35aff Creating 0.8.3 tag
+HEAD is now at 1cea6bf9b8 Creating tag for 0.8.4
+Name: cassandra Tag: cassandra-0.8.5
+Previous HEAD position was 1cea6bf9b8 Creating tag for 0.8.4
+HEAD is now at dc1ff52a86 Creating 0.8.5 tag
+Name: cassandra Tag: cassandra-0.8.6
+Previous HEAD position was dc1ff52a86 Creating 0.8.5 tag
+HEAD is now at a88d7d4867 Create tag for 0.8.6 release
+Name: cassandra Tag: cassandra-0.8.7
+Previous HEAD position was a88d7d4867 Create tag for 0.8.6 release
+HEAD is now at 7068683fee Creating tag for 0.8.7
+Name: cassandra Tag: cassandra-0.8.8
+Previous HEAD position was 7068683fee Creating tag for 0.8.7
+HEAD is now at d660275d12 Create 0.8.8 tag
+Name: cassandra Tag: cassandra-0.8.9
+Previous HEAD position was d660275d12 Create 0.8.8 tag
+HEAD is now at 9d4c0d9a37 Create branch for 0.8.9 release
+Name: cassandra Tag: cassandra-0.8.10
+Previous HEAD position was 9d4c0d9a37 Create branch for 0.8.9 release
+HEAD is now at 038b8f212e Update version and changelog for 0.8.10
+Name: cassandra Tag: cassandra-1.0.0
+Previous HEAD position was 038b8f212e Update version and changelog for 0.8.10
+HEAD is now at 533193a7b8 Creating tag for the 1.0.0 release
+Name: cassandra Tag: cassandra-1.0.1
+Previous HEAD position was 533193a7b8 Creating tag for the 1.0.0 release
+HEAD is now at 3d1612eecc Create tag for 1.0.1 release
+Name: cassandra Tag: cassandra-1.0.2
+Previous HEAD position was 3d1612eecc Create tag for 1.0.1 release
+HEAD is now at 35d11c3180 Create 1.0.2 tag
+Name: cassandra Tag: cassandra-1.0.3
+Previous HEAD position was 35d11c3180 Create 1.0.2 tag
+HEAD is now at 97adb5f336 Creating tag for 1.0.3
+Name: cassandra Tag: cassandra-1.0.4
+Previous HEAD position was 97adb5f336 Creating tag for 1.0.3
+HEAD is now at af4a8f6c03 Create 1.0.4 tag
+Name: cassandra Tag: cassandra-1.0.5
+Previous HEAD position was af4a8f6c03 Create 1.0.4 tag
+HEAD is now at 3d5d9a4072 Create tag for 1.0.5
+Name: cassandra Tag: cassandra-1.0.6
+Previous HEAD position was 3d5d9a4072 Create tag for 1.0.5
+HEAD is now at 34c331d0ad Create 1.0.6 branch
+Name: cassandra Tag: cassandra-1.0.7
+Previous HEAD position was 34c331d0ad Create 1.0.6 branch
+HEAD is now at 6a1ed6205c Allow DynamicCompositeType to compare components of different types
+Name: cassandra Tag: cassandra-1.0.8
+Previous HEAD position was 6a1ed6205c Allow DynamicCompositeType to compare components of different types
+HEAD is now at fe6980eb7d Fix version, licences and changelog for 1.0.8 release
+Name: cassandra Tag: cassandra-1.0.9
+Previous HEAD position was fe6980eb7d Fix version, licences and changelog for 1.0.8 release
+HEAD is now at 3fd0fb6aa0 Fix exception during cleanup for Leveled compaction
+Name: cassandra Tag: cassandra-1.0.10
+Previous HEAD position was 3fd0fb6aa0 Fix exception during cleanup for Leveled compaction
+HEAD is now at b2ca7f8212 Change version for 1.0.10 release
+Name: cassandra Tag: cassandra-1.0.11
+Previous HEAD position was b2ca7f8212 Change version for 1.0.10 release
+HEAD is now at 4f0237acd5 Update versions, news and changes for 1.0.11 release
+Name: cassandra Tag: cassandra-1.0.12
+Previous HEAD position was 4f0237acd5 Update versions, news and changes for 1.0.11 release
+HEAD is now at 373e5b0d51 Update version and news for 1.0.12
+Name: cassandra Tag: cassandra-1.1.0
+Previous HEAD position was 373e5b0d51 Update version and news for 1.0.12
+HEAD is now at c671532825 Update NEWS for 3909
+Name: cassandra Tag: cassandra-1.1.1
+Previous HEAD position was c671532825 Update NEWS for 3909
+HEAD is now at a788a23ca6 Change build version
+Name: cassandra Tag: cassandra-1.1.2
+Previous HEAD position was a788a23ca6 Change build version
+HEAD is now at b94d8d40fb Add missing sstables for ScrubTest
+Name: cassandra Tag: cassandra-1.1.3
+Previous HEAD position was b94d8d40fb Add missing sstables for ScrubTest
+HEAD is now at 94bcc6a6f6 Fix typo in jvm version comparison.
+Name: cassandra Tag: cassandra-1.1.4
+Previous HEAD position was 94bcc6a6f6 Fix typo in jvm version comparison.
+HEAD is now at 8b1336f004 remove spurious character
+Name: cassandra Tag: cassandra-1.1.5
+Previous HEAD position was 8b1336f004 remove spurious character
+HEAD is now at e395307893 explain how to work around exec problems in error message patch by jbellis for CASSANDRA-4590
+Name: cassandra Tag: cassandra-1.1.6
+Previous HEAD position was e395307893 explain how to work around exec problems in error message patch by jbellis for CASSANDRA-4590
+HEAD is now at a0900f3d3b Pig: fix widerow/secondary env toggles Patch by brandonwilliams reviewed by Jeremy Hanna for CASSANDRA-4749
+Name: cassandra Tag: cassandra-1.1.7
+Previous HEAD position was a0900f3d3b Pig: fix widerow/secondary env toggles Patch by brandonwilliams reviewed by Jeremy Hanna for CASSANDRA-4749
+HEAD is now at 2f4b6d8c61 Update version, changes, news and licenses for 1.1.7 release
+Name: cassandra Tag: cassandra-1.1.8
+Previous HEAD position was 2f4b6d8c61 Update version, changes, news and licenses for 1.1.7 release
+HEAD is now at 4885bfccf1 Fix compression options validation
+Name: cassandra Tag: cassandra-1.1.9
+Previous HEAD position was 4885bfccf1 Fix compression options validation
+HEAD is now at 7eb47c50c3 Update version for 1.1.9 release
+Name: cassandra Tag: cassandra-1.1.10
+Previous HEAD position was 7eb47c50c3 Update version for 1.1.9 release
+HEAD is now at 6849942151 Versions, news and changelog updates for 1.1.10 release
+Name: cassandra Tag: cassandra-1.1.11
+Previous HEAD position was 6849942151 Versions, news and changelog updates for 1.1.10 release
+HEAD is now at d939a0c958 updated for 1.1.11 release
+Name: cassandra Tag: cassandra-1.1.12
+Previous HEAD position was d939a0c958 updated for 1.1.11 release
+HEAD is now at 2dd73d1710 Fix 5488 round 2
+Name: cassandra Tag: cassandra-1.2.0
+Previous HEAD position was 2dd73d1710 Fix 5488 round 2
+HEAD is now at 69337a4367 Update version for 1.2.0 final
+Name: cassandra Tag: cassandra-1.2.1
+Previous HEAD position was 69337a4367 Update version for 1.2.0 final
+HEAD is now at 8540974dbd Merge branch 'cassandra-1.2' of https://git-wip-us.apache.org/repos/asf/cassandra into cassandra-1.2
+Name: cassandra Tag: cassandra-1.2.2
+Previous HEAD position was 8540974dbd Merge branch 'cassandra-1.2' of https://git-wip-us.apache.org/repos/asf/cassandra into cassandra-1.2
+HEAD is now at 068b53dd5d Fix pessimistic unit tests post-4671
+Name: cassandra Tag: cassandra-1.2.3
+Previous HEAD position was 068b53dd5d Fix pessimistic unit tests post-4671
+HEAD is now at f07804e0d0 Update versions and license for 1.2.3
+Name: cassandra Tag: cassandra-1.2.4
+Previous HEAD position was f07804e0d0 Update versions and license for 1.2.3
+HEAD is now at 2e96d07114 Change version for 1.2.4 release
+Name: cassandra Tag: cassandra-1.2.5
+Previous HEAD position was 2e96d07114 Change version for 1.2.4 release
+HEAD is now at 7d4380d661 Update debian changelog date
+Name: cassandra Tag: cassandra-1.2.6
+Previous HEAD position was 7d4380d661 Update debian changelog date
+HEAD is now at a6ca5d496f Changelog update
+Name: cassandra Tag: cassandra-1.2.7
+Previous HEAD position was a6ca5d496f Changelog update
+HEAD is now at ce4e4b9b5b now() is being rejected in INSERTs when inside collections
+Name: cassandra Tag: cassandra-1.2.8
+Previous HEAD position was ce4e4b9b5b now() is being rejected in INSERTs when inside collections
+HEAD is now at 0291d69601 update versioning for 1.2.8 release
+Name: cassandra Tag: cassandra-1.2.9
+Previous HEAD position was 0291d69601 update versioning for 1.2.8 release
+HEAD is now at 6164d011ee Versions for 1.2.9 release
+Name: cassandra Tag: cassandra-1.2.10
+Previous HEAD position was 6164d011ee Versions for 1.2.9 release
+HEAD is now at 937536363a Update version for 1.2.10 release
+Name: cassandra Tag: cassandra-1.2.11
+Previous HEAD position was 937536363a Update version for 1.2.10 release
+HEAD is now at 9424449716 cosmetics
+Name: cassandra Tag: cassandra-1.2.12
+Previous HEAD position was 9424449716 cosmetics
+HEAD is now at 026865f2a3 Update versions, licenses for 1.2.12 release
+Name: cassandra Tag: cassandra-1.2.13
+Previous HEAD position was 026865f2a3 Update versions, licenses for 1.2.12 release
+HEAD is now at 1b4c9b45cb ninja-correcting the the constant for LOCAL_ONE.
+Name: cassandra Tag: cassandra-1.2.14
+Previous HEAD position was 1b4c9b45cb ninja-correcting the the constant for LOCAL_ONE.
+HEAD is now at 6a9314408c Update versions and licenses for 1.2.14 release
+Name: cassandra Tag: cassandra-1.2.15
+Previous HEAD position was 6a9314408c Update versions and licenses for 1.2.14 release
+HEAD is now at 178e086f1a Update news, version in preparation for 1.2.15
+Name: cassandra Tag: cassandra-1.2.16
+Previous HEAD position was 178e086f1a Update news, version in preparation for 1.2.15
+HEAD is now at 05fcfa2be4 Update versions and NEWS for 1.2.16 release
+Name: cassandra Tag: cassandra-1.2.17
+Previous HEAD position was 05fcfa2be4 Update versions and NEWS for 1.2.16 release
+HEAD is now at 87c4efe819 Update versions for 1.2.17 release
+Name: cassandra Tag: cassandra-1.2.18
+Previous HEAD position was 87c4efe819 Update versions for 1.2.17 release
+HEAD is now at 5a658be5ed Versions update for 1.2.18
+Name: cassandra Tag: cassandra-1.2.19
+Previous HEAD position was 5a658be5ed Versions update for 1.2.18
+HEAD is now at 2d29ebd415 prepare 1.2.19 release
+Name: cassandra Tag: cassandra-2.0.0
+Previous HEAD position was 2d29ebd415 prepare 1.2.19 release
+HEAD is now at 03045ca22b Update versions for 2.0 final release
+Name: cassandra Tag: cassandra-2.0.1
+Previous HEAD position was 03045ca22b Update versions for 2.0 final release
+HEAD is now at eb96db6c19 Update versions for 2.0.1 release
+Name: cassandra Tag: cassandra-2.0.2
+Previous HEAD position was eb96db6c19 Update versions for 2.0.1 release
+HEAD is now at 22e67be8fe Fix license
+Name: cassandra Tag: cassandra-2.0.3
+Previous HEAD position was 22e67be8fe Fix license
+HEAD is now at 3c9760bdb9 Fix potential out of bounds exception during paging
+Name: cassandra Tag: cassandra-2.0.4
+Previous HEAD position was 3c9760bdb9 Fix potential out of bounds exception during paging
+HEAD is now at d56f8f2930 Update versioning for 2.0.4 release
+Name: cassandra Tag: cassandra-2.0.5
+Previous HEAD position was d56f8f2930 Update versioning for 2.0.4 release
+HEAD is now at 29670eb669 Update changes and news file for 2.0.5 re-roll
+Name: cassandra Tag: cassandra-2.0.6
+Previous HEAD position was 29670eb669 Update changes and news file for 2.0.5 re-roll
+HEAD is now at 656edc529d Update version, news and license for 2.0.6
+Name: cassandra Tag: cassandra-2.0.7
+Previous HEAD position was 656edc529d Update version, news and license for 2.0.6
+HEAD is now at 7dbbe9233c Update versions for 2.0.7 release
+Name: cassandra Tag: cassandra-2.0.8
+Previous HEAD position was 7dbbe9233c Update versions for 2.0.7 release
+HEAD is now at 484d281694 Fix flapping RecoveryManagerTest
+Name: cxf Tag: cxf-2.1.1
+Previous HEAD position was 8ee663eec3 [maven-release-plugin] prepare release cxf-2.6.9
+HEAD is now at c140ed9b51 [maven-release-plugin]  copy for tag cxf-2.1.1
+Name: cxf Tag: cxf-2.1.2
+Previous HEAD position was c140ed9b51 [maven-release-plugin]  copy for tag cxf-2.1.1
+HEAD is now at 476c6b11ae [maven-release-plugin] prepare release cxf-2.1.2
+Name: cxf Tag: cxf-2.1.3
+Previous HEAD position was 476c6b11ae [maven-release-plugin] prepare release cxf-2.1.2
+HEAD is now at 3f072528a7 revert the tag of CXF 2.1.3
+Name: cxf Tag: cxf-2.1.4
+Previous HEAD position was 3f072528a7 revert the tag of CXF 2.1.3
+HEAD is now at 246a784bea [maven-release-plugin]  copy for tag cxf-2.1.4
+Name: cxf Tag: cxf-2.1.5
+Previous HEAD position was 246a784bea [maven-release-plugin]  copy for tag cxf-2.1.4
+HEAD is now at 8bad465d1b [maven-release-plugin] prepare release cxf-2.1.5
+Name: cxf Tag: cxf-2.1.6
+Previous HEAD position was 8bad465d1b [maven-release-plugin] prepare release cxf-2.1.5
+HEAD is now at 3efd6fe39c [maven-release-plugin] prepare release cxf-2.1.6
+Name: cxf Tag: cxf-2.1.7
+Previous HEAD position was 3efd6fe39c [maven-release-plugin] prepare release cxf-2.1.6
+HEAD is now at 3e2217ba0f [maven-scm] copy for tag cxf-2.1.7
+Name: cxf Tag: cxf-2.1.8
+Previous HEAD position was 3e2217ba0f [maven-scm] copy for tag cxf-2.1.7
+HEAD is now at 0035d7a5e4 [maven-scm] copy for tag cxf-2.1.8
+Name: cxf Tag: cxf-2.1.9
+Previous HEAD position was 0035d7a5e4 [maven-scm] copy for tag cxf-2.1.8
+HEAD is now at 20d88b6d4b [maven-release-plugin] prepare release cxf-2.1.9
+Name: cxf Tag: cxf-2.2
+Previous HEAD position was 20d88b6d4b [maven-release-plugin] prepare release cxf-2.1.9
+HEAD is now at c0cf68a2ab [maven-release-plugin] prepare release cxf-2.2
+Name: cxf Tag: cxf-2.2.1
+Previous HEAD position was c0cf68a2ab [maven-release-plugin] prepare release cxf-2.2
+HEAD is now at 107c812f1d [maven-release-plugin] prepare release cxf-2.2.1
+Name: cxf Tag: cxf-2.2.2
+Previous HEAD position was 107c812f1d [maven-release-plugin] prepare release cxf-2.2.1
+HEAD is now at fd9313103f [maven-release-plugin] prepare release cxf-2.2.2
+Name: cxf Tag: cxf-2.2.3
+Previous HEAD position was fd9313103f [maven-release-plugin] prepare release cxf-2.2.2
+HEAD is now at c534c75920 [maven-release-plugin] prepare release cxf-2.2.3
+Name: cxf Tag: cxf-2.2.4
+Previous HEAD position was c534c75920 [maven-release-plugin] prepare release cxf-2.2.3
+HEAD is now at 69565e2ae1 [maven-release-plugin] prepare release cxf-2.2.4
+Name: cxf Tag: cxf-2.2.5
+Previous HEAD position was 69565e2ae1 [maven-release-plugin] prepare release cxf-2.2.4
+HEAD is now at 5f4c4dd3d8 [maven-release-plugin] prepare release cxf-2.2.5
+Name: cxf Tag: cxf-2.2.6
+Previous HEAD position was 5f4c4dd3d8 [maven-release-plugin] prepare release cxf-2.2.5
+HEAD is now at 4653eabd95 [maven-release-plugin] prepare release cxf-2.2.6
+Name: cxf Tag: cxf-2.2.7
+Previous HEAD position was 4653eabd95 [maven-release-plugin] prepare release cxf-2.2.6
+HEAD is now at de77560ff5 [maven-release-plugin] prepare release cxf-2.2.7
+Name: cxf Tag: cxf-2.2.8
+Previous HEAD position was de77560ff5 [maven-release-plugin] prepare release cxf-2.2.7
+HEAD is now at 09cedde391 [maven-release-plugin] prepare release cxf-2.2.8
+Name: cxf Tag: cxf-2.2.9
+Previous HEAD position was 09cedde391 [maven-release-plugin] prepare release cxf-2.2.8
+HEAD is now at 085837df2d [maven-release-plugin] prepare release cxf-2.2.9
+Name: cxf Tag: cxf-2.2.10
+Previous HEAD position was 085837df2d [maven-release-plugin] prepare release cxf-2.2.9
+HEAD is now at 091dab69f8 [maven-release-plugin] prepare release cxf-2.2.10
+Name: cxf Tag: cxf-2.2.11
+Previous HEAD position was 091dab69f8 [maven-release-plugin] prepare release cxf-2.2.10
+HEAD is now at 4c72cc59c3 [maven-release-plugin] prepare release cxf-2.2.11
+Name: cxf Tag: cxf-2.2.12
+Previous HEAD position was 4c72cc59c3 [maven-release-plugin] prepare release cxf-2.2.11
+HEAD is now at 34bd49b1e8 [maven-release-plugin] prepare release cxf-2.2.12
+Name: cxf Tag: cxf-2.3.0
+Previous HEAD position was 34bd49b1e8 [maven-release-plugin] prepare release cxf-2.2.12
+HEAD is now at ea6f198ff9 [maven-release-plugin] prepare release cxf-2.3.0
+Name: cxf Tag: cxf-2.3.1
+Previous HEAD position was ea6f198ff9 [maven-release-plugin] prepare release cxf-2.3.0
+HEAD is now at e32c5ba5e9 [maven-release-plugin] prepare release cxf-2.3.1
+Name: cxf Tag: cxf-2.3.2
+Previous HEAD position was e32c5ba5e9 [maven-release-plugin] prepare release cxf-2.3.1
+HEAD is now at 70cab1562c [maven-release-plugin] prepare release cxf-2.3.2
+Name: cxf Tag: cxf-2.3.3
+Previous HEAD position was 70cab1562c [maven-release-plugin] prepare release cxf-2.3.2
+HEAD is now at 14737aad2c [maven-release-plugin] prepare release cxf-2.3.3
+Name: cxf Tag: cxf-2.3.4
+Previous HEAD position was 14737aad2c [maven-release-plugin] prepare release cxf-2.3.3
+HEAD is now at db1fbda453 [maven-release-plugin] prepare release cxf-2.3.4
+Name: cxf Tag: cxf-2.3.5
+Previous HEAD position was db1fbda453 [maven-release-plugin] prepare release cxf-2.3.4
+HEAD is now at 725f5484ad Merge CXF-3582 so I can rebuild 2.3.5 Also fix versions in poms that release:prepare could not modify
+Name: cxf Tag: cxf-2.3.6
+Previous HEAD position was 725f5484ad Merge CXF-3582 so I can rebuild 2.3.5 Also fix versions in poms that release:prepare could not modify
+HEAD is now at b751ce33b8 [maven-release-plugin] prepare release cxf-2.3.6
+Name: cxf Tag: cxf-2.3.7
+Previous HEAD position was b751ce33b8 [maven-release-plugin] prepare release cxf-2.3.6
+HEAD is now at f386142967 [maven-release-plugin] prepare release cxf-2.3.7
+Name: cxf Tag: cxf-2.3.8
+Previous HEAD position was f386142967 [maven-release-plugin] prepare release cxf-2.3.7
+HEAD is now at 20651a38a0 [maven-release-plugin] prepare release cxf-2.3.8
+Name: cxf Tag: cxf-2.3.9
+Previous HEAD position was 20651a38a0 [maven-release-plugin] prepare release cxf-2.3.8
+HEAD is now at 682db87d87 [maven-release-plugin] prepare release cxf-2.3.9
+Name: cxf Tag: cxf-2.3.10
+Previous HEAD position was 682db87d87 [maven-release-plugin] prepare release cxf-2.3.9
+HEAD is now at 5437cd3345 [maven-release-plugin] prepare release cxf-2.3.10
+Name: cxf Tag: cxf-2.3.11
+Previous HEAD position was 5437cd3345 [maven-release-plugin] prepare release cxf-2.3.10
+HEAD is now at 8b1b0f0e42 [maven-release-plugin] prepare release cxf-2.3.11
+Name: cxf Tag: cxf-2.4.0
+Previous HEAD position was 8b1b0f0e42 [maven-release-plugin] prepare release cxf-2.3.11
+HEAD is now at 5d63a65d56 [maven-release-plugin] prepare release cxf-2.4.0
+Name: cxf Tag: cxf-2.4.1
+Previous HEAD position was 5d63a65d56 [maven-release-plugin] prepare release cxf-2.4.0
+HEAD is now at 48507c36a0 Merge CXF-3582 so I can rebuild 2.4.1 Also fix versions in poms that release:prepare could not modify
+Name: cxf Tag: cxf-2.4.2
+Previous HEAD position was 48507c36a0 Merge CXF-3582 so I can rebuild 2.4.1 Also fix versions in poms that release:prepare could not modify
+HEAD is now at f828b718f0 [maven-release-plugin]  copy for tag cxf-2.4.2
+Name: cxf Tag: cxf-2.4.3
+Previous HEAD position was f828b718f0 [maven-release-plugin]  copy for tag cxf-2.4.2
+HEAD is now at ce9df559cf [maven-release-plugin] prepare release cxf-2.4.3
+Name: cxf Tag: cxf-2.4.4
+Previous HEAD position was ce9df559cf [maven-release-plugin] prepare release cxf-2.4.3
+HEAD is now at bf6844fb33 [maven-release-plugin] prepare release cxf-2.4.4
+Name: cxf Tag: cxf-2.4.5
+Previous HEAD position was bf6844fb33 [maven-release-plugin] prepare release cxf-2.4.4
+HEAD is now at 09309a0aa8 [maven-release-plugin] prepare release cxf-2.4.5
+Name: cxf Tag: cxf-2.4.6
+Previous HEAD position was 09309a0aa8 [maven-release-plugin] prepare release cxf-2.4.5
+HEAD is now at 573721d891 [maven-release-plugin] prepare release cxf-2.4.6
+Name: cxf Tag: cxf-2.4.7
+Previous HEAD position was 573721d891 [maven-release-plugin] prepare release cxf-2.4.6
+HEAD is now at 14211a2e62 [maven-release-plugin] prepare release cxf-2.4.7
+Name: cxf Tag: cxf-2.4.8
+Previous HEAD position was 14211a2e62 [maven-release-plugin] prepare release cxf-2.4.7
+HEAD is now at b53a7bfe5f [maven-release-plugin]  copy for tag cxf-2.4.8
+Name: cxf Tag: cxf-2.4.9
+Previous HEAD position was b53a7bfe5f [maven-release-plugin]  copy for tag cxf-2.4.8
+HEAD is now at 3a0e8b5d23 [maven-release-plugin] prepare release cxf-2.4.9
+Name: cxf Tag: cxf-2.4.10
+Previous HEAD position was 3a0e8b5d23 [maven-release-plugin] prepare release cxf-2.4.9
+HEAD is now at 046c9bc10f [maven-release-plugin] prepare release cxf-2.4.10
+Name: cxf Tag: cxf-2.5.0
+Previous HEAD position was 046c9bc10f [maven-release-plugin] prepare release cxf-2.4.10
+HEAD is now at 27feb484f5 [maven-release-plugin] prepare release cxf-2.5.0
+Name: cxf Tag: cxf-2.5.1
+Previous HEAD position was 27feb484f5 [maven-release-plugin] prepare release cxf-2.5.0
+HEAD is now at 2b27d760de [maven-release-plugin] prepare release cxf-2.5.1
+Name: cxf Tag: cxf-2.5.2
+Previous HEAD position was 2b27d760de [maven-release-plugin] prepare release cxf-2.5.1
+HEAD is now at cdf6522a95 [maven-release-plugin]  copy for tag cxf-2.5.2
+Name: cxf Tag: cxf-2.5.3
+Previous HEAD position was cdf6522a95 [maven-release-plugin]  copy for tag cxf-2.5.2
+HEAD is now at cf4756e855 [maven-release-plugin]  copy for tag cxf-2.5.3
+Name: cxf Tag: cxf-2.5.4
+Previous HEAD position was cf4756e855 [maven-release-plugin]  copy for tag cxf-2.5.3
+HEAD is now at ee4f2128a5 [maven-release-plugin] prepare release cxf-2.5.4
+Name: cxf Tag: cxf-2.5.5
+Previous HEAD position was ee4f2128a5 [maven-release-plugin] prepare release cxf-2.5.4
+HEAD is now at 86503f8697 [maven-release-plugin] prepare release cxf-2.5.5
+Name: cxf Tag: cxf-2.5.6
+Previous HEAD position was 86503f8697 [maven-release-plugin] prepare release cxf-2.5.5
+HEAD is now at 17857a9756 [maven-release-plugin] prepare release cxf-2.5.6
+Name: cxf Tag: cxf-2.5.7
+Previous HEAD position was 17857a9756 [maven-release-plugin] prepare release cxf-2.5.6
+HEAD is now at 8b63dd636b [maven-release-plugin] prepare release cxf-2.5.7
+Name: cxf Tag: cxf-2.5.8
+Previous HEAD position was 8b63dd636b [maven-release-plugin] prepare release cxf-2.5.7
+HEAD is now at f68d61af63 [maven-release-plugin] prepare release cxf-2.5.8
+Name: cxf Tag: cxf-2.5.9
+Previous HEAD position was f68d61af63 [maven-release-plugin] prepare release cxf-2.5.8
+HEAD is now at ac9f5baba2 [maven-release-plugin] prepare release cxf-2.5.9
+Name: cxf Tag: cxf-2.5.10
+Previous HEAD position was ac9f5baba2 [maven-release-plugin] prepare release cxf-2.5.9
+HEAD is now at 92ffb09886 [maven-release-plugin] prepare release cxf-2.5.10
+Name: cxf Tag: cxf-2.5.11
+Previous HEAD position was 92ffb09886 [maven-release-plugin] prepare release cxf-2.5.10
+HEAD is now at f79d509003 [maven-release-plugin] prepare release cxf-2.5.11
+Name: cxf Tag: cxf-2.6.0
+Previous HEAD position was f79d509003 [maven-release-plugin] prepare release cxf-2.5.11
+HEAD is now at 63f0ec1202 [maven-release-plugin] prepare release cxf-2.6.0
+Name: cxf Tag: cxf-2.6.1
+Previous HEAD position was 63f0ec1202 [maven-release-plugin] prepare release cxf-2.6.0
+HEAD is now at 86bf257372 [maven-release-plugin] prepare release cxf-2.6.1
+Name: cxf Tag: cxf-2.6.2
+Previous HEAD position was 86bf257372 [maven-release-plugin] prepare release cxf-2.6.1
+HEAD is now at f35ddea1be [maven-release-plugin]  copy for tag cxf-2.6.2
+Name: cxf Tag: cxf-2.6.3
+Previous HEAD position was f35ddea1be [maven-release-plugin]  copy for tag cxf-2.6.2
+HEAD is now at 205c5d5fc8 [maven-release-plugin] prepare release cxf-2.6.3
+Name: cxf Tag: cxf-2.6.4
+Previous HEAD position was 205c5d5fc8 [maven-release-plugin] prepare release cxf-2.6.3
+HEAD is now at 937a364e06 [maven-release-plugin] prepare release cxf-2.6.4
+Name: cxf Tag: cxf-2.6.5
+Previous HEAD position was 937a364e06 [maven-release-plugin] prepare release cxf-2.6.4
+HEAD is now at 9c1dd7f6ab [maven-release-plugin] prepare release cxf-2.6.5
+Name: cxf Tag: cxf-2.6.6
+Previous HEAD position was 9c1dd7f6ab [maven-release-plugin] prepare release cxf-2.6.5
+HEAD is now at 8204ac6c6d [maven-release-plugin] prepare release cxf-2.6.6
+Name: cxf Tag: cxf-2.6.7
+Previous HEAD position was 8204ac6c6d [maven-release-plugin] prepare release cxf-2.6.6
+HEAD is now at 9a8a64cc4d [maven-release-plugin] prepare release cxf-2.6.7
+Name: cxf Tag: cxf-2.6.8
+Previous HEAD position was 9a8a64cc4d [maven-release-plugin] prepare release cxf-2.6.7
+HEAD is now at d739bef9b9 [maven-release-plugin] prepare release cxf-2.6.8
+Name: cxf Tag: cxf-2.6.9
+Previous HEAD position was d739bef9b9 [maven-release-plugin] prepare release cxf-2.6.8
+HEAD is now at 8ee663eec3 [maven-release-plugin] prepare release cxf-2.6.9
+Name: hadoop Tag: release-1.0.0
+Previous HEAD position was 62e31b3b5bd Hadoop 1.2.1 release.
+HEAD is now at 029f9aaa5a9 update releasenotes
+Name: hadoop Tag: release-1.0.1
+Previous HEAD position was 029f9aaa5a9 update releasenotes
+HEAD is now at 152363246ed Hadoop 1.0.1 release.
+Name: hadoop Tag: release-1.0.2
+Previous HEAD position was 152363246ed Hadoop 1.0.1 release.
+HEAD is now at aa64c75ab99 Hadoop 1.0.2 release
+Name: hadoop Tag: release-1.0.3
+Previous HEAD position was aa64c75ab99 Hadoop 1.0.2 release
+HEAD is now at 8c4591492eb Hadoop 1.0.3 release.
+Name: hadoop Tag: release-1.0.4
+Previous HEAD position was 8c4591492eb Hadoop 1.0.3 release.
+HEAD is now at f210dc60a87 Moving the 1.0.4rc0 to final tag.
+Name: hadoop Tag: release-1.1.0
+Previous HEAD position was f210dc60a87 Moving the 1.0.4rc0 to final tag.
+HEAD is now at 2ae7a018957 Hadoop 1.1.0 release.
+Name: hadoop Tag: release-1.1.1
+Previous HEAD position was 2ae7a018957 Hadoop 1.1.0 release.
+HEAD is now at 6413474e835 Hadoop 1.1.1 release.
+Name: hadoop Tag: release-1.1.2
+Previous HEAD position was 6413474e835 Hadoop 1.1.1 release.
+HEAD is now at cd129ef9eff Hadoop 1.1.2 release.
+Name: hadoop Tag: release-1.2.0
+Previous HEAD position was cd129ef9eff Hadoop 1.1.2 release.
+HEAD is now at 26e6cfd3195 Hadoop 1.2.0 release.
+Name: hadoop Tag: release-1.2.1
+Previous HEAD position was 26e6cfd3195 Hadoop 1.2.0 release.
+HEAD is now at 62e31b3b5bd Hadoop 1.2.1 release.
+Name: httpd Tag: 2.2.0
+Previous HEAD position was 7650f0ca88 Tag HEAD of 2.4.x as 2.4.6
+HEAD is now at cd3e5a83cd Tag 2.2.0.
+Name: httpd Tag: 2.2.1
+Previous HEAD position was cd3e5a83cd Tag 2.2.0.
+HEAD is now at 75ec0c0a60 Tag httpd 2.2.1 from the 2.2.x branch.
+Name: httpd Tag: 2.2.2
+Previous HEAD position was 75ec0c0a60 Tag httpd 2.2.1 from the 2.2.x branch.
+HEAD is now at 1c7da70e72 Tag the 2.2.2 canidate.
+Name: httpd Tag: 2.2.3
+Previous HEAD position was 1c7da70e72 Tag the 2.2.2 canidate.
+HEAD is now at 43559342e3   Tag 2.2.3
+Name: httpd Tag: 2.2.4
+Previous HEAD position was 43559342e3   Tag 2.2.3
+HEAD is now at 8dfd45d1f6 Tag 2.2.4
+Name: httpd Tag: 2.2.5
+Previous HEAD position was 8dfd45d1f6 Tag 2.2.4
+HEAD is now at f8e7b779f0 Tagged httpd-2.2 and 2.2.5
+Name: httpd Tag: 2.2.6
+Previous HEAD position was f8e7b779f0 Tagged httpd-2.2 and 2.2.5
+HEAD is now at 9e1e5d76b2 Tag httpd-2.2 as 2.2.6
+Name: httpd Tag: 2.2.7
+Previous HEAD position was 9e1e5d76b2 Tag httpd-2.2 as 2.2.6
+HEAD is now at 4d017dee33 Tagging Apache HTTP Server 2.2.7
+Name: httpd Tag: 2.2.8
+Previous HEAD position was 4d017dee33 Tagging Apache HTTP Server 2.2.7
+HEAD is now at 8fa038317b Tag httpd-2.2 as 2.2.8
+Name: httpd Tag: 2.2.9
+Previous HEAD position was 8fa038317b Tag httpd-2.2 as 2.2.8
+HEAD is now at 0cddd3aa87 Tagging httpd-2.2 as 2.2.9
+Name: httpd Tag: 2.2.10
+Previous HEAD position was 0cddd3aa87 Tagging httpd-2.2 as 2.2.9
+HEAD is now at 32d03a287f Tagging httpd-2.2 as 2.2.10
+Name: httpd Tag: 2.2.11
+Previous HEAD position was 32d03a287f Tagging httpd-2.2 as 2.2.10
+HEAD is now at 34ea1cee78 Tagging httpd-2.2 as 2.2.11
+Name: httpd Tag: 2.2.12
+Previous HEAD position was 34ea1cee78 Tagging httpd-2.2 as 2.2.11
+HEAD is now at 810842a1dc Tag 2.2.12
+Name: httpd Tag: 2.2.13
+Previous HEAD position was 810842a1dc Tag 2.2.12
+HEAD is now at 777e5a2547 Tag 2.2.13
+Name: httpd Tag: 2.2.14
+Previous HEAD position was 777e5a2547 Tag 2.2.13
+HEAD is now at 926546a5bb Tag v2.2.14 of httpd.
+Name: httpd Tag: 2.2.15
+Previous HEAD position was 926546a5bb Tag v2.2.14 of httpd.
+HEAD is now at cad4926fd3 Tagging 2.2.15
+Name: httpd Tag: 2.2.16
+Previous HEAD position was cad4926fd3 Tagging 2.2.15
+HEAD is now at f54aa3b08d Tag 2.2.16
+Name: httpd Tag: 2.2.17
+Previous HEAD position was f54aa3b08d Tag 2.2.16
+HEAD is now at 87777f4289 Tag 2.2.17
+Name: httpd Tag: 2.2.18
+Previous HEAD position was 87777f4289 Tag 2.2.17
+HEAD is now at ea2107f62f Tagging 2.2.18
+Name: httpd Tag: 2.2.19
+Previous HEAD position was ea2107f62f Tagging 2.2.18
+HEAD is now at f620429387 Complete tag 2.2.19
+Name: httpd Tag: 2.2.20
+Previous HEAD position was f620429387 Complete tag 2.2.19
+HEAD is now at 79399902e0 Tag branches/2.2.x HEAD as 2.2.20
+Name: httpd Tag: 2.2.21
+Previous HEAD position was 79399902e0 Tag branches/2.2.x HEAD as 2.2.20
+HEAD is now at 3614ebd12d Tag
+Name: httpd Tag: 2.2.22
+Previous HEAD position was 3614ebd12d Tag
+HEAD is now at a5fd1e3e99 Tagging 2.2.22
+Name: httpd Tag: 2.2.23
+Previous HEAD position was a5fd1e3e99 Tagging 2.2.22
+HEAD is now at 647bc6a13a Tag 2.2.23
+Name: httpd Tag: 2.2.24
+Previous HEAD position was 647bc6a13a Tag 2.2.23
+HEAD is now at 803b3cbae0 Tagging 2.2.24
+Name: httpd Tag: 2.2.25
+Previous HEAD position was 803b3cbae0 Tagging 2.2.24
+HEAD is now at 886787685c Tag HEAD of 2.2.x as 2.2.25
+Name: httpd Tag: 2.2.26
+Previous HEAD position was 886787685c Tag HEAD of 2.2.x as 2.2.25
+HEAD is now at 82b0da5c50 Tag HEAD of 2.2.x as 2.2.26
+Name: httpd Tag: 2.2.27
+Previous HEAD position was 82b0da5c50 Tag HEAD of 2.2.x as 2.2.26
+HEAD is now at 7b5870f6ce Tagging 2.2.27
+Name: httpd Tag: 2.2.28
+Previous HEAD position was 7b5870f6ce Tagging 2.2.27
+HEAD is now at a452f9b524 Tagging 2.2.28
+Name: httpd Tag: 2.2.29
+Previous HEAD position was a452f9b524 Tagging 2.2.28
+HEAD is now at cef6805cb1 Tag 2.2.29 with corrected docs/manual/
+Name: httpd Tag: 2.2.30
+Previous HEAD position was cef6805cb1 Tag 2.2.29 with corrected docs/manual/
+HEAD is now at c684028456 Tag 2.2.30
+Name: httpd Tag: 2.2.31
+Previous HEAD position was c684028456 Tag 2.2.30
+HEAD is now at 79f35160c3 Tagging 2.2.31
+Name: httpd Tag: 2.2.32
+Previous HEAD position was 79f35160c3 Tagging 2.2.31
+HEAD is now at 9b121e1575 Tag 2.2.32
+Name: httpd Tag: 2.2.33
+Previous HEAD position was 9b121e1575 Tag 2.2.32
+HEAD is now at 34ae6b5c14 Tag 2.2.33
+Name: httpd Tag: 2.2.34
+Previous HEAD position was 34ae6b5c14 Tag 2.2.33
+HEAD is now at 20f6933912 Tag 2.2.34-final
+Name: httpd Tag: 2.3.0
+Previous HEAD position was 20f6933912 Tag 2.2.34-final
+HEAD is now at ddf7efdbf2 Tag trunk as 2.3.0.
+Name: httpd Tag: 2.3.1
+Previous HEAD position was ddf7efdbf2 Tag trunk as 2.3.0.
+HEAD is now at b7ec0c83f3 Tag 2.3.1 from trunk.
+Name: httpd Tag: 2.3.2
+Previous HEAD position was b7ec0c83f3 Tag 2.3.1 from trunk.
+HEAD is now at 81995281b2 Tag 2.3.2.
+Name: httpd Tag: 2.3.3
+Previous HEAD position was 81995281b2 Tag 2.3.2.
+HEAD is now at b3c9d966e9 create 2.3.3 release tag.
+Name: httpd Tag: 2.3.4
+Previous HEAD position was b3c9d966e9 create 2.3.3 release tag.
+HEAD is now at cd8eb6a130 create 2.3.4 tag
+Name: httpd Tag: 2.3.5
+Previous HEAD position was cd8eb6a130 create 2.3.4 tag
+HEAD is now at da8dbe86bb tag 2.3.5
+Name: httpd Tag: 2.3.6
+Previous HEAD position was da8dbe86bb tag 2.3.5
+HEAD is now at 0472235579 Tag 2.3.6 alpha
+Name: httpd Tag: 2.3.7
+Previous HEAD position was 0472235579 Tag 2.3.6 alpha
+HEAD is now at 993bff3395 Tag 2.3.7
+Name: httpd Tag: 2.3.8
+Previous HEAD position was 993bff3395 Tag 2.3.7
+HEAD is now at f4c8c9dc1f Tag httpd-2.3.8
+Name: httpd Tag: 2.3.9
+Previous HEAD position was f4c8c9dc1f Tag httpd-2.3.8
+HEAD is now at 24fab3e86f Tag trunk as 2.3.9-alpha
+Name: httpd Tag: 2.3.10
+Previous HEAD position was 24fab3e86f Tag trunk as 2.3.9-alpha
+HEAD is now at ebeb2f055c Tagging trunk as 2.3.10 (alpha)
+Name: httpd Tag: 2.3.11
+Previous HEAD position was ebeb2f055c Tagging trunk as 2.3.10 (alpha)
+HEAD is now at 3c9119bcee Tag trunk as 2.3.11
+Name: httpd Tag: 2.3.12
+Previous HEAD position was 3c9119bcee Tag trunk as 2.3.11
+HEAD is now at c40225b490 Tagging trunk as 2.3.12-beta
+Name: httpd Tag: 2.3.13
+Previous HEAD position was c40225b490 Tagging trunk as 2.3.12-beta
+HEAD is now at 81cda8f51b Tag as 2.3.13
+Name: httpd Tag: 2.3.14
+Previous HEAD position was 81cda8f51b Tag as 2.3.13
+HEAD is now at 1b63bd2013 Tagging trunk1152854 as 2.3.14
+Name: httpd Tag: 2.3.15
+Previous HEAD position was 1b63bd2013 Tagging trunk1152854 as 2.3.14
+HEAD is now at 1bd9ea31da Tagging trunk as 2.3.15-dev
+Name: httpd Tag: 2.3.16
+Previous HEAD position was 1bd9ea31da Tagging trunk as 2.3.15-dev
+HEAD is now at 4e31cb2535 Tag 2.3.16
+Name: httpd Tag: 2.4.0
+Previous HEAD position was 4e31cb2535 Tag 2.3.16
+HEAD is now at da5873e80d Tag trunk as Apache httpd 2.4.0
+Name: httpd Tag: 2.4.1
+Previous HEAD position was da5873e80d Tag trunk as Apache httpd 2.4.0
+HEAD is now at 60fa047279 Tag HEAD httpd-2.4.x as 2.4.1
+Name: httpd Tag: 2.4.2
+Previous HEAD position was 60fa047279 Tag HEAD httpd-2.4.x as 2.4.1
+HEAD is now at 67578c0315 Tag head of 2.4.x as 2.4.2
+Name: httpd Tag: 2.4.3
+Previous HEAD position was 67578c0315 Tag head of 2.4.x as 2.4.2
+HEAD is now at 14434f9be6 Tag HEAD of 2.4.x as 2.4.3
+Name: httpd Tag: 2.4.4
+Previous HEAD position was 14434f9be6 Tag HEAD of 2.4.x as 2.4.3
+HEAD is now at 408b0bd760 Tag 2.4.x trunk as 2.4.4
+Name: httpd Tag: 2.4.5
+Previous HEAD position was 408b0bd760 Tag 2.4.x trunk as 2.4.4
+HEAD is now at 377b588af7 Tag 2.4.5
+Name: httpd Tag: 2.4.6
+Previous HEAD position was 377b588af7 Tag 2.4.5
+HEAD is now at 7650f0ca88 Tag HEAD of 2.4.x as 2.4.6
+Name: mahout Tag: mahout-0.3
+Previous HEAD position was a41d378df [maven-release-plugin]  copy for tag mahout-0.9
+HEAD is now at f73d4002a mahout goes tlp;
+Name: mahout Tag: mahout-0.4
+Previous HEAD position was f73d4002a mahout goes tlp;
+HEAD is now at ce337a9c2 [maven-release-plugin]  copy for tag mahout-0.4
+Name: mahout Tag: mahout-0.5
+Previous HEAD position was ce337a9c2 [maven-release-plugin]  copy for tag mahout-0.4
+HEAD is now at e597fcdb0 [maven-release-plugin]  copy for tag mahout-0.5
+Name: mahout Tag: mahout-0.6
+Previous HEAD position was e597fcdb0 [maven-release-plugin]  copy for tag mahout-0.5
+HEAD is now at 17a286d04 [maven-release-plugin]  copy for tag mahout-0.6
+Name: mahout Tag: mahout-0.7
+Previous HEAD position was 17a286d04 [maven-release-plugin]  copy for tag mahout-0.6
+HEAD is now at 9d847e035 [maven-release-plugin]  copy for tag mahout-0.7
+Name: mahout Tag: mahout-0.8
+Previous HEAD position was 9d847e035 [maven-release-plugin]  copy for tag mahout-0.7
+HEAD is now at 865730020 [maven-release-plugin]  copy for tag mahout-0.8
+Name: mahout Tag: mahout-0.9
+Previous HEAD position was 865730020 [maven-release-plugin]  copy for tag mahout-0.8
+HEAD is now at a41d378df [maven-release-plugin]  copy for tag mahout-0.9
+Name: openjpa Tag: 1.2.0
+Previous HEAD position was d0a60af74 [maven-release-plugin]  copy for tag 2.2.2
+HEAD is now at df585211b A    https://svn.apache.org/repos/asf/openjpa/tags/1.2.0
+Name: openjpa Tag: 1.2.1
+Previous HEAD position was df585211b A    https://svn.apache.org/repos/asf/openjpa/tags/1.2.0
+HEAD is now at 26dbc3943 remove extra dir
+Name: openjpa Tag: 1.2.2
+Previous HEAD position was 26dbc3943 remove extra dir
+HEAD is now at 9d34ef9df Copy for tag 1.2.2
+Name: openjpa Tag: 1.2.3
+Previous HEAD position was 9d34ef9df Copy for tag 1.2.2
+HEAD is now at ccfa50d3f [maven-scm] copy for tag 1.2.3
+Name: openjpa Tag: 2.0.0
+Previous HEAD position was ccfa50d3f [maven-scm] copy for tag 1.2.3
+HEAD is now at 3c6051729 [maven-release-plugin]  copy for tag 2.0.0
+Name: openjpa Tag: 2.0.1
+Previous HEAD position was 3c6051729 [maven-release-plugin]  copy for tag 2.0.0
+HEAD is now at 805f554ba [maven-scm] copy for tag 2.0.1
+Name: openjpa Tag: 2.1.0
+Previous HEAD position was 805f554ba [maven-scm] copy for tag 2.0.1
+HEAD is now at 631dd1f8f [maven-release-plugin]  copy for tag 2.1.0
+Name: openjpa Tag: 2.1.1
+Previous HEAD position was 631dd1f8f [maven-release-plugin]  copy for tag 2.1.0
+HEAD is now at 226664825 [maven-release-plugin]  copy for tag 2.1.1
+Name: openjpa Tag: 2.2.0
+Previous HEAD position was 226664825 [maven-release-plugin]  copy for tag 2.1.1
+HEAD is now at 56bea9f63 [maven-release-plugin]  copy for tag 2.2.0
+Name: openjpa Tag: 2.2.1
+Previous HEAD position was 56bea9f63 [maven-release-plugin]  copy for tag 2.2.0
+HEAD is now at bbad3236c [maven-release-plugin] prepare release 2.2.1.x
+Name: openjpa Tag: 2.2.2
+Previous HEAD position was bbad3236c [maven-release-plugin] prepare release 2.2.1.x
+HEAD is now at d0a60af74 [maven-release-plugin]  copy for tag 2.2.2
+Name: pdfbox Tag: 1.7.0
+Previous HEAD position was 48ba8b28b readded accidentically deleted tags
+HEAD is now at 556ae1aae readded accidentically deleted tags
+Name: pdfbox Tag: 1.7.1
+Previous HEAD position was 556ae1aae readded accidentically deleted tags
+HEAD is now at 52e12df5c readded accidentically deleted tags
+Name: pdfbox Tag: 1.8.0
+Previous HEAD position was 52e12df5c readded accidentically deleted tags
+HEAD is now at cc7eeb214 readded accidentically deleted tags
+Name: pdfbox Tag: 1.8.1
+Previous HEAD position was cc7eeb214 readded accidentically deleted tags
+HEAD is now at df408e9a2 readded accidentically deleted tags
+Name: pdfbox Tag: 1.8.2
+Previous HEAD position was df408e9a2 readded accidentically deleted tags
+HEAD is now at 2b8d37ebb readded accidentically deleted tags
+Name: pdfbox Tag: 1.8.3
+Previous HEAD position was 2b8d37ebb readded accidentically deleted tags
+HEAD is now at 2a29f8e55 readded accidentically deleted tags
+Name: pdfbox Tag: 1.8.4
+Previous HEAD position was 2a29f8e55 readded accidentically deleted tags
+HEAD is now at 32e458545 readded accidentically deleted tags
+Name: pdfbox Tag: 1.8.5
+Previous HEAD position was 32e458545 readded accidentically deleted tags
+HEAD is now at 6e177c78b readded accidentically deleted tags
+Name: pdfbox Tag: 1.8.6
+Previous HEAD position was 6e177c78b readded accidentically deleted tags
+HEAD is now at 98aa3f2e3 readded accidentically deleted tags
+Name: pdfbox Tag: 1.8.7
+Previous HEAD position was 98aa3f2e3 readded accidentically deleted tags
+HEAD is now at 48ba8b28b readded accidentically deleted tags
+Name: pig Tag: release-0.6.0
+Previous HEAD position was d7deb83ae Pig 0.9.1 release.
+HEAD is now at d977549f0 Moving Pig code from Hadoop to Pig.
+Name: pig Tag: release-0.7.0
+Previous HEAD position was d977549f0 Moving Pig code from Hadoop to Pig.
+HEAD is now at 47f45b924 Moving Pig code from Hadoop to Pig.
+Name: pig Tag: release-0.8.0
+Previous HEAD position was 47f45b924 Moving Pig code from Hadoop to Pig.
+HEAD is now at 254448fc4 Pig 0.8.0 release
+Name: pig Tag: release-0.8.1
+Previous HEAD position was 254448fc4 Pig 0.8.0 release
+HEAD is now at 25a34155d Pig 0.8.1 release.
+Name: pig Tag: release-0.9.0
+Previous HEAD position was 25a34155d Pig 0.8.1 release.
+HEAD is now at 605fda53a Pig 0.9.0 release.
+Name: pig Tag: release-0.9.1
+Previous HEAD position was 605fda53a Pig 0.9.0 release.
+HEAD is now at d7deb83ae Pig 0.9.1 release.
+Name: tika Tag: 1.0
+Previous HEAD position was f9003a1fe Rename the 1.7-rc3 tag to 1.7.
+HEAD is now at 6d7139b7f [maven-release-plugin]  copy for tag 1.0
+Name: tika Tag: 1.1
+Previous HEAD position was 6d7139b7f [maven-release-plugin]  copy for tag 1.0
+HEAD is now at 0f8a1292c [maven-release-plugin]  copy for tag 1.1
+Name: tika Tag: 1.2
+Previous HEAD position was 0f8a1292c [maven-release-plugin]  copy for tag 1.1
+HEAD is now at de47325be [maven-release-plugin]  copy for tag 1.2
+Name: tika Tag: 1.3
+Previous HEAD position was de47325be [maven-release-plugin]  copy for tag 1.2
+HEAD is now at f0027f534 Make consistent with other tags.
+Name: tika Tag: 1.4
+Previous HEAD position was f0027f534 Make consistent with other tags.
+HEAD is now at 540d4166a [maven-release-plugin]  copy for tag 1.4
+Name: tika Tag: 1.5
+Previous HEAD position was 540d4166a [maven-release-plugin]  copy for tag 1.4
+HEAD is now at a79ed8f00 Tika 1.5 release
+Name: tika Tag: 1.6
+Previous HEAD position was a79ed8f00 Tika 1.5 release
+HEAD is now at 5ee61497d TIKA-1381 - Added Lingo24Translator implementation
+Name: tika Tag: 1.7
+Previous HEAD position was 5ee61497d TIKA-1381 - Added Lingo24Translator implementation
+HEAD is now at f9003a1fe Rename the 1.7-rc3 tag to 1.7.
+Name: wicket Tag: wicket-1.3.0
+Previous HEAD position was 04a9c31b92 changes to notice files
+HEAD is now at b64c1c4d77 Release Wicket 1.3.0 final
+Name: wicket Tag: wicket-1.3.1
+Previous HEAD position was b64c1c4d77 Release Wicket 1.3.0 final
+HEAD is now at a8961cd178 Releasing Apache Wicket 1.3.1
+Name: wicket Tag: wicket-1.3.2
+Previous HEAD position was a8961cd178 Releasing Apache Wicket 1.3.1
+HEAD is now at f3d36de3cb Releasing Apache Wicket 1.3.2
+Name: wicket Tag: wicket-1.3.3
+Previous HEAD position was f3d36de3cb Releasing Apache Wicket 1.3.2
+HEAD is now at 72b40d6151 Releasing Apache Wicket 1.3.3
+Name: wicket Tag: wicket-1.3.4
+Previous HEAD position was 72b40d6151 Releasing Apache Wicket 1.3.3
+HEAD is now at 8cae4b62b3 preparing for 1.3.4
+Name: wicket Tag: wicket-1.3.5
+Previous HEAD position was 8cae4b62b3 preparing for 1.3.4
+HEAD is now at 19b98358de Preparing release 1.3.5
+Name: wicket Tag: wicket-1.3.6
+Previous HEAD position was 19b98358de Preparing release 1.3.5
+HEAD is now at bdd8495bfe tagging release
+Name: wicket Tag: wicket-1.3.7
+Previous HEAD position was bdd8495bfe tagging release
+HEAD is now at 199ab261ac Release 1.3.7
+Name: wicket Tag: wicket-1.4.0
+Previous HEAD position was 199ab261ac Release 1.3.7
+HEAD is now at cc87bf35b3 Release 1.4.0
+Name: wicket Tag: wicket-1.4.2
+Previous HEAD position was cc87bf35b3 Release 1.4.0
+HEAD is now at 2fa7874e0d fix changelog
+Name: wicket Tag: wicket-1.4.3
+Previous HEAD position was 2fa7874e0d fix changelog
+HEAD is now at 765a069aaa release meta
+Name: wicket Tag: wicket-1.4.4
+Previous HEAD position was 765a069aaa release meta
+HEAD is now at 48e0f158f0 backport: remove java 6 method commit
+Name: wicket Tag: wicket-1.4.5
+Previous HEAD position was 48e0f158f0 backport: remove java 6 method commit
+HEAD is now at 457700959c 1.5.5 setup
+Name: wicket Tag: wicket-1.4.6
+Previous HEAD position was 457700959c 1.5.5 setup
+HEAD is now at 62769040a5 changelog and other release stuff
+Name: wicket Tag: wicket-1.4.7
+Previous HEAD position was 62769040a5 changelog and other release stuff
+HEAD is now at b56bd8c806 release setup
+Name: wicket Tag: wicket-1.4.8
+Previous HEAD position was b56bd8c806 release setup
+HEAD is now at 30f841d918 release notes and ver
+Name: wicket Tag: wicket-1.4.9
+Previous HEAD position was 30f841d918 release notes and ver
+HEAD is now at fa4312bd88 i think this should have been in branches rather than releases - then i would tag into releases
+Name: wicket Tag: wicket-1.4.10
+Previous HEAD position was fa4312bd88 i think this should have been in branches rather than releases - then i would tag into releases
+HEAD is now at 6c928243f9 java 5 compilation fixes
+Name: wicket Tag: wicket-1.4.11
+Previous HEAD position was 6c928243f9 java 5 compilation fixes
+HEAD is now at 5221088b9c fix test
+Name: wicket Tag: wicket-1.4.12
+Previous HEAD position was 5221088b9c fix test
+HEAD is now at 0cd7929955 modified poms
+Name: wicket Tag: wicket-1.4.13
+Previous HEAD position was 0cd7929955 modified poms
+HEAD is now at 04d07b05c5 modify poms for 1.4.13 release
+Name: wicket Tag: wicket-1.4.14
+Previous HEAD position was 04d07b05c5 modify poms for 1.4.13 release
+HEAD is now at ab4e91d1b3 add gpg passphrase verification so that we fail-fast if i fat-finger my extremely long and complex gpg passphrase
+Name: wicket Tag: wicket-1.4.15
+Previous HEAD position was ab4e91d1b3 add gpg passphrase verification so that we fail-fast if i fat-finger my extremely long and complex gpg passphrase
+HEAD is now at e3d7f90067 preparing for 1.4.15 release
+Name: wicket Tag: wicket-1.4.16
+Previous HEAD position was e3d7f90067 preparing for 1.4.15 release
+HEAD is now at cdb8aac85a modified poms for release 1.4.16
+Name: wicket Tag: wicket-1.4.17
+Previous HEAD position was cdb8aac85a modified poms for release 1.4.16
+HEAD is now at adc47b3746 modified poms for release 1.4.17
+Name: wicket Tag: wicket-1.4.18
+Previous HEAD position was adc47b3746 modified poms for release 1.4.17
+HEAD is now at 125279c276 update NOTICE in release branch
+Name: wicket Tag: wicket-1.4.19
+Previous HEAD position was 125279c276 update NOTICE in release branch
+HEAD is now at 8032dcbe96 modified poms for release 1.4.19
+Name: wicket Tag: wicket-1.4.20
+Previous HEAD position was 8032dcbe96 modified poms for release 1.4.19
+HEAD is now at 405dbf7533 changes to notice files
+Name: wicket Tag: wicket-1.5.0
+Previous HEAD position was 405dbf7533 changes to notice files
+HEAD is now at 97057594f6 modified poms for release 1.5.0
+Name: wicket Tag: wicket-1.5.1
+Previous HEAD position was 97057594f6 modified poms for release 1.5.0
+HEAD is now at f00ffe6de5 modified poms for release 1.5.1
+Name: wicket Tag: wicket-1.5.2
+Previous HEAD position was f00ffe6de5 modified poms for release 1.5.1
+HEAD is now at dfaf3c942a modified poms for release 1.5.2
+Name: wicket Tag: wicket-1.5.3
+Previous HEAD position was dfaf3c942a modified poms for release 1.5.2
+HEAD is now at 78703ca21c modified poms for release 1.5.3
+Name: wicket Tag: wicket-1.5.4
+Previous HEAD position was 78703ca21c modified poms for release 1.5.3
+HEAD is now at c39d0b3711 changes to notice files
+Name: wicket Tag: wicket-1.5.5
+Previous HEAD position was c39d0b3711 changes to notice files
+HEAD is now at db3e8474c5 changes to notice files
+Name: wicket Tag: wicket-1.5.6
+Previous HEAD position was db3e8474c5 changes to notice files
+HEAD is now at 04a9c31b92 changes to notice files

@@ -1,0 +1,1289 @@
+nohup: ignoring input
+Name: avro Tag1: release-1.4.0 Tag2: release-1.4.1
+commit_overlap_ratio  1.225
+commit_fileset_overlap_ratio 1.0
+pairwise_committer_overlap 0
+Name: avro Tag1: release-1.4.1 Tag2: release-1.5.0
+commit_overlap_ratio  1.5138211382113822
+commit_fileset_overlap_ratio 1.186178861788618
+pairwise_committer_overlap 0.25373714058041685
+Name: avro Tag1: release-1.5.0 Tag2: release-1.5.1
+commit_overlap_ratio  2.282758620689655
+commit_fileset_overlap_ratio 1.0
+pairwise_committer_overlap 0
+Name: avro Tag1: release-1.5.1 Tag2: release-1.5.2
+commit_overlap_ratio  1.4857142857142858
+commit_fileset_overlap_ratio 1.0142857142857142
+pairwise_committer_overlap 0.014285714285714285
+Name: avro Tag1: release-1.5.2 Tag2: release-1.5.3
+commit_overlap_ratio  1.7083333333333333
+commit_fileset_overlap_ratio 1.0
+pairwise_committer_overlap 0
+Name: avro Tag1: release-1.5.3 Tag2: release-1.5.4
+commit_overlap_ratio  1.1176470588235294
+commit_fileset_overlap_ratio 1.0
+pairwise_committer_overlap 0
+Name: avro Tag1: release-1.5.4 Tag2: release-1.6.0
+commit_overlap_ratio  1.6620947630922693
+commit_fileset_overlap_ratio 1.0635910224438903
+pairwise_committer_overlap 0.14049265492223673
+Name: avro Tag1: release-1.6.0 Tag2: release-1.6.1
+commit_overlap_ratio  1.5555555555555556
+commit_fileset_overlap_ratio 1.0
+pairwise_committer_overlap 0
+Name: avro Tag1: release-1.6.1 Tag2: release-1.6.2
+commit_overlap_ratio  1.7554347826086956
+commit_fileset_overlap_ratio 1.1304347826086956
+pairwise_committer_overlap 0.15470774458126177
+Name: avro Tag1: release-1.6.2 Tag2: release-1.6.3
+commit_overlap_ratio  1.7647058823529411
+commit_fileset_overlap_ratio 1.0588235294117647
+pairwise_committer_overlap 0.11250971250971252
+Name: avro Tag1: release-1.6.3 Tag2: release-1.7.0
+commit_overlap_ratio  1.5065502183406114
+commit_fileset_overlap_ratio 1.0480349344978166
+pairwise_committer_overlap 0.060178769760603136
+Name: avro Tag1: release-1.7.0 Tag2: release-1.7.1
+commit_overlap_ratio  1.5394736842105263
+commit_fileset_overlap_ratio 1.0263157894736843
+pairwise_committer_overlap 0.0793854033290653
+Name: avro Tag1: release-1.7.1 Tag2: release-1.7.2
+commit_overlap_ratio  1.542857142857143
+commit_fileset_overlap_ratio 1.0357142857142858
+pairwise_committer_overlap 0.10670504770217827
+Name: avro Tag1: release-1.7.2 Tag2: release-1.7.3
+commit_overlap_ratio  1.7102803738317758
+commit_fileset_overlap_ratio 1.0934579439252337
+pairwise_committer_overlap 0.15853867732660074
+Name: avro Tag1: release-1.7.3 Tag2: release-1.7.4
+commit_overlap_ratio  1.4525547445255473
+commit_fileset_overlap_ratio 1.0218978102189782
+pairwise_committer_overlap 0.05330008091093876
+Name: avro Tag1: release-1.7.4 Tag2: release-1.7.5
+commit_overlap_ratio  1.655813953488372
+commit_fileset_overlap_ratio 1.1162790697674418
+pairwise_committer_overlap 0.3705265426373292
+Name: avro Tag1: release-1.7.5 Tag2: release-1.7.6
+commit_overlap_ratio  1.416949152542373
+commit_fileset_overlap_ratio 1.023728813559322
+pairwise_committer_overlap 0.07267764564882219
+Name: camel Tag1: camel-2.2.0 Tag2: camel-2.3.0
+commit_overlap_ratio  2.1000413393964448
+commit_fileset_overlap_ratio 1.1719718892104176
+pairwise_committer_overlap 0.10278324053522701
+Name: camel Tag1: camel-2.3.0 Tag2: camel-2.4.0
+commit_overlap_ratio  1.7635228848821083
+commit_fileset_overlap_ratio 1.1768377253814146
+pairwise_committer_overlap 0.08372512992805511
+Name: camel Tag1: camel-2.4.0 Tag2: camel-2.5.0
+commit_overlap_ratio  1.1965241742854789
+commit_fileset_overlap_ratio 1.0496664195700518
+pairwise_committer_overlap 0.051954546969876426
+Name: camel Tag1: camel-2.5.0 Tag2: camel-2.6.0
+commit_overlap_ratio  1.7652081109925293
+commit_fileset_overlap_ratio 1.1750266808964782
+pairwise_committer_overlap 0.13409252363841995
+Name: camel Tag1: camel-2.6.0 Tag2: camel-2.7.0
+commit_overlap_ratio  1.1930404217926187
+commit_fileset_overlap_ratio 1.036414762741652
+pairwise_committer_overlap 0.0449622392570895
+Name: camel Tag1: camel-2.7.0 Tag2: camel-2.7.1
+commit_overlap_ratio  1.9942196531791907
+commit_fileset_overlap_ratio 1.0
+pairwise_committer_overlap 0
+Name: camel Tag1: camel-2.7.1 Tag2: camel-2.7.2
+commit_overlap_ratio  1.9885714285714287
+commit_fileset_overlap_ratio 1.0
+pairwise_committer_overlap 0
+Name: camel Tag1: camel-2.7.2 Tag2: camel-2.7.3
+commit_overlap_ratio  1.5580808080808082
+commit_fileset_overlap_ratio 1.4217171717171717
+pairwise_committer_overlap 0.17423251872880088
+Name: camel Tag1: camel-2.7.3 Tag2: camel-2.7.4
+commit_overlap_ratio  3.6842105263157894
+commit_fileset_overlap_ratio 1.0578947368421052
+pairwise_committer_overlap 0.11317374789656696
+Name: camel Tag1: camel-2.7.4 Tag2: camel-2.7.5
+commit_overlap_ratio  1.071815051647811
+commit_fileset_overlap_ratio 1.0175110673880965
+pairwise_committer_overlap 0.0591672499082344
+Name: camel Tag1: camel-2.7.5 Tag2: camel-2.8.0
+commit_overlap_ratio  1.240187198067633
+commit_fileset_overlap_ratio 1.0647644927536233
+pairwise_committer_overlap 0.14446928598572678
+Name: camel Tag1: camel-2.8.0 Tag2: camel-2.8.1
+commit_overlap_ratio  2.87
+commit_fileset_overlap_ratio 1.6566666666666667
+pairwise_committer_overlap 0.3770881966807608
+Name: camel Tag1: camel-2.8.1 Tag2: camel-2.8.2
+commit_overlap_ratio  1.7718120805369129
+commit_fileset_overlap_ratio 1.3657718120805369
+pairwise_committer_overlap 0.6609253448090256
+Name: camel Tag1: camel-2.8.2 Tag2: camel-2.8.3
+commit_overlap_ratio  1.0713896457765668
+commit_fileset_overlap_ratio 1.0186194368755677
+pairwise_committer_overlap 0.28447383504444695
+Name: camel Tag1: camel-2.8.3 Tag2: camel-2.8.4
+commit_overlap_ratio  1.5390505359877489
+commit_fileset_overlap_ratio 1.3950995405819295
+pairwise_committer_overlap 0.30652446466259287
+Name: camel Tag1: camel-2.8.4 Tag2: camel-2.8.5
+commit_overlap_ratio  1.669291338582677
+commit_fileset_overlap_ratio 1.068241469816273
+pairwise_committer_overlap 0.12194281087078504
+Name: camel Tag1: camel-2.8.5 Tag2: camel-2.8.6
+commit_overlap_ratio  1.8285714285714285
+commit_fileset_overlap_ratio 1.7877551020408162
+pairwise_committer_overlap 0.21594149850763128
+Name: camel Tag1: camel-2.8.6 Tag2: camel-2.9.0
+commit_overlap_ratio  1.4271168274383708
+commit_fileset_overlap_ratio 1.0919078242229368
+pairwise_committer_overlap 0.21087640316271902
+Name: camel Tag1: camel-2.9.0 Tag2: camel-2.9.1
+commit_overlap_ratio  2.2201963534361853
+commit_fileset_overlap_ratio 1.4375876577840112
+pairwise_committer_overlap 0.24256182252379208
+Name: camel Tag1: camel-2.9.1 Tag2: camel-2.9.2
+commit_overlap_ratio  1.6558891454965359
+commit_fileset_overlap_ratio 1.0369515011547343
+pairwise_committer_overlap 0.12339818904231957
+Name: camel Tag1: camel-2.9.2 Tag2: camel-2.9.3
+commit_overlap_ratio  1.5091383812010444
+commit_fileset_overlap_ratio 1.3054830287206267
+pairwise_committer_overlap 0.21538048734731116
+Name: camel Tag1: camel-2.9.3 Tag2: camel-2.9.4
+commit_overlap_ratio  1.596306068601583
+commit_fileset_overlap_ratio 1.525065963060686
+pairwise_committer_overlap 0.26539710465630306
+Name: camel Tag1: camel-2.9.4 Tag2: camel-2.9.5
+commit_overlap_ratio  1.6886792452830188
+commit_fileset_overlap_ratio 1.0314465408805031
+pairwise_committer_overlap 0.01913692160147723
+Name: camel Tag1: camel-2.9.5 Tag2: camel-2.9.6
+commit_overlap_ratio  1.6683804627249357
+commit_fileset_overlap_ratio 1.0848329048843188
+pairwise_committer_overlap 0.11436793918790965
+Name: camel Tag1: camel-2.9.6 Tag2: camel-2.9.7
+commit_overlap_ratio  1.775
+commit_fileset_overlap_ratio 1.7541666666666667
+pairwise_committer_overlap 0.32466367713004485
+Name: camel Tag1: camel-2.9.7 Tag2: camel-2.9.8
+commit_overlap_ratio  1.92964824120603
+commit_fileset_overlap_ratio 1.0
+pairwise_committer_overlap 0.0
+Name: cassandra Tag1: cassandra-0.7.1 Tag2: cassandra-0.7.2
+commit_overlap_ratio  1.9
+commit_fileset_overlap_ratio 1.05
+pairwise_committer_overlap 0.034210526315789476
+Name: cassandra Tag1: cassandra-0.7.2 Tag2: cassandra-0.7.3
+commit_overlap_ratio  2.256880733944954
+commit_fileset_overlap_ratio 1.2201834862385321
+pairwise_committer_overlap 0.1546428712957526
+Name: cassandra Tag1: cassandra-0.7.3 Tag2: cassandra-0.7.4
+commit_overlap_ratio  2.4583333333333335
+commit_fileset_overlap_ratio 1.4375
+pairwise_committer_overlap 0.2788144744376142
+Name: cassandra Tag1: cassandra-0.7.4 Tag2: cassandra-0.7.5
+commit_overlap_ratio  1.8580645161290323
+commit_fileset_overlap_ratio 1.2129032258064516
+pairwise_committer_overlap 0.31641890912912873
+Name: cassandra Tag1: cassandra-0.7.5 Tag2: cassandra-0.7.6
+commit_overlap_ratio  2.019607843137255
+commit_fileset_overlap_ratio 1.1176470588235294
+pairwise_committer_overlap 0.10841638981173865
+Name: cassandra Tag1: cassandra-0.7.6 Tag2: cassandra-0.7.7
+commit_overlap_ratio  1.88135593220339
+commit_fileset_overlap_ratio 1.1694915254237288
+pairwise_committer_overlap 0.1149425287356322
+Name: cassandra Tag1: cassandra-0.7.7 Tag2: cassandra-0.7.8
+commit_overlap_ratio  1.5333333333333334
+commit_fileset_overlap_ratio 1.2
+pairwise_committer_overlap 0.16666666666666666
+Name: cassandra Tag1: cassandra-0.7.8 Tag2: cassandra-0.7.9
+commit_overlap_ratio  2.0714285714285716
+commit_fileset_overlap_ratio 1.4285714285714286
+pairwise_committer_overlap 0.5259018759018759
+Name: cassandra Tag1: cassandra-0.7.9 Tag2: cassandra-0.7.10
+commit_overlap_ratio  1.5
+commit_fileset_overlap_ratio 1.125
+pairwise_committer_overlap 0.09523809523809523
+Name: cassandra Tag1: cassandra-0.7.10 Tag2: cassandra-0.8.0
+commit_overlap_ratio  3.827027027027027
+commit_fileset_overlap_ratio 1.8162162162162163
+pairwise_committer_overlap 0.7435510954231753
+Name: cassandra Tag1: cassandra-0.8.0 Tag2: cassandra-0.8.1
+commit_overlap_ratio  2.4905149051490514
+commit_fileset_overlap_ratio 1.4308943089430894
+pairwise_committer_overlap 0.3683814776743698
+Name: cassandra Tag1: cassandra-0.8.1 Tag2: cassandra-0.8.2
+commit_overlap_ratio  2.5353535353535355
+commit_fileset_overlap_ratio 1.2424242424242424
+pairwise_committer_overlap 0.21046929900315017
+Name: cassandra Tag1: cassandra-0.8.2 Tag2: cassandra-0.8.3
+commit_overlap_ratio  1.7692307692307692
+commit_fileset_overlap_ratio 1.2769230769230768
+pairwise_committer_overlap 0.2687498382116655
+Name: cassandra Tag1: cassandra-0.8.3 Tag2: cassandra-0.8.4
+commit_overlap_ratio  1.326086956521739
+commit_fileset_overlap_ratio 1.108695652173913
+pairwise_committer_overlap 0.12786324786324788
+Name: cassandra Tag1: cassandra-0.8.4 Tag2: cassandra-0.8.5
+commit_overlap_ratio  2.1944444444444446
+commit_fileset_overlap_ratio 1.3194444444444444
+pairwise_committer_overlap 0.41040413861805575
+Name: cassandra Tag1: cassandra-0.8.5 Tag2: cassandra-0.8.6
+commit_overlap_ratio  1.5254237288135593
+commit_fileset_overlap_ratio 1.1864406779661016
+pairwise_committer_overlap 0.32548969942586964
+Name: cassandra Tag1: cassandra-0.8.6 Tag2: cassandra-0.8.7
+commit_overlap_ratio  1.7435897435897436
+commit_fileset_overlap_ratio 1.1538461538461537
+pairwise_committer_overlap 0.1752510234863176
+Name: cassandra Tag1: cassandra-0.8.7 Tag2: cassandra-0.8.8
+commit_overlap_ratio  2.2794117647058822
+commit_fileset_overlap_ratio 1.2941176470588236
+pairwise_committer_overlap 0.33957236122753365
+Name: cassandra Tag1: cassandra-0.8.8 Tag2: cassandra-0.8.9
+commit_overlap_ratio  2.230769230769231
+commit_fileset_overlap_ratio 1.1538461538461537
+pairwise_committer_overlap 0.22857142857142856
+Name: cassandra Tag1: cassandra-0.8.9 Tag2: cassandra-0.8.10
+commit_overlap_ratio  1.4444444444444444
+commit_fileset_overlap_ratio 1.2222222222222223
+pairwise_committer_overlap 0.4557720057720058
+Name: cassandra Tag1: cassandra-0.8.10 Tag2: cassandra-1.0.0
+commit_overlap_ratio  3.935185185185185
+commit_fileset_overlap_ratio 1.8117283950617284
+pairwise_committer_overlap 0.5689656213335984
+Name: cassandra Tag1: cassandra-1.0.0 Tag2: cassandra-1.0.1
+commit_overlap_ratio  1.8835978835978835
+commit_fileset_overlap_ratio 1.2804232804232805
+pairwise_committer_overlap 0.2969647788686352
+Name: cassandra Tag1: cassandra-1.0.1 Tag2: cassandra-1.0.2
+commit_overlap_ratio  1.5961538461538463
+commit_fileset_overlap_ratio 1.1730769230769231
+pairwise_committer_overlap 0.17338177691613876
+Name: cassandra Tag1: cassandra-1.0.2 Tag2: cassandra-1.0.3
+commit_overlap_ratio  2.058139534883721
+commit_fileset_overlap_ratio 1.3488372093023255
+pairwise_committer_overlap 0.3905962311299314
+Name: cassandra Tag1: cassandra-1.0.3 Tag2: cassandra-1.0.4
+commit_overlap_ratio  1.6181818181818182
+commit_fileset_overlap_ratio 1.1454545454545455
+pairwise_committer_overlap 0.1358776844070962
+Name: cassandra Tag1: cassandra-1.0.4 Tag2: cassandra-1.0.5
+commit_overlap_ratio  1.1111111111111112
+commit_fileset_overlap_ratio 1.0
+pairwise_committer_overlap 0
+Name: cassandra Tag1: cassandra-1.0.5 Tag2: cassandra-1.0.6
+commit_overlap_ratio  1.878787878787879
+commit_fileset_overlap_ratio 1.3535353535353536
+pairwise_committer_overlap 0.29908493404823455
+Name: cassandra Tag1: cassandra-1.0.6 Tag2: cassandra-1.0.7
+commit_overlap_ratio  4.109730848861283
+commit_fileset_overlap_ratio 1.6542443064182195
+pairwise_committer_overlap 0.5985081718231599
+Name: cassandra Tag1: cassandra-1.0.7 Tag2: cassandra-1.0.8
+commit_overlap_ratio  2.246376811594203
+commit_fileset_overlap_ratio 1.3478260869565217
+pairwise_committer_overlap 0.40054419464075797
+Name: cassandra Tag1: cassandra-1.0.8 Tag2: cassandra-1.0.9
+commit_overlap_ratio  1.5975609756097562
+commit_fileset_overlap_ratio 1.1097560975609757
+pairwise_committer_overlap 0.1478764519070024
+Name: cassandra Tag1: cassandra-1.0.9 Tag2: cassandra-1.0.10
+commit_overlap_ratio  1.9024390243902438
+commit_fileset_overlap_ratio 1.3414634146341464
+pairwise_committer_overlap 0.4170051292896121
+Name: cassandra Tag1: cassandra-1.0.10 Tag2: cassandra-1.0.11
+commit_overlap_ratio  1.6216216216216217
+commit_fileset_overlap_ratio 1.2432432432432432
+pairwise_committer_overlap 0.5080717773552802
+Name: cassandra Tag1: cassandra-1.0.11 Tag2: cassandra-1.0.12
+commit_overlap_ratio  1.9
+commit_fileset_overlap_ratio 1.2
+pairwise_committer_overlap 0.15555555555555556
+Name: cassandra Tag1: cassandra-1.0.12 Tag2: cassandra-1.1.0
+commit_overlap_ratio  2.988235294117647
+commit_fileset_overlap_ratio 1.7694117647058825
+pairwise_committer_overlap 0.7175368416446178
+Name: cassandra Tag1: cassandra-1.1.0 Tag2: cassandra-1.1.1
+commit_overlap_ratio  2.802325581395349
+commit_fileset_overlap_ratio 1.562015503875969
+pairwise_committer_overlap 0.47438096374548944
+Name: cassandra Tag1: cassandra-1.1.1 Tag2: cassandra-1.1.2
+commit_overlap_ratio  1.7878787878787878
+commit_fileset_overlap_ratio 1.2575757575757576
+pairwise_committer_overlap 0.30977314411071216
+Name: cassandra Tag1: cassandra-1.1.2 Tag2: cassandra-1.1.3
+commit_overlap_ratio  1.711340206185567
+commit_fileset_overlap_ratio 1.1546391752577319
+pairwise_committer_overlap 0.1508564490097591
+Name: cassandra Tag1: cassandra-1.1.3 Tag2: cassandra-1.1.4
+commit_overlap_ratio  2.0
+commit_fileset_overlap_ratio 1.3
+pairwise_committer_overlap 0.34074074074074073
+Name: cassandra Tag1: cassandra-1.1.4 Tag2: cassandra-1.1.5
+commit_overlap_ratio  1.5
+commit_fileset_overlap_ratio 1.1296296296296295
+pairwise_committer_overlap 0.10132109270040304
+Name: cassandra Tag1: cassandra-1.1.5 Tag2: cassandra-1.1.6
+commit_overlap_ratio  2.147727272727273
+commit_fileset_overlap_ratio 1.4772727272727273
+pairwise_committer_overlap 0.3966906768752051
+Name: cassandra Tag1: cassandra-1.1.6 Tag2: cassandra-1.1.7
+commit_overlap_ratio  1.6585365853658536
+commit_fileset_overlap_ratio 1.2317073170731707
+pairwise_committer_overlap 0.2539817724354582
+Name: cassandra Tag1: cassandra-1.1.7 Tag2: cassandra-1.1.8
+commit_overlap_ratio  1.4666666666666666
+commit_fileset_overlap_ratio 1.1666666666666667
+pairwise_committer_overlap 0.20261551314182893
+Name: cassandra Tag1: cassandra-1.1.8 Tag2: cassandra-1.1.9
+commit_overlap_ratio  1.6363636363636365
+commit_fileset_overlap_ratio 1.3333333333333333
+pairwise_committer_overlap 0.4308023022728905
+Name: cassandra Tag1: cassandra-1.1.9 Tag2: cassandra-1.1.10
+commit_overlap_ratio  1.3823529411764706
+commit_fileset_overlap_ratio 1.1470588235294117
+pairwise_committer_overlap 0.46389790764790767
+Name: cassandra Tag1: cassandra-1.1.10 Tag2: cassandra-1.1.11
+commit_overlap_ratio  1.4363636363636363
+commit_fileset_overlap_ratio 1.1818181818181819
+pairwise_committer_overlap 0.40204122699559963
+Name: cassandra Tag1: cassandra-1.1.11 Tag2: cassandra-1.1.12
+commit_overlap_ratio  1.4444444444444444
+commit_fileset_overlap_ratio 1.2962962962962963
+pairwise_committer_overlap 0.43492871507577385
+Name: cassandra Tag1: cassandra-1.1.12 Tag2: cassandra-1.2.0
+commit_overlap_ratio  4.948863636363637
+commit_fileset_overlap_ratio 2.0757575757575757
+pairwise_committer_overlap 0.798323867576267
+Name: cassandra Tag1: cassandra-1.2.0 Tag2: cassandra-1.2.1
+commit_overlap_ratio  1.9312169312169312
+commit_fileset_overlap_ratio 1.2962962962962963
+pairwise_committer_overlap 0.3888097009548324
+Name: cassandra Tag1: cassandra-1.2.1 Tag2: cassandra-1.2.2
+commit_overlap_ratio  1.7384615384615385
+commit_fileset_overlap_ratio 1.2564102564102564
+pairwise_committer_overlap 0.40371517133593343
+Name: cassandra Tag1: cassandra-1.2.2 Tag2: cassandra-1.2.3
+commit_overlap_ratio  1.6
+commit_fileset_overlap_ratio 1.12
+pairwise_committer_overlap 0.13503494305620886
+Name: cassandra Tag1: cassandra-1.2.3 Tag2: cassandra-1.2.4
+commit_overlap_ratio  1.8047337278106508
+commit_fileset_overlap_ratio 1.4437869822485208
+pairwise_committer_overlap 0.6166066753407783
+Name: cassandra Tag1: cassandra-1.2.4 Tag2: cassandra-1.2.5
+commit_overlap_ratio  2.328125
+commit_fileset_overlap_ratio 1.2890625
+pairwise_committer_overlap 0.4058931160020094
+Name: cassandra Tag1: cassandra-1.2.5 Tag2: cassandra-1.2.6
+commit_overlap_ratio  1.9328859060402686
+commit_fileset_overlap_ratio 1.221476510067114
+pairwise_committer_overlap 0.3289046945624051
+Name: cassandra Tag1: cassandra-1.2.6 Tag2: cassandra-1.2.7
+commit_overlap_ratio  1.5092592592592593
+commit_fileset_overlap_ratio 1.1388888888888888
+pairwise_committer_overlap 0.3218886352955201
+Name: cassandra Tag1: cassandra-1.2.7 Tag2: cassandra-1.2.8
+commit_overlap_ratio  1.5
+commit_fileset_overlap_ratio 1.0909090909090908
+pairwise_committer_overlap 0.15523809523809523
+Name: cassandra Tag1: cassandra-1.2.8 Tag2: cassandra-1.2.9
+commit_overlap_ratio  1.8923076923076922
+commit_fileset_overlap_ratio 1.3076923076923077
+pairwise_committer_overlap 0.4546387837191344
+Name: cassandra Tag1: cassandra-1.2.9 Tag2: cassandra-1.2.10
+commit_overlap_ratio  1.625
+commit_fileset_overlap_ratio 1.15625
+pairwise_committer_overlap 0.19347970662766273
+Name: cassandra Tag1: cassandra-1.2.10 Tag2: cassandra-1.2.11
+commit_overlap_ratio  1.9532710280373833
+commit_fileset_overlap_ratio 1.280373831775701
+pairwise_committer_overlap 0.38768915080356176
+Name: cassandra Tag1: cassandra-1.2.11 Tag2: cassandra-1.2.12
+commit_overlap_ratio  1.5571428571428572
+commit_fileset_overlap_ratio 1.1571428571428573
+pairwise_committer_overlap 0.30174399833816057
+Name: cassandra Tag1: cassandra-1.2.12 Tag2: cassandra-1.2.13
+commit_overlap_ratio  1.6785714285714286
+commit_fileset_overlap_ratio 1.1785714285714286
+pairwise_committer_overlap 0.1502694658944659
+Name: cassandra Tag1: cassandra-1.2.13 Tag2: cassandra-1.2.14
+commit_overlap_ratio  1.8979591836734695
+commit_fileset_overlap_ratio 1.3061224489795917
+pairwise_committer_overlap 0.3813454902585337
+Name: cassandra Tag1: cassandra-1.2.14 Tag2: cassandra-1.2.15
+commit_overlap_ratio  1.6363636363636365
+commit_fileset_overlap_ratio 1.3636363636363635
+pairwise_committer_overlap 0.6672619047619047
+Name: cassandra Tag1: cassandra-1.2.15 Tag2: cassandra-1.2.16
+commit_overlap_ratio  1.8444444444444446
+commit_fileset_overlap_ratio 1.2666666666666666
+pairwise_committer_overlap 0.4338416697270513
+Name: cassandra Tag1: cassandra-1.2.16 Tag2: cassandra-1.2.17
+commit_overlap_ratio  2.4285714285714284
+commit_fileset_overlap_ratio 1.3650793650793651
+pairwise_committer_overlap 0.9745446957069909
+Name: cassandra Tag1: cassandra-1.2.17 Tag2: cassandra-1.2.18
+commit_overlap_ratio  1.2222222222222223
+commit_fileset_overlap_ratio 1.1111111111111112
+pairwise_committer_overlap 0.1111111111111111
+Name: cassandra Tag1: cassandra-1.2.18 Tag2: cassandra-1.2.19
+commit_overlap_ratio  1.605263157894737
+commit_fileset_overlap_ratio 1.2894736842105263
+pairwise_committer_overlap 0.8379966454561509
+Name: cassandra Tag1: cassandra-1.2.19 Tag2: cassandra-2.0.0
+commit_overlap_ratio  3.576427255985267
+commit_fileset_overlap_ratio 1.992633517495396
+pairwise_committer_overlap 0.7601778437012364
+Name: cassandra Tag1: cassandra-2.0.0 Tag2: cassandra-2.0.1
+commit_overlap_ratio  1.5318559556786704
+commit_fileset_overlap_ratio 1.1634349030470914
+pairwise_committer_overlap 0.20987349709549327
+Name: cassandra Tag1: cassandra-2.0.1 Tag2: cassandra-2.0.2
+commit_overlap_ratio  2.3862660944206007
+commit_fileset_overlap_ratio 1.3690987124463518
+pairwise_committer_overlap 0.49583490632914295
+Name: cassandra Tag1: cassandra-2.0.2 Tag2: cassandra-2.0.3
+commit_overlap_ratio  1.8181818181818181
+commit_fileset_overlap_ratio 1.2272727272727273
+pairwise_committer_overlap 0.25696059372826907
+Name: cassandra Tag1: cassandra-2.0.3 Tag2: cassandra-2.0.4
+commit_overlap_ratio  1.786259541984733
+commit_fileset_overlap_ratio 1.1984732824427482
+pairwise_committer_overlap 0.1378338929558773
+Name: cassandra Tag1: cassandra-2.0.4 Tag2: cassandra-2.0.5
+commit_overlap_ratio  1.875968992248062
+commit_fileset_overlap_ratio 1.2713178294573644
+pairwise_committer_overlap 0.3346858341922197
+Name: cassandra Tag1: cassandra-2.0.5 Tag2: cassandra-2.0.6
+commit_overlap_ratio  2.006289308176101
+commit_fileset_overlap_ratio 1.1886792452830188
+pairwise_committer_overlap 0.19478541779952901
+Name: cassandra Tag1: cassandra-2.0.6 Tag2: cassandra-2.0.7
+commit_overlap_ratio  2.213740458015267
+commit_fileset_overlap_ratio 1.3053435114503817
+pairwise_committer_overlap 0.3964776182678586
+Name: cassandra Tag1: cassandra-2.0.7 Tag2: cassandra-2.0.8
+commit_overlap_ratio  2.163793103448276
+commit_fileset_overlap_ratio 1.3620689655172413
+pairwise_committer_overlap 0.639247063919272
+Name: cxf Tag1: cxf-2.1.1 Tag2: cxf-2.1.2
+commit_overlap_ratio  1.4818791946308725
+commit_fileset_overlap_ratio 1.0402684563758389
+pairwise_committer_overlap 0.013333094956875742
+Name: cxf Tag1: cxf-2.1.2 Tag2: cxf-2.1.3
+commit_overlap_ratio  2.283609576427256
+commit_fileset_overlap_ratio 1.2081031307550645
+pairwise_committer_overlap 0.06015503317898134
+Name: cxf Tag1: cxf-2.1.3 Tag2: cxf-2.1.4
+commit_overlap_ratio  2.071604938271605
+commit_fileset_overlap_ratio 1.2185185185185186
+pairwise_committer_overlap 0.09061642324727986
+Name: cxf Tag1: cxf-2.1.4 Tag2: cxf-2.1.5
+commit_overlap_ratio  1.7716894977168949
+commit_fileset_overlap_ratio 1.1491628614916287
+pairwise_committer_overlap 0.07225631097341739
+Name: cxf Tag1: cxf-2.1.5 Tag2: cxf-2.1.6
+commit_overlap_ratio  1.4398340248962656
+commit_fileset_overlap_ratio 1.0248962655601659
+pairwise_committer_overlap 0.025421637884631528
+Name: cxf Tag1: cxf-2.1.6 Tag2: cxf-2.1.7
+commit_overlap_ratio  2.9687880016214026
+commit_fileset_overlap_ratio 1.554722334819619
+pairwise_committer_overlap 0.2519399755529007
+Name: cxf Tag1: cxf-2.1.7 Tag2: cxf-2.1.8
+commit_overlap_ratio  2.6167664670658684
+commit_fileset_overlap_ratio 1.0
+pairwise_committer_overlap 0
+Name: cxf Tag1: cxf-2.1.8 Tag2: cxf-2.1.9
+commit_overlap_ratio  1.5375
+commit_fileset_overlap_ratio 1.0
+pairwise_committer_overlap 0
+Name: cxf Tag1: cxf-2.1.9 Tag2: cxf-2.2
+commit_overlap_ratio  2.2687679083094556
+commit_fileset_overlap_ratio 1.2131805157593123
+pairwise_committer_overlap 0.14395984689625824
+Name: cxf Tag1: cxf-2.2 Tag2: cxf-2.2.1
+commit_overlap_ratio  1.507936507936508
+commit_fileset_overlap_ratio 1.0734126984126984
+pairwise_committer_overlap 0.027088404039925417
+Name: cxf Tag1: cxf-2.2.1 Tag2: cxf-2.2.2
+commit_overlap_ratio  1.3958868894601542
+commit_fileset_overlap_ratio 1.0205655526992288
+pairwise_committer_overlap 0.00815175472119962
+Name: cxf Tag1: cxf-2.2.2 Tag2: cxf-2.2.3
+commit_overlap_ratio  1.46398891966759
+commit_fileset_overlap_ratio 1.0526315789473684
+pairwise_committer_overlap 0.03370238534309662
+Name: cxf Tag1: cxf-2.2.3 Tag2: cxf-2.2.4
+commit_overlap_ratio  1.4358353510895885
+commit_fileset_overlap_ratio 1.0217917675544794
+pairwise_committer_overlap 0.010909942581429043
+Name: cxf Tag1: cxf-2.2.4 Tag2: cxf-2.2.5
+commit_overlap_ratio  1.3866666666666667
+commit_fileset_overlap_ratio 1.0066666666666666
+pairwise_committer_overlap 0.0034506491180103143
+Name: cxf Tag1: cxf-2.2.5 Tag2: cxf-2.2.6
+commit_overlap_ratio  1.535641547861507
+commit_fileset_overlap_ratio 1.0264765784114054
+pairwise_committer_overlap 0.025702700931042675
+Name: cxf Tag1: cxf-2.2.6 Tag2: cxf-2.2.7
+commit_overlap_ratio  1.5442477876106195
+commit_fileset_overlap_ratio 1.0265486725663717
+pairwise_committer_overlap 0.011354731226583968
+Name: cxf Tag1: cxf-2.2.7 Tag2: cxf-2.2.8
+commit_overlap_ratio  1.5745454545454545
+commit_fileset_overlap_ratio 1.069090909090909
+pairwise_committer_overlap 0.0587653593743354
+Name: cxf Tag1: cxf-2.2.8 Tag2: cxf-2.2.9
+commit_overlap_ratio  1.7526881720430108
+commit_fileset_overlap_ratio 1.010752688172043
+pairwise_committer_overlap 0.010752688172043012
+Name: cxf Tag1: cxf-2.2.9 Tag2: cxf-2.2.10
+commit_overlap_ratio  1.3571428571428572
+commit_fileset_overlap_ratio 1.0357142857142858
+pairwise_committer_overlap 0.011331330125483157
+Name: cxf Tag1: cxf-2.2.10 Tag2: cxf-2.2.11
+commit_overlap_ratio  1.5867158671586716
+commit_fileset_overlap_ratio 1.062730627306273
+pairwise_committer_overlap 0.04463437365085917
+Name: cxf Tag1: cxf-2.2.11 Tag2: cxf-2.2.12
+commit_overlap_ratio  1.8501628664495113
+commit_fileset_overlap_ratio 1.3257328990228012
+pairwise_committer_overlap 0.3348987493239211
+Name: cxf Tag1: cxf-2.2.12 Tag2: cxf-2.3.0
+commit_overlap_ratio  2.047345767575323
+commit_fileset_overlap_ratio 1.3137938102070097
+pairwise_committer_overlap 0.1533359866199307
+Name: cxf Tag1: cxf-2.3.0 Tag2: cxf-2.3.1
+commit_overlap_ratio  1.8431818181818183
+commit_fileset_overlap_ratio 1.1727272727272726
+pairwise_committer_overlap 0.07946745902326664
+Name: cxf Tag1: cxf-2.3.1 Tag2: cxf-2.3.2
+commit_overlap_ratio  1.5935483870967742
+commit_fileset_overlap_ratio 1.081720430107527
+pairwise_committer_overlap 0.063929321295586
+Name: cxf Tag1: cxf-2.3.2 Tag2: cxf-2.3.3
+commit_overlap_ratio  1.5895953757225434
+commit_fileset_overlap_ratio 1.046242774566474
+pairwise_committer_overlap 0.03721033269701469
+Name: cxf Tag1: cxf-2.3.3 Tag2: cxf-2.3.4
+commit_overlap_ratio  1.706371191135734
+commit_fileset_overlap_ratio 1.0581717451523547
+pairwise_committer_overlap 0.021570136141092867
+Name: cxf Tag1: cxf-2.3.4 Tag2: cxf-2.3.5
+commit_overlap_ratio  1.6847133757961783
+commit_fileset_overlap_ratio 1.035031847133758
+pairwise_committer_overlap 0.04702544258810243
+Name: cxf Tag1: cxf-2.3.5 Tag2: cxf-2.3.6
+commit_overlap_ratio  1.6337448559670782
+commit_fileset_overlap_ratio 1.037037037037037
+pairwise_committer_overlap 0.06394377476473466
+Name: cxf Tag1: cxf-2.3.6 Tag2: cxf-2.3.7
+commit_overlap_ratio  1.4579945799457994
+commit_fileset_overlap_ratio 1.2520325203252032
+pairwise_committer_overlap 0.23298492624516934
+Name: cxf Tag1: cxf-2.3.7 Tag2: cxf-2.3.8
+commit_overlap_ratio  1.6705882352941177
+commit_fileset_overlap_ratio 1.031372549019608
+pairwise_committer_overlap 0.011748075481981061
+Name: cxf Tag1: cxf-2.3.8 Tag2: cxf-2.3.9
+commit_overlap_ratio  1.8674698795180722
+commit_fileset_overlap_ratio 1.0060240963855422
+pairwise_committer_overlap 0.00404040404040404
+Name: cxf Tag1: cxf-2.3.9 Tag2: cxf-2.3.10
+commit_overlap_ratio  1.6308243727598566
+commit_fileset_overlap_ratio 1.014336917562724
+pairwise_committer_overlap 0.045225306604592994
+Name: cxf Tag1: cxf-2.3.10 Tag2: cxf-2.3.11
+commit_overlap_ratio  1.7411167512690355
+commit_fileset_overlap_ratio 1.0050761421319796
+pairwise_committer_overlap 0.003968253968253968
+Name: cxf Tag1: cxf-2.3.11 Tag2: cxf-2.4.0
+commit_overlap_ratio  1.835708927231808
+commit_fileset_overlap_ratio 1.2134283570892723
+pairwise_committer_overlap 0.11389460276635369
+Name: cxf Tag1: cxf-2.4.0 Tag2: cxf-2.4.1
+commit_overlap_ratio  1.6476923076923078
+commit_fileset_overlap_ratio 1.103076923076923
+pairwise_committer_overlap 0.07300395720595028
+Name: cxf Tag1: cxf-2.4.1 Tag2: cxf-2.4.2
+commit_overlap_ratio  2.887951807228916
+commit_fileset_overlap_ratio 1.1120481927710844
+pairwise_committer_overlap 0.0672386352920644
+Name: cxf Tag1: cxf-2.4.2 Tag2: cxf-2.4.3
+commit_overlap_ratio  1.4113300492610839
+commit_fileset_overlap_ratio 1.1904761904761905
+pairwise_committer_overlap 0.14589494064931682
+Name: cxf Tag1: cxf-2.4.3 Tag2: cxf-2.4.4
+commit_overlap_ratio  1.7366548042704626
+commit_fileset_overlap_ratio 1.5551601423487544
+pairwise_committer_overlap 0.23245110331469784
+Name: cxf Tag1: cxf-2.4.4 Tag2: cxf-2.4.5
+commit_overlap_ratio  1.6836363636363636
+commit_fileset_overlap_ratio 1.3127272727272727
+pairwise_committer_overlap 0.18266335500636177
+Name: cxf Tag1: cxf-2.4.5 Tag2: cxf-2.4.6
+commit_overlap_ratio  1.5599022004889975
+commit_fileset_overlap_ratio 1.0097799511002445
+pairwise_committer_overlap 0.003217432716751891
+Name: cxf Tag1: cxf-2.4.6 Tag2: cxf-2.4.7
+commit_overlap_ratio  1.6901408450704225
+commit_fileset_overlap_ratio 1.0764587525150906
+pairwise_committer_overlap 0.06139351420884887
+Name: cxf Tag1: cxf-2.4.7 Tag2: cxf-2.4.8
+commit_overlap_ratio  2.5064935064935066
+commit_fileset_overlap_ratio 1.0162337662337662
+pairwise_committer_overlap 0.009619498379139902
+Name: cxf Tag1: cxf-2.4.8 Tag2: cxf-2.4.9
+commit_overlap_ratio  1.6304909560723515
+commit_fileset_overlap_ratio 1.0387596899224807
+pairwise_committer_overlap 0.035925543910972385
+Name: cxf Tag1: cxf-2.4.9 Tag2: cxf-2.4.10
+commit_overlap_ratio  1.7681159420289856
+commit_fileset_overlap_ratio 1.0144927536231885
+pairwise_committer_overlap 0.006382978723404255
+Name: cxf Tag1: cxf-2.4.10 Tag2: cxf-2.5.0
+commit_overlap_ratio  1.7167976056864946
+commit_fileset_overlap_ratio 1.1922933034044145
+pairwise_committer_overlap 0.12638658703375016
+Name: cxf Tag1: cxf-2.5.0 Tag2: cxf-2.5.1
+commit_overlap_ratio  1.6469026548672567
+commit_fileset_overlap_ratio 1.075221238938053
+pairwise_committer_overlap 0.05250020322912775
+Name: cxf Tag1: cxf-2.5.1 Tag2: cxf-2.5.2
+commit_overlap_ratio  2.3024296675191818
+commit_fileset_overlap_ratio 1.0588235294117647
+pairwise_committer_overlap 0.034438800370320204
+Name: cxf Tag1: cxf-2.5.2 Tag2: cxf-2.5.3
+commit_overlap_ratio  2.213709677419355
+commit_fileset_overlap_ratio 1.0856854838709677
+pairwise_committer_overlap 0.06140410856241883
+Name: cxf Tag1: cxf-2.5.3 Tag2: cxf-2.5.4
+commit_overlap_ratio  1.5238828967642526
+commit_fileset_overlap_ratio 1.0570107858243452
+pairwise_committer_overlap 0.02694344743402482
+Name: cxf Tag1: cxf-2.5.4 Tag2: cxf-2.5.5
+commit_overlap_ratio  1.5912897822445562
+commit_fileset_overlap_ratio 1.0435510887772195
+pairwise_committer_overlap 0.026738544046128288
+Name: cxf Tag1: cxf-2.5.5 Tag2: cxf-2.5.6
+commit_overlap_ratio  1.7194719471947195
+commit_fileset_overlap_ratio 1.0429042904290429
+pairwise_committer_overlap 0.057506455768360616
+Name: cxf Tag1: cxf-2.5.6 Tag2: cxf-2.5.7
+commit_overlap_ratio  1.5314533622559654
+commit_fileset_overlap_ratio 1.0498915401301518
+pairwise_committer_overlap 0.052455677495391394
+Name: cxf Tag1: cxf-2.5.7 Tag2: cxf-2.5.8
+commit_overlap_ratio  1.6521739130434783
+commit_fileset_overlap_ratio 1.0267558528428093
+pairwise_committer_overlap 0.010498687664041995
+Name: cxf Tag1: cxf-2.5.8 Tag2: cxf-2.5.9
+commit_overlap_ratio  1.704724409448819
+commit_fileset_overlap_ratio 1.0118110236220472
+pairwise_committer_overlap 0.022504462147925643
+Name: cxf Tag1: cxf-2.5.9 Tag2: cxf-2.5.10
+commit_overlap_ratio  1.6269662921348316
+commit_fileset_overlap_ratio 1.0269662921348315
+pairwise_committer_overlap 0.019083293273665362
+Name: cxf Tag1: cxf-2.5.10 Tag2: cxf-2.5.11
+commit_overlap_ratio  1.4901098901098901
+commit_fileset_overlap_ratio 1.0197802197802197
+pairwise_committer_overlap 0.018222600101579788
+Name: cxf Tag1: cxf-2.5.11 Tag2: cxf-2.6.0
+commit_overlap_ratio  1.6719908727895036
+commit_fileset_overlap_ratio 1.1474614945807187
+pairwise_committer_overlap 0.0825233113357252
+Name: cxf Tag1: cxf-2.6.0 Tag2: cxf-2.6.1
+commit_overlap_ratio  1.7161366313309776
+commit_fileset_overlap_ratio 1.1248527679623086
+pairwise_committer_overlap 0.07454702004408541
+Name: cxf Tag1: cxf-2.6.1 Tag2: cxf-2.6.2
+commit_overlap_ratio  1.8543983822042467
+commit_fileset_overlap_ratio 1.0535894843276037
+pairwise_committer_overlap 0.05121369737601367
+Name: cxf Tag1: cxf-2.6.2 Tag2: cxf-2.6.3
+commit_overlap_ratio  1.6823529411764706
+commit_fileset_overlap_ratio 1.0470588235294118
+pairwise_committer_overlap 0.02990171422209732
+Name: cxf Tag1: cxf-2.6.3 Tag2: cxf-2.6.4
+commit_overlap_ratio  1.538560411311054
+commit_fileset_overlap_ratio 1.088688946015424
+pairwise_committer_overlap 0.061825778690951
+Name: cxf Tag1: cxf-2.6.4 Tag2: cxf-2.6.5
+commit_overlap_ratio  1.5536159600997506
+commit_fileset_overlap_ratio 1.027431421446384
+pairwise_committer_overlap 0.00900359112634497
+Name: cxf Tag1: cxf-2.6.5 Tag2: cxf-2.6.6
+commit_overlap_ratio  1.6551724137931034
+commit_fileset_overlap_ratio 1.0206896551724138
+pairwise_committer_overlap 0.011438574990682421
+Name: cxf Tag1: cxf-2.6.6 Tag2: cxf-2.6.7
+commit_overlap_ratio  1.6194029850746268
+commit_fileset_overlap_ratio 1.0335820895522387
+pairwise_committer_overlap 0.019492554053670168
+Name: cxf Tag1: cxf-2.6.7 Tag2: cxf-2.6.8
+commit_overlap_ratio  1.7056737588652482
+commit_fileset_overlap_ratio 1.024822695035461
+pairwise_committer_overlap 0.021643729671801018
+Name: cxf Tag1: cxf-2.6.8 Tag2: cxf-2.6.9
+commit_overlap_ratio  1.4510166358595193
+commit_fileset_overlap_ratio 1.0462107208872458
+pairwise_committer_overlap 0.023951603989643865
+Name: hadoop Tag1: release-1.0.0 Tag2: release-1.0.1
+commit_overlap_ratio  1.25
+commit_fileset_overlap_ratio 1.0416666666666667
+pairwise_committer_overlap 0.13393426829398514
+Name: hadoop Tag1: release-1.0.1 Tag2: release-1.0.2
+commit_overlap_ratio  1.411764705882353
+commit_fileset_overlap_ratio 1.0705882352941176
+pairwise_committer_overlap 0.19751124145204518
+Name: hadoop Tag1: release-1.0.2 Tag2: release-1.0.3
+commit_overlap_ratio  1.5247524752475248
+commit_fileset_overlap_ratio 1.1485148514851484
+pairwise_committer_overlap 0.6763422853204727
+Name: hadoop Tag1: release-1.0.3 Tag2: release-1.0.4
+commit_overlap_ratio  1.5
+commit_fileset_overlap_ratio 1.125
+pairwise_committer_overlap 0.09523809523809523
+Name: hadoop Tag1: release-1.0.4 Tag2: release-1.1.0
+commit_overlap_ratio  2.242030696576151
+commit_fileset_overlap_ratio 1.3494687131050767
+pairwise_committer_overlap 1.356430898170251
+Name: hadoop Tag1: release-1.1.0 Tag2: release-1.1.1
+commit_overlap_ratio  1.7291666666666667
+commit_fileset_overlap_ratio 1.2291666666666667
+pairwise_committer_overlap 0.6709009161977446
+Name: hadoop Tag1: release-1.1.1 Tag2: release-1.1.2
+commit_overlap_ratio  1.849056603773585
+commit_fileset_overlap_ratio 1.2075471698113207
+pairwise_committer_overlap 0.6354273467583917
+Name: hadoop Tag1: release-1.1.2 Tag2: release-1.2.0
+commit_overlap_ratio  2.293233082706767
+commit_fileset_overlap_ratio 1.3609022556390977
+pairwise_committer_overlap 1.5820800821273873
+Name: hadoop Tag1: release-1.2.0 Tag2: release-1.2.1
+commit_overlap_ratio  1.7878787878787878
+commit_fileset_overlap_ratio 1.0909090909090908
+pairwise_committer_overlap 0.11495911495911496
+Name: httpd Tag1: 2.2.0 Tag2: 2.2.1
+commit_overlap_ratio  2.2983333333333333
+commit_fileset_overlap_ratio 1.4383333333333332
+pairwise_committer_overlap 1.4138544171497347
+Name: httpd Tag1: 2.2.1 Tag2: 2.2.2
+commit_overlap_ratio  2.1983723296032553
+commit_fileset_overlap_ratio 2.1393692777212614
+pairwise_committer_overlap 0.7715012020609072
+Name: httpd Tag1: 2.2.2 Tag2: 2.2.3
+commit_overlap_ratio  1.6918194640338504
+commit_fileset_overlap_ratio 1.314527503526093
+pairwise_committer_overlap 1.4850256835429096
+Name: httpd Tag1: 2.2.3 Tag2: 2.2.4
+commit_overlap_ratio  2.28
+commit_fileset_overlap_ratio 1.388
+pairwise_committer_overlap 2.060211476567696
+Name: httpd Tag1: 2.2.4 Tag2: 2.2.5
+commit_overlap_ratio  2.062034739454094
+commit_fileset_overlap_ratio 1.2779156327543424
+pairwise_committer_overlap 2.886610278320031
+Name: httpd Tag1: 2.2.5 Tag2: 2.2.6
+commit_overlap_ratio  1.4581430745814308
+commit_fileset_overlap_ratio 1.1689497716894977
+pairwise_committer_overlap 1.3243001662462337
+Name: httpd Tag1: 2.2.6 Tag2: 2.2.7
+commit_overlap_ratio  2.824074074074074
+commit_fileset_overlap_ratio 1.4012345679012346
+pairwise_committer_overlap 2.100599338441875
+Name: httpd Tag1: 2.2.7 Tag2: 2.2.8
+commit_overlap_ratio  2.75
+commit_fileset_overlap_ratio 1.375
+pairwise_committer_overlap 0.7980952380952381
+Name: httpd Tag1: 2.2.8 Tag2: 2.2.9
+commit_overlap_ratio  2.2462745098039214
+commit_fileset_overlap_ratio 1.6337254901960785
+pairwise_committer_overlap 1.713632988874367
+Name: httpd Tag1: 2.2.9 Tag2: 2.2.10
+commit_overlap_ratio  1.591016548463357
+commit_fileset_overlap_ratio 1.2222222222222223
+pairwise_committer_overlap 2.1832293211077194
+Name: httpd Tag1: 2.2.10 Tag2: 2.2.11
+commit_overlap_ratio  1.7375
+commit_fileset_overlap_ratio 1.1916666666666667
+pairwise_committer_overlap 2.9334426591180502
+Name: httpd Tag1: 2.2.11 Tag2: 2.2.12
+commit_overlap_ratio  1.7180500658761528
+commit_fileset_overlap_ratio 1.3425559947299077
+pairwise_committer_overlap 1.6138553312519384
+Name: httpd Tag1: 2.2.12 Tag2: 2.2.13
+commit_overlap_ratio  2.611111111111111
+commit_fileset_overlap_ratio 1.8333333333333333
+pairwise_committer_overlap 1.3912698412698412
+Name: httpd Tag1: 2.2.13 Tag2: 2.2.14
+commit_overlap_ratio  1.8057142857142856
+commit_fileset_overlap_ratio 1.2914285714285714
+pairwise_committer_overlap 1.4735052475129677
+Name: httpd Tag1: 2.2.14 Tag2: 2.2.15
+commit_overlap_ratio  2.4347826086956523
+commit_fileset_overlap_ratio 1.5956521739130434
+pairwise_committer_overlap 1.1439157645388929
+Name: httpd Tag1: 2.2.15 Tag2: 2.2.16
+commit_overlap_ratio  2.7157894736842105
+commit_fileset_overlap_ratio 1.768421052631579
+pairwise_committer_overlap 2.42201310758683
+Name: httpd Tag1: 2.2.16 Tag2: 2.2.17
+commit_overlap_ratio  1.9019607843137254
+commit_fileset_overlap_ratio 1.3986928104575163
+pairwise_committer_overlap 1.4053599862251696
+Name: httpd Tag1: 2.2.17 Tag2: 2.2.18
+commit_overlap_ratio  2.270702853166319
+commit_fileset_overlap_ratio 1.6659707724425887
+pairwise_committer_overlap 1.1007258722384212
+Name: httpd Tag1: 2.2.18 Tag2: 2.2.19
+commit_overlap_ratio  1.2881355932203389
+commit_fileset_overlap_ratio 1.152542372881356
+pairwise_committer_overlap 0.2935064935064935
+Name: httpd Tag1: 2.2.19 Tag2: 2.2.20
+commit_overlap_ratio  1.7727272727272727
+commit_fileset_overlap_ratio 1.3333333333333333
+pairwise_committer_overlap 2.5598777958152956
+Name: httpd Tag1: 2.2.20 Tag2: 2.2.21
+commit_overlap_ratio  3.193548387096774
+commit_fileset_overlap_ratio 1.6451612903225807
+pairwise_committer_overlap 3.840623820623821
+Name: httpd Tag1: 2.2.21 Tag2: 2.2.22
+commit_overlap_ratio  1.3556485355648535
+commit_fileset_overlap_ratio 1.1882845188284519
+pairwise_committer_overlap 2.9547253766057837
+Name: httpd Tag1: 2.2.22 Tag2: 2.2.23
+commit_overlap_ratio  3.0644444444444443
+commit_fileset_overlap_ratio 2.5766666666666667
+pairwise_committer_overlap 1.2694151371030693
+Name: httpd Tag1: 2.2.23 Tag2: 2.2.24
+commit_overlap_ratio  1.4732394366197183
+commit_fileset_overlap_ratio 1.2605633802816902
+pairwise_committer_overlap 1.5390740195171198
+Name: httpd Tag1: 2.2.24 Tag2: 2.2.25
+commit_overlap_ratio  2.007266349285893
+commit_fileset_overlap_ratio 1.0110248058130795
+pairwise_committer_overlap 1.4864179490578917
+Name: httpd Tag1: 2.2.25 Tag2: 2.2.26
+commit_overlap_ratio  2.582089552238806
+commit_fileset_overlap_ratio 1.8059701492537314
+pairwise_committer_overlap 2.5863391871811707
+Name: httpd Tag1: 2.2.26 Tag2: 2.2.27
+commit_overlap_ratio  2.0714285714285716
+commit_fileset_overlap_ratio 1.8288177339901477
+pairwise_committer_overlap 2.2842719529594215
+Name: httpd Tag1: 2.2.27 Tag2: 2.2.28
+commit_overlap_ratio  1.2305433186490455
+commit_fileset_overlap_ratio 1.092511013215859
+pairwise_committer_overlap 1.5553732012888903
+Name: httpd Tag1: 2.2.28 Tag2: 2.2.29
+commit_overlap_ratio  1.0810810810810811
+commit_fileset_overlap_ratio 1.0
+pairwise_committer_overlap 0
+Name: httpd Tag1: 2.2.29 Tag2: 2.2.30
+commit_overlap_ratio  3.0265604249667994
+commit_fileset_overlap_ratio 2.366533864541833
+pairwise_committer_overlap 1.7556548956321976
+Name: httpd Tag1: 2.2.30 Tag2: 2.2.31
+commit_overlap_ratio  1.6153846153846154
+commit_fileset_overlap_ratio 1.1538461538461537
+pairwise_committer_overlap 0.5
+Name: httpd Tag1: 2.2.31 Tag2: 2.2.32
+commit_overlap_ratio  3.017857142857143
+commit_fileset_overlap_ratio 1.8214285714285714
+pairwise_committer_overlap 1.3363370243983659
+Name: httpd Tag1: 2.2.32 Tag2: 2.2.33
+commit_overlap_ratio  1.8518518518518519
+commit_fileset_overlap_ratio 1.1851851851851851
+pairwise_committer_overlap 0.48806471306471305
+Name: httpd Tag1: 2.2.33 Tag2: 2.2.34
+commit_overlap_ratio  3.142857142857143
+commit_fileset_overlap_ratio 1.4285714285714286
+pairwise_committer_overlap 1.7142857142857142
+Name: httpd Tag1: 2.2.34 Tag2: 2.3.0
+commit_overlap_ratio  6.117840204304998
+commit_fileset_overlap_ratio 3.356439255746078
+pairwise_committer_overlap 1.3618454099382062
+Name: httpd Tag1: 2.3.0 Tag2: 2.3.1
+commit_overlap_ratio  1.9161073825503356
+commit_fileset_overlap_ratio 1.3221476510067114
+pairwise_committer_overlap 0.2899445654291528
+Name: httpd Tag1: 2.3.1 Tag2: 2.3.2
+commit_overlap_ratio  1.4301929625425653
+commit_fileset_overlap_ratio 1.2905788876276958
+pairwise_committer_overlap 0.4484759319712952
+Name: httpd Tag1: 2.3.2 Tag2: 2.3.3
+commit_overlap_ratio  2.5920195439739415
+commit_fileset_overlap_ratio 1.6677524429967427
+pairwise_committer_overlap 0.6064099494375993
+Name: httpd Tag1: 2.3.3 Tag2: 2.3.4
+commit_overlap_ratio  1.4285714285714286
+commit_fileset_overlap_ratio 1.1071428571428572
+pairwise_committer_overlap 0.33051962876222013
+Name: httpd Tag1: 2.3.4 Tag2: 2.3.5
+commit_overlap_ratio  1.3139240506329113
+commit_fileset_overlap_ratio 1.1582278481012658
+pairwise_committer_overlap 0.35115114907377243
+Name: httpd Tag1: 2.3.5 Tag2: 2.3.6
+commit_overlap_ratio  2.2149200710479575
+commit_fileset_overlap_ratio 1.5230905861456483
+pairwise_committer_overlap 0.7008732351119132
+Name: httpd Tag1: 2.3.6 Tag2: 2.3.7
+commit_overlap_ratio  1.3123425692695214
+commit_fileset_overlap_ratio 1.1523929471032746
+pairwise_committer_overlap 0.15887194591180123
+Name: httpd Tag1: 2.3.7 Tag2: 2.3.8
+commit_overlap_ratio  1.3428571428571427
+commit_fileset_overlap_ratio 1.2
+pairwise_committer_overlap 0.19277289976149317
+Name: httpd Tag1: 2.3.8 Tag2: 2.3.9
+commit_overlap_ratio  2.9793977812995247
+commit_fileset_overlap_ratio 1.700475435816165
+pairwise_committer_overlap 0.5195635895148055
+Name: httpd Tag1: 2.3.9 Tag2: 2.3.10
+commit_overlap_ratio  1.6609105180533752
+commit_fileset_overlap_ratio 1.207221350078493
+pairwise_committer_overlap 0.20794936787928253
+Name: httpd Tag1: 2.3.10 Tag2: 2.3.11
+commit_overlap_ratio  1.855140186915888
+commit_fileset_overlap_ratio 1.3224299065420562
+pairwise_committer_overlap 0.39282496806526607
+Name: httpd Tag1: 2.3.11 Tag2: 2.3.12
+commit_overlap_ratio  2.532219570405728
+commit_fileset_overlap_ratio 1.2577565632458234
+pairwise_committer_overlap 0.4004881135713548
+Name: httpd Tag1: 2.3.12 Tag2: 2.3.13
+commit_overlap_ratio  2.0202156334231804
+commit_fileset_overlap_ratio 1.7008086253369272
+pairwise_committer_overlap 0.276741498954294
+Name: httpd Tag1: 2.3.13 Tag2: 2.3.14
+commit_overlap_ratio  1.7587548638132295
+commit_fileset_overlap_ratio 1.1867704280155642
+pairwise_committer_overlap 0.23422946007061884
+Name: httpd Tag1: 2.3.14 Tag2: 2.3.15
+commit_overlap_ratio  2.1789532920652785
+commit_fileset_overlap_ratio 1.783342712436691
+pairwise_committer_overlap 0.39482343295510053
+Name: httpd Tag1: 2.3.15 Tag2: 2.3.16
+commit_overlap_ratio  2.2647887323943663
+commit_fileset_overlap_ratio 2.0147887323943663
+pairwise_committer_overlap 0.4066540850265819
+Name: httpd Tag1: 2.3.16 Tag2: 2.4.0
+commit_overlap_ratio  2.022075055187638
+commit_fileset_overlap_ratio 1.8123620309050772
+pairwise_committer_overlap 0.25993681148215514
+Name: httpd Tag1: 2.4.0 Tag2: 2.4.1
+commit_overlap_ratio  1.8
+commit_fileset_overlap_ratio 1.4727272727272727
+pairwise_committer_overlap 0.3214643580482436
+Name: httpd Tag1: 2.4.1 Tag2: 2.4.2
+commit_overlap_ratio  2.064
+commit_fileset_overlap_ratio 1.444
+pairwise_committer_overlap 0.9242360722049531
+Name: httpd Tag1: 2.4.2 Tag2: 2.4.3
+commit_overlap_ratio  3.7957894736842106
+commit_fileset_overlap_ratio 2.294736842105263
+pairwise_committer_overlap 2.3589119053965426
+Name: httpd Tag1: 2.4.3 Tag2: 2.4.4
+commit_overlap_ratio  2.0454222853087294
+commit_fileset_overlap_ratio 1.4790631653655075
+pairwise_committer_overlap 1.7314802669911797
+Name: httpd Tag1: 2.4.4 Tag2: 2.4.5
+commit_overlap_ratio  2.1752232142857144
+commit_fileset_overlap_ratio 1.4676339285714286
+pairwise_committer_overlap 1.5317004140382875
+Name: httpd Tag1: 2.4.5 Tag2: 2.4.6
+commit_overlap_ratio  1.3
+commit_fileset_overlap_ratio 1.1333333333333333
+pairwise_committer_overlap 0.7214458247066943
+Name: mahout Tag1: mahout-0.3 Tag2: mahout-0.4
+commit_overlap_ratio  2.3704942400594575
+commit_fileset_overlap_ratio 1.2285395763656632
+pairwise_committer_overlap 0.2179149459312967
+Name: mahout Tag1: mahout-0.4 Tag2: mahout-0.5
+commit_overlap_ratio  1.5867064337452066
+commit_fileset_overlap_ratio 1.1184490839369408
+pairwise_committer_overlap 0.12495359587832526
+Name: mahout Tag1: mahout-0.5 Tag2: mahout-0.6
+commit_overlap_ratio  2.471342383107089
+commit_fileset_overlap_ratio 1.6131221719457014
+pairwise_committer_overlap 0.25583509127235876
+Name: mahout Tag1: mahout-0.6 Tag2: mahout-0.7
+commit_overlap_ratio  1.9865092748735245
+commit_fileset_overlap_ratio 1.349072512647555
+pairwise_committer_overlap 0.33275061597945843
+Name: mahout Tag1: mahout-0.7 Tag2: mahout-0.8
+commit_overlap_ratio  2.8058252427184467
+commit_fileset_overlap_ratio 1.9815533980582525
+pairwise_committer_overlap 0.6600373210752268
+Name: mahout Tag1: mahout-0.8 Tag2: mahout-0.9
+commit_overlap_ratio  1.8056478405315615
+commit_fileset_overlap_ratio 1.2691029900332227
+pairwise_committer_overlap 0.22815833025772886
+Name: openjpa Tag1: 1.2.0 Tag2: 1.2.1
+commit_overlap_ratio  3.0547445255474455
+commit_fileset_overlap_ratio 1.0211294660007684
+pairwise_committer_overlap 0.11063807140488342
+Name: openjpa Tag1: 1.2.1 Tag2: 1.2.2
+commit_overlap_ratio  1.1176895306859205
+commit_fileset_overlap_ratio 1.0057761732851986
+pairwise_committer_overlap 0.005776173285198556
+Name: openjpa Tag1: 1.2.2 Tag2: 1.2.3
+commit_overlap_ratio  1.8968253968253967
+commit_fileset_overlap_ratio 1.3174603174603174
+pairwise_committer_overlap 0.22128395392668954
+Name: openjpa Tag1: 1.2.3 Tag2: 2.0.0
+commit_overlap_ratio  3.0069020440668965
+commit_fileset_overlap_ratio 1.6227767454207591
+pairwise_committer_overlap 0.4323413853571568
+Name: openjpa Tag1: 2.0.0 Tag2: 2.0.1
+commit_overlap_ratio  4.270491803278689
+commit_fileset_overlap_ratio 1.0327868852459017
+pairwise_committer_overlap 0.01983371126228269
+Name: openjpa Tag1: 2.0.1 Tag2: 2.1.0
+commit_overlap_ratio  2.190938511326861
+commit_fileset_overlap_ratio 1.3737864077669903
+pairwise_committer_overlap 0.2790722973825556
+Name: openjpa Tag1: 2.1.0 Tag2: 2.1.1
+commit_overlap_ratio  1.648936170212766
+commit_fileset_overlap_ratio 1.4361702127659575
+pairwise_committer_overlap 0.21255900639367842
+Name: openjpa Tag1: 2.1.1 Tag2: 2.2.0
+commit_overlap_ratio  2.323943661971831
+commit_fileset_overlap_ratio 1.7528809218950063
+pairwise_committer_overlap 0.491210568827459
+Name: openjpa Tag1: 2.2.0 Tag2: 2.2.1
+commit_overlap_ratio  1.5107913669064748
+commit_fileset_overlap_ratio 1.1007194244604317
+pairwise_committer_overlap 0.17208391499823225
+Name: openjpa Tag1: 2.2.1 Tag2: 2.2.2
+commit_overlap_ratio  2.1846153846153844
+commit_fileset_overlap_ratio 1.1
+pairwise_committer_overlap 0.1103298262178117
+Name: pdfbox Tag1: 1.7.0 Tag2: 1.7.1
+commit_overlap_ratio  1.4705882352941178
+commit_fileset_overlap_ratio 1.0
+pairwise_committer_overlap 0
+Name: pdfbox Tag1: 1.7.1 Tag2: 1.8.0
+commit_overlap_ratio  2.2357723577235773
+commit_fileset_overlap_ratio 1.5040650406504066
+pairwise_committer_overlap 0.2727061610053888
+Name: pdfbox Tag1: 1.8.0 Tag2: 1.8.1
+commit_overlap_ratio  1.0
+commit_fileset_overlap_ratio 1.0
+pairwise_committer_overlap 0
+Name: pdfbox Tag1: 1.8.1 Tag2: 1.8.2
+commit_overlap_ratio  3.066666666666667
+commit_fileset_overlap_ratio 1.0
+pairwise_committer_overlap 0
+Name: pdfbox Tag1: 1.8.2 Tag2: 1.8.3
+commit_overlap_ratio  1.312
+commit_fileset_overlap_ratio 1.008
+pairwise_committer_overlap 0.00546448087431694
+Name: pdfbox Tag1: 1.8.3 Tag2: 1.8.4
+commit_overlap_ratio  1.537037037037037
+commit_fileset_overlap_ratio 1.0
+pairwise_committer_overlap 0.0
+Name: pdfbox Tag1: 1.8.4 Tag2: 1.8.5
+commit_overlap_ratio  1.9502762430939227
+commit_fileset_overlap_ratio 1.1049723756906078
+pairwise_committer_overlap 0.0797279899466222
+Name: pdfbox Tag1: 1.8.5 Tag2: 1.8.6
+commit_overlap_ratio  1.7315436241610738
+commit_fileset_overlap_ratio 1.080536912751678
+pairwise_committer_overlap 0.05823922098019525
+Name: pdfbox Tag1: 1.8.6 Tag2: 1.8.7
+commit_overlap_ratio  1.4878048780487805
+commit_fileset_overlap_ratio 1.0670731707317074
+pairwise_committer_overlap 0.0615954579148802
+Name: pig Tag1: release-0.6.0 Tag2: release-0.7.0
+commit_overlap_ratio  2.094496365524403
+commit_fileset_overlap_ratio 1.4132917964693665
+pairwise_committer_overlap 0.4316232579664562
+Name: pig Tag1: release-0.7.0 Tag2: release-0.8.0
+commit_overlap_ratio  2.3522364217252396
+commit_fileset_overlap_ratio 1.3043130990415335
+pairwise_committer_overlap 0.44755276380680964
+Name: pig Tag1: release-0.8.0 Tag2: release-0.8.1
+commit_overlap_ratio  1.598360655737705
+commit_fileset_overlap_ratio 1.1311475409836065
+pairwise_committer_overlap 0.18545396137232173
+Name: pig Tag1: release-0.8.1 Tag2: release-0.9.0
+commit_overlap_ratio  2.795143212951432
+commit_fileset_overlap_ratio 1.7017434620174345
+pairwise_committer_overlap 1.0262483602262669
+Name: pig Tag1: release-0.9.0 Tag2: release-0.9.1
+commit_overlap_ratio  1.6412213740458015
+commit_fileset_overlap_ratio 1.0458015267175573
+pairwise_committer_overlap 0.07899404761904762
+Name: tika Tag1: 1.0 Tag2: 1.1
+commit_overlap_ratio  2.0828402366863905
+commit_fileset_overlap_ratio 1.2248520710059172
+pairwise_committer_overlap 0.18762754698142145
+Name: tika Tag1: 1.1 Tag2: 1.2
+commit_overlap_ratio  2.6215139442231075
+commit_fileset_overlap_ratio 1.4900398406374502
+pairwise_committer_overlap 0.37388002004912363
+Name: tika Tag1: 1.2 Tag2: 1.3
+commit_overlap_ratio  2.0692307692307694
+commit_fileset_overlap_ratio 1.2384615384615385
+pairwise_committer_overlap 0.3424704361273524
+Name: tika Tag1: 1.3 Tag2: 1.4
+commit_overlap_ratio  1.7236842105263157
+commit_fileset_overlap_ratio 1.2894736842105263
+pairwise_committer_overlap 0.30939171010439404
+Name: tika Tag1: 1.4 Tag2: 1.5
+commit_overlap_ratio  1.7544642857142858
+commit_fileset_overlap_ratio 1.3125
+pairwise_committer_overlap 0.4940762407673601
+Name: tika Tag1: 1.5 Tag2: 1.6
+commit_overlap_ratio  2.1363636363636362
+commit_fileset_overlap_ratio 1.3
+pairwise_committer_overlap 0.33124480450620025
+Name: tika Tag1: 1.6 Tag2: 1.7
+commit_overlap_ratio  2.5134228187919465
+commit_fileset_overlap_ratio 1.3791946308724832
+pairwise_committer_overlap 0.3231385972661116
+Name: wicket Tag1: wicket-1.3.0 Tag2: wicket-1.3.1
+commit_overlap_ratio  1.15
+commit_fileset_overlap_ratio 1.06
+pairwise_committer_overlap 0.0730667032517846
+Name: wicket Tag1: wicket-1.3.1 Tag2: wicket-1.3.2
+commit_overlap_ratio  1.269736842105263
+commit_fileset_overlap_ratio 1.105263157894737
+pairwise_committer_overlap 0.09785985565225724
+Name: wicket Tag1: wicket-1.3.2 Tag2: wicket-1.3.3
+commit_overlap_ratio  1.3764705882352941
+commit_fileset_overlap_ratio 1.0941176470588236
+pairwise_committer_overlap 0.06268929027549718
+Name: wicket Tag1: wicket-1.3.3 Tag2: wicket-1.3.4
+commit_overlap_ratio  1.4147727272727273
+commit_fileset_overlap_ratio 1.0965909090909092
+pairwise_committer_overlap 0.08303327699922075
+Name: wicket Tag1: wicket-1.3.4 Tag2: wicket-1.3.5
+commit_overlap_ratio  1.5299145299145298
+commit_fileset_overlap_ratio 1.1623931623931625
+pairwise_committer_overlap 0.1373286976551467
+Name: wicket Tag1: wicket-1.3.5 Tag2: wicket-1.3.6
+commit_overlap_ratio  1.3629032258064515
+commit_fileset_overlap_ratio 1.0887096774193548
+pairwise_committer_overlap 0.0714884362841593
+Name: wicket Tag1: wicket-1.3.6 Tag2: wicket-1.3.7
+commit_overlap_ratio  1.2352941176470589
+commit_fileset_overlap_ratio 1.1176470588235294
+pairwise_committer_overlap 0.1301098901098901
+Name: wicket Tag1: wicket-1.3.7 Tag2: wicket-1.4.0
+commit_overlap_ratio  1.8118802619270347
+commit_fileset_overlap_ratio 1.31421889616464
+pairwise_committer_overlap 0.3193486438243166
+Name: wicket Tag1: wicket-1.4.0 Tag2: wicket-1.4.2
+commit_overlap_ratio  1.3300970873786409
+commit_fileset_overlap_ratio 1.029126213592233
+pairwise_committer_overlap 0.012457948996201845
+Name: wicket Tag1: wicket-1.4.2 Tag2: wicket-1.4.3
+commit_overlap_ratio  1.1090909090909091
+commit_fileset_overlap_ratio 1.0363636363636364
+pairwise_committer_overlap 0.03636363636363636
+Name: wicket Tag1: wicket-1.4.3 Tag2: wicket-1.4.4
+commit_overlap_ratio  1.3271028037383177
+commit_fileset_overlap_ratio 1.0373831775700935
+pairwise_committer_overlap 0.01866084913576103
+Name: wicket Tag1: wicket-1.4.4 Tag2: wicket-1.4.5
+commit_overlap_ratio  1.0769230769230769
+commit_fileset_overlap_ratio 1.0
+pairwise_committer_overlap 0.0
+Name: wicket Tag1: wicket-1.4.5 Tag2: wicket-1.4.6
+commit_overlap_ratio  1.1304347826086956
+commit_fileset_overlap_ratio 1.0434782608695652
+pairwise_committer_overlap 0.029239766081871343
+Name: wicket Tag1: wicket-1.4.6 Tag2: wicket-1.4.7
+commit_overlap_ratio  1.121212121212121
+commit_fileset_overlap_ratio 1.0101010101010102
+pairwise_committer_overlap 0.010101010101010102
+Name: wicket Tag1: wicket-1.4.7 Tag2: wicket-1.4.8
+commit_overlap_ratio  1.1964285714285714
+commit_fileset_overlap_ratio 1.0357142857142858
+pairwise_committer_overlap 0.0746031746031746
+Name: wicket Tag1: wicket-1.4.8 Tag2: wicket-1.4.9
+commit_overlap_ratio  1.1147540983606556
+commit_fileset_overlap_ratio 1.0
+pairwise_committer_overlap 0.0
+Name: wicket Tag1: wicket-1.4.9 Tag2: wicket-1.4.10
+commit_overlap_ratio  1.3636363636363635
+commit_fileset_overlap_ratio 1.1515151515151516
+pairwise_committer_overlap 0.15064866562504378
+Name: wicket Tag1: wicket-1.4.10 Tag2: wicket-1.4.11
+commit_overlap_ratio  1.2458100558659218
+commit_fileset_overlap_ratio 1.0223463687150838
+pairwise_committer_overlap 0.01212982705520019
+Name: wicket Tag1: wicket-1.4.11 Tag2: wicket-1.4.12
+commit_overlap_ratio  1.0666666666666667
+commit_fileset_overlap_ratio 1.0
+pairwise_committer_overlap 0.0
+Name: wicket Tag1: wicket-1.4.12 Tag2: wicket-1.4.13
+commit_overlap_ratio  1.1927710843373494
+commit_fileset_overlap_ratio 1.072289156626506
+pairwise_committer_overlap 0.09156860844641052
+Name: wicket Tag1: wicket-1.4.13 Tag2: wicket-1.4.14
+commit_overlap_ratio  1.0038451679056652
+commit_fileset_overlap_ratio 1.0010253781081775
+pairwise_committer_overlap 0.01780380246170404
+Name: wicket Tag1: wicket-1.4.14 Tag2: wicket-1.4.15
+commit_overlap_ratio  1.1896551724137931
+commit_fileset_overlap_ratio 1.0862068965517242
+pairwise_committer_overlap 0.08003256858298875
+Name: wicket Tag1: wicket-1.4.15 Tag2: wicket-1.4.16
+commit_overlap_ratio  1.2666666666666666
+commit_fileset_overlap_ratio 1.0888888888888888
+pairwise_committer_overlap 0.0642000392506222
+Name: wicket Tag1: wicket-1.4.16 Tag2: wicket-1.4.17
+commit_overlap_ratio  1.1363636363636365
+commit_fileset_overlap_ratio 1.0454545454545454
+pairwise_committer_overlap 0.023974438260152543
+Name: wicket Tag1: wicket-1.4.17 Tag2: wicket-1.4.18
+commit_overlap_ratio  1.3870967741935485
+commit_fileset_overlap_ratio 1.0903225806451613
+pairwise_committer_overlap 0.0518786828942062
+Name: wicket Tag1: wicket-1.4.18 Tag2: wicket-1.4.19
+commit_overlap_ratio  1.5
+commit_fileset_overlap_ratio 1.0227272727272727
+pairwise_committer_overlap 0.037037037037037035
+Name: wicket Tag1: wicket-1.4.19 Tag2: wicket-1.4.20
+commit_overlap_ratio  1.3114754098360655
+commit_fileset_overlap_ratio 1.1147540983606556
+pairwise_committer_overlap 0.1029419560031805
+Name: wicket Tag1: wicket-1.4.20 Tag2: wicket-1.5.0
+commit_overlap_ratio  2.780284507668371
+commit_fileset_overlap_ratio 1.6326961547010446
+pairwise_committer_overlap 0.2900749071158517
+Name: wicket Tag1: wicket-1.5.0 Tag2: wicket-1.5.1
+commit_overlap_ratio  1.6277777777777778
+commit_fileset_overlap_ratio 1.1055555555555556
+pairwise_committer_overlap 0.07929481864344312
+Name: wicket Tag1: wicket-1.5.1 Tag2: wicket-1.5.2
+commit_overlap_ratio  1.6850828729281768
+commit_fileset_overlap_ratio 1.0662983425414365
+pairwise_committer_overlap 0.0647108050408324
+Name: wicket Tag1: wicket-1.5.2 Tag2: wicket-1.5.3
+commit_overlap_ratio  1.095679012345679
+commit_fileset_overlap_ratio 1.0277777777777777
+pairwise_committer_overlap 0.010087976539589443
+Name: wicket Tag1: wicket-1.5.3 Tag2: wicket-1.5.4
+commit_overlap_ratio  1.2912280701754386
+commit_fileset_overlap_ratio 1.1368421052631579
+pairwise_committer_overlap 0.09147580073185183
+Name: wicket Tag1: wicket-1.5.4 Tag2: wicket-1.5.5
+commit_overlap_ratio  1.2447552447552448
+commit_fileset_overlap_ratio 1.083916083916084
+pairwise_committer_overlap 0.1454126136400852
+Name: wicket Tag1: wicket-1.5.5 Tag2: wicket-1.5.6
+commit_overlap_ratio  1.201219512195122
+commit_fileset_overlap_ratio 1.0426829268292683
+pairwise_committer_overlap 0.028806584362139915
