@@ -1,0 +1,1112 @@
+Repo:  avro  tag1:  release-1.4.0  tag2:  release-1.4.1  cor:  1.0  cfor: 1.0  pco:  0
+Removing commit:  3b5d0336153495e29ee42605e6b11fa27a3fec5b
+Removing commit:  4631aef659d3795b5d3d7dc8e458b131387c2640
+Removing commit:  9403bef4294b16c9eb59e6876f7a6fb6cecfaa0a
+Removing commit:  3962eec7f14fc83542437a50c49dcd2d4b481410
+Repo:  avro  tag1:  release-1.4.1  tag2:  release-1.5.0  cor:  1.4375  cfor: 1.0625  pco:  0.017011556566351088
+Removing commit:  cb6560b1ad29c12ff7ddd4bfba646424e99f6bb6
+Repo:  avro  tag1:  release-1.5.0  tag2:  release-1.5.1  cor:  1.1176470588235294  cfor: 1.0  pco:  0
+Repo:  avro  tag1:  release-1.5.1  tag2:  release-1.5.2  cor:  1.2285714285714286  cfor: 1.0  pco:  0.0
+Repo:  avro  tag1:  release-1.5.2  tag2:  release-1.5.3  cor:  1.0  cfor: 1.0  pco:  0
+Repo:  avro  tag1:  release-1.5.3  tag2:  release-1.5.4  cor:  1.0  cfor: 1.0  pco:  0
+Removing commit:  666be14b735fa4b6e03c20b5c15d229f90efd437
+Removing commit:  da44c2318c5dc9bfc4116cd713bcd0eb872e6e5a
+Repo:  avro  tag1:  release-1.5.4  tag2:  release-1.6.0  cor:  1.7377049180327868  cfor: 1.1475409836065573  pco:  0.06767402417557217
+Repo:  avro  tag1:  release-1.6.0  tag2:  release-1.6.1  cor:  1.0  cfor: 1.0  pco:  0
+Repo:  avro  tag1:  release-1.6.1  tag2:  release-1.6.2  cor:  1.4444444444444444  cfor: 1.1333333333333333  pco:  0.06025641025641026
+Repo:  avro  tag1:  release-1.6.2  tag2:  release-1.6.3  cor:  1.0  cfor: 1.0  pco:  0.0
+Removing commit:  446bd1be05c2e1c385d24b31e79504a9fcb1b4b2
+Repo:  avro  tag1:  release-1.6.3  tag2:  release-1.7.0  cor:  1.3513513513513513  cfor: 1.027027027027027  pco:  0.013513513513513514
+Removing commit:  f563913d15ec74a44ca86c8bd528b3573a4b031a
+Repo:  avro  tag1:  release-1.7.0  tag2:  release-1.7.1  cor:  1.0625  cfor: 1.0  pco:  0.0
+Removing commit:  8775193276e3c5511b6a97a9546c8c9804706b28
+Repo:  avro  tag1:  release-1.7.1  tag2:  release-1.7.2  cor:  1.263157894736842  cfor: 1.0526315789473684  pco:  0.02631578947368421
+Repo:  avro  tag1:  release-1.7.2  tag2:  release-1.7.3  cor:  1.2954545454545454  cfor: 1.0681818181818181  pco:  0.02727272727272727
+Repo:  avro  tag1:  release-1.7.3  tag2:  release-1.7.4  cor:  1.099009900990099  cfor: 1.00990099009901  pco:  0.00510204081632653
+Repo:  avro  tag1:  release-1.7.4  tag2:  release-1.7.5  cor:  1.4210526315789473  cfor: 1.131578947368421  pco:  0.04905846500169895
+Repo:  avro  tag1:  release-1.7.5  tag2:  release-1.7.6  cor:  1.2087912087912087  cfor: 1.0  pco:  0.0
+Removing commit:  24a09408139ef14448f94388099b8f5f54a3b3ea
+Removing commit:  21ab70c79ec8651a5969836fe033f1bd731269de
+Removing commit:  3f3768deaa025a6e6e8ca160b23ff595fde2d758
+Removing commit:  52a78c40362a386cf1b0d87160e2aaf15cf59ce6
+Removing commit:  0de81833633e28f001e3e1459befc31e1b1672b5
+Removing commit:  ac1ddae4a1d83346d17abac94539e1acd28a0137
+Removing commit:  2c0b7ee2219fe8e6c2c4631801230a33aeb8074d
+Removing commit:  0e65129eafe12f2665b3ca247d2d1ceeb6c4ac8e
+Removing commit:  184850cf76b7050366a320923879571662f6eb14
+Removing commit:  e168eaf2246fa3b4b03e5ade7d5356410c1c3d12
+Removing commit:  9b4dbbb553e2ee759212741d6630b3c64cc92d1a
+Removing commit:  84223af1a19507cda7f8661366655dab2c336b5f
+Removing commit:  7007ffc09359f88a9f3eddc017cd1d38047d0a4b
+Removing commit:  1fb532a8cf13d0fa1894d4d1fb329c374752c57a
+Removing commit:  c195258455476e4fc7df537e10ceea114fb00c45
+Removing commit:  83eba58f69316ab017b08d88e0a765d05f8d63ed
+Removing commit:  800d6b1b62b4f4c6c09def5f5fbc2c63cbc0e95a
+Removing commit:  e095e00c31bedfca6421b10bd31576c2bcdd1fe1
+Repo:  camel  tag1:  camel-2.2.0  tag2:  camel-2.3.0  cor:  1.8834216502649508  cfor: 1.129447388342165  pco:  0.05101823207842704
+Removing commit:  3ed3cbdc2fdc279d1ef859db04948e0736e55855
+Removing commit:  a24f83b12e90ce52f41c256dea6e4b9b7528ee2a
+Removing commit:  f6b6e816d521637c549e4b7663526131340ff9ea
+Removing commit:  69af64009dc0ecd9105d96f2c481130b604e778f
+Removing commit:  6b669aeb5a08753a67d6dad937af55087d699bf0
+Removing commit:  69b644cee878e1380e5e241abdc55ae8acd1da55
+Repo:  camel  tag1:  camel-2.3.0  tag2:  camel-2.4.0  cor:  1.6451271186440677  cfor: 1.146186440677966  pco:  0.06601245707828053
+Removing commit:  5a919af89a5d8141df042c201c7197e1e7c559cf
+Removing commit:  369f8c4968450689aec7ecd515b43d2557202efe
+Removing commit:  5a57b334d860c19332f81e7b84947e452341a18c
+Removing commit:  24e8d0e32362a13bd78473bd14b227363711df07
+Repo:  camel  tag1:  camel-2.4.0  tag2:  camel-2.5.0  cor:  1.549604916593503  cfor: 1.1501316944688322  pco:  0.06305593874318395
+Removing commit:  8aa20c8b3baeb08a5336323d5d39742e45b1d582
+Removing commit:  77507ff4593e8c0474a26f6d6529a0ae8bfc4a63
+Removing commit:  ed5b319c7792bddbc7d93d60a8469a078e7a74e4
+Removing commit:  cb93d614508d309b6968c846e000c43e1709d58c
+Removing commit:  7573a5cd8a929f0c64096ebe03e663e72f037695
+Removing commit:  55730ba816cc91a9253511813d611fd852bb2069
+Removing commit:  3243303c9760ca2847191a5eb26733580b398079
+Removing commit:  e029fef594c3f6266c06582ffe6b48e30af20574
+Repo:  camel  tag1:  camel-2.5.0  tag2:  camel-2.6.0  cor:  1.5283194057567318  cfor: 1.1318477251624883  pco:  0.0813566722923695
+Removing commit:  1f3d68818b9bfcb4548537920ae7a3f144cc1a04
+Removing commit:  4fd620cbaa5455d2204dad5c0286a355a5723f85
+Removing commit:  1fc970105cea6f7505eeb5406375819a946974c7
+Removing commit:  90f4acf746b0549002bc847337dee24b26d0f945
+Removing commit:  5a2ddd18abb4d2c43be2679e5bf848ade0338179
+Removing commit:  d0678691ef7899664d6b5e6fee22d253804b5a8b
+Removing commit:  2c295f02f7868cca60ed98a55b490083d2695a2a
+Removing commit:  7ba68f344f2ed0c95ac627f43220f220f68e8ce4
+Removing commit:  bbc399a2135f1edce6753cdd4bb20fe6e21c8889
+Removing commit:  c72cc348cc77ef1d43837a842d2e2155527eedee
+Removing commit:  86d45cf7c7cd43570fb754ef0414f4b85462ad16
+Removing commit:  22f593eec698bb4d5716ed0609eaac8443df1641
+Removing commit:  5dc3d8ea3de9c21a27f688cea266bf806fc5b878
+Removing commit:  c949d37cad074c985efba341058e706c7e51ae8f
+Removing commit:  78a88adca9373f81ee812c2ac03277a6aa120b12
+Removing commit:  9bff5e9bbb6490845bfb67e56a278678cc1cc37e
+Removing commit:  f051743509f30440b7976187e2c26b0565fa0939
+Removing commit:  0ed65ea0f72612542f7ca0d5c50c4d406a83011d
+Repo:  camel  tag1:  camel-2.6.0  tag2:  camel-2.7.0  cor:  1.4776119402985075  cfor: 1.155223880597015  pco:  0.0562944961093752
+Repo:  camel  tag1:  camel-2.7.0  tag2:  camel-2.7.1  cor:  1.0  cfor: 1.0  pco:  0
+Repo:  camel  tag1:  camel-2.7.1  tag2:  camel-2.7.2  cor:  1.0  cfor: 1.0  pco:  0
+Repo:  camel  tag1:  camel-2.7.2  tag2:  camel-2.7.3  cor:  1.217616580310881  cfor: 1.0  pco:  0.0
+Repo:  camel  tag1:  camel-2.7.3  tag2:  camel-2.7.4  cor:  1.1666666666666667  cfor: 1.0  pco:  0.0
+Removing commit:  a0f211e84b10fb1a445934c016e531294e8ce299
+Repo:  camel  tag1:  camel-2.7.4  tag2:  camel-2.7.5  cor:  1.1829268292682926  cfor: 1.048780487804878  pco:  0.054666119321291735
+Removing commit:  f4c00bb37779012982683999eb9fa05fe977483c
+Removing commit:  bb6a70e7e8d5befb3a130d93a4b6ffe66fbc70d1
+Removing commit:  68fb2769273fbc349d83f3eef91c08f8d930c679
+Removing commit:  28f975bd0984eea4c257b4c176f126dbaf7ad422
+Removing commit:  49d07ea0a09758fec3baa12dc7cf0c1d79a0129d
+Removing commit:  e5d728e4de1267407c6c3e1be512451e6d3f6aca
+Removing commit:  340e5da400ef6e7f30ceb2265d974cd653e7ccdf
+Removing commit:  aa3c78fb513618e70c7122e3fe53689af93d4dfd
+Removing commit:  c0a9a7f09ec7d710029f405086681eeb1b8c597c
+Removing commit:  97a7ead6df4b5c660eeab56ce1326c2757ae1182
+Removing commit:  729fb43081a047bb2d7ee66adaaaea49a3892682
+Removing commit:  aa6423972f17042af05d7f0c692756f2be60b1e3
+Removing commit:  2cdb5b8947ab1ead2eb1e594085289e5948c6d64
+Removing commit:  04ebf90548945cf0b5130227540de0972c74a52f
+Removing commit:  13c6fe6983293b223b1e055868e80c9892490277
+Removing commit:  dc3d97291b21563a7219abe4c4a40a667fc68bbb
+Removing commit:  5acec12441719fbc97c91bd2cab74a6f169517db
+Removing commit:  3a5efd71396f7febeee17b268071b5a07cba27c3
+Removing commit:  92c3ac42a4491d70d33019151eea12223610c890
+Removing commit:  10b00d875c171b15b2fbf2416a904b0839baa116
+Removing commit:  c401830ce9c9fe911aac545c8dd1a0ef7b2d9465
+Removing commit:  3b2a5d373a23b94525a0392fc45fa8f69b6f509b
+Repo:  camel  tag1:  camel-2.7.5  tag2:  camel-2.8.0  cor:  1.5325484764542936  cfor: 1.190443213296399  pco:  0.10833734802803299
+Repo:  camel  tag1:  camel-2.8.0  tag2:  camel-2.8.1  cor:  1.0970873786407767  cfor: 1.0388349514563107  pco:  0.02044119797458368
+Repo:  camel  tag1:  camel-2.8.1  tag2:  camel-2.8.2  cor:  1.356955380577428  cfor: 1.0656167979002624  pco:  0.07979860865910186
+Removing commit:  41be4e68887f9cfba73805847ef3627f4077520b
+Repo:  camel  tag1:  camel-2.8.2  tag2:  camel-2.8.3  cor:  1.25  cfor: 1.0666666666666667  pco:  0.03698345317508447
+Removing commit:  bc6efb2b5c279a9fe0845cbc83c6c360ceb40c9a
+Removing commit:  39e23bc8cc40c89f3a6a7ad15dd3dee67e352926
+Removing commit:  a4e867e3324797d1fb74e50ae7027657427be32b
+Repo:  camel  tag1:  camel-2.8.3  tag2:  camel-2.8.4  cor:  1.2008032128514057  cfor: 1.0522088353413654  pco:  0.04549455514529044
+Removing commit:  036ca580de7c034e53cf99a6e1d9c4212b6edbf3
+Repo:  camel  tag1:  camel-2.8.4  tag2:  camel-2.8.5  cor:  1.2962962962962963  cfor: 1.0679012345679013  pco:  0.03206060791725633
+Repo:  camel  tag1:  camel-2.8.5  tag2:  camel-2.8.6  cor:  1.2857142857142858  cfor: 1.1785714285714286  pco:  0.1079499442053244
+Removing commit:  6fa52d9449509c320f8993541c65f3bac27128c4
+Removing commit:  b273e912a16c95fd723d4362f462b97aa41add82
+Removing commit:  44269e250aea85115652a059d6be887dcc0906e5
+Removing commit:  f5bc1fba6e149889fafae1dc69a923fb71fd2628
+Removing commit:  64fe35138794907cf0ea9c05ac9d8db5a0738cc1
+Removing commit:  4bda9c7e658d5448d84b9004f27eb7dae175bc3b
+Removing commit:  414d6c8eb763c8916ea6d74a61dcd23f2f3ae0e8
+Removing commit:  6487011b23ff0cad6a78cdf2fbd87861426671d1
+Removing commit:  2b913412f89a0f1ff811058a9f0e24f052d5c5a0
+Removing commit:  03ca36e94ed6b8f3e29f22c78377b618ad123bb7
+Removing commit:  db2cc43134f7e788d0b15bbbf9762f69cd0218c8
+Removing commit:  9b08833283c3c8a971cbc9824d87614cd80df6c4
+Removing commit:  729104692dc86db15847b83bca7ef60acebdbd18
+Removing commit:  2026ede8f6de883760b4e892463ebe5ac687f511
+Removing commit:  3ceb5beb46cef3fc01187a4546d988289969f187
+Removing commit:  70d5d2c168bd477e3b8330fd7802b280d1f72b8e
+Removing commit:  b9a47c85bfb351c3be6b7c0245982ddf20a90e74
+Removing commit:  c14ae0642d24cbaa0ba54cccf18e06bbaa489855
+Removing commit:  bd35764186633c43756a8407a13e1da61224cf9d
+Removing commit:  21b4588fcf7d9cdbb20e4d652d2ac2dd16321d69
+Removing commit:  f1ac4119a4eafd564db0bb5e5b153df50671ac4d
+Removing commit:  5bd725c4e7ff364e33782e128cbf21b16751e034
+Removing commit:  523e4010211143cb74379a287afe9b89b9931911
+Removing commit:  e374344645d7dc2d9f3655e700d731cfd0dda50d
+Removing commit:  e135e4ad4c9825f81ace0f42ee41aadc658dd2f2
+Removing commit:  8aae4c3a0317f1e0709561d1bb69e9b543a2171c
+Removing commit:  af187d7a5dcf0c347d7b3764acf6e061d2d7feba
+Removing commit:  0c149e3da1de49eb6289c16a1716936b647322b4
+Removing commit:  ebaa63916842f37d114172a90d678a6fb3834144
+Repo:  camel  tag1:  camel-2.8.6  tag2:  camel-2.9.0  cor:  1.6031413612565446  cfor: 1.230890052356021  pco:  0.11150664652956534
+Removing commit:  9b08ccf026f4152db8187df43611a597677db0a8
+Removing commit:  0a78c39db4db05caf8b80c0ceccee1eca08fd39e
+Removing commit:  a2598edec1d54ade4ad28abcd9f8093c703aefdf
+Removing commit:  16fc6e4cc3df3b369b02129954ff3eb2ee7d4408
+Removing commit:  ed5c7047771e504aaf6d9ad973baaf6a41485f2f
+Removing commit:  16e1a9ff359b0d9e5f81df4acd33cf364274276e
+Removing commit:  1d74be79a99df2067667fd025123345f4a2e2aa4
+Removing commit:  78a62aa6cc19e26b11b895e76b3b982d4e40307f
+Removing commit:  8bae6ad3deab395a0d33bef25739f6c1235d7cfb
+Removing commit:  12a6102d606fb927fc345b091ea36843858a8a92
+Removing commit:  0cfdfbc9188bd20dd2f16333ab691aaf4ec9f5c2
+Removing commit:  ec03dd97da58fc1ae476e12fa66c808cae76d986
+Removing commit:  9e8830b5fea848ac6e49156ce3b763efb4748c7d
+Removing commit:  714bd025650bd74578eda63ad0054fff612c817c
+Removing commit:  acd62de40630c3b8e62eb8658ff64a2759264a43
+Removing commit:  38df88f9ca25be20199125b90808234416130ff2
+Removing commit:  3d0c3862fd7201a1d81812232acf30e0e4db0a0b
+Removing commit:  d5293f2d538471ef901ce11d59b517a81f8435ea
+Repo:  camel  tag1:  camel-2.9.0  tag2:  camel-2.9.1  cor:  1.8547544409613375  cfor: 1.2142110762800418  pco:  0.07719800360729387
+Repo:  camel  tag1:  camel-2.9.1  tag2:  camel-2.9.2  cor:  1.3288288288288288  cfor: 1.0225225225225225  pco:  0.007473735327908657
+Removing commit:  cf0b8ede7b1e7b19164c271f8b29fbc655021897
+Repo:  camel  tag1:  camel-2.9.2  tag2:  camel-2.9.3  cor:  1.2903930131004366  cfor: 1.0589519650655022  pco:  0.05280729320050423
+Repo:  camel  tag1:  camel-2.9.3  tag2:  camel-2.9.4  cor:  1.196629213483146  cfor: 1.0674157303370786  pco:  0.04510530278776727
+Repo:  camel  tag1:  camel-2.9.4  tag2:  camel-2.9.5  cor:  1.2892561983471074  cfor: 1.0578512396694215  pco:  0.032834011977349045
+Repo:  camel  tag1:  camel-2.9.5  tag2:  camel-2.9.6  cor:  1.3220338983050848  cfor: 1.11864406779661  pco:  0.19238688904282228
+Repo:  camel  tag1:  camel-2.9.6  tag2:  camel-2.9.7  cor:  1.119047619047619  cfor: 1.0  pco:  0.0
+Repo:  camel  tag1:  camel-2.9.7  tag2:  camel-2.9.8  cor:  1.2  cfor: 1.0  pco:  0.0
+Repo:  cassandra  tag1:  cassandra-0.7.1  tag2:  cassandra-0.7.2  cor:  1.8611111111111112  cfor: 1.0555555555555556  pco:  0.037037037037037035
+Repo:  cassandra  tag1:  cassandra-0.7.2  tag2:  cassandra-0.7.3  cor:  2.0319148936170213  cfor: 1.2127659574468086  pco:  0.10501089324618736
+Repo:  cassandra  tag1:  cassandra-0.7.3  tag2:  cassandra-0.7.4  cor:  2.2195121951219514  cfor: 1.4390243902439024  pco:  0.2288954288954289
+Removing commit:  ec26ee73bf05812cc79af2a3d63ba5bfac7ffd31
+Repo:  cassandra  tag1:  cassandra-0.7.4  tag2:  cassandra-0.7.5  cor:  1.6666666666666667  cfor: 1.2285714285714286  pco:  0.12253689706519895
+Repo:  cassandra  tag1:  cassandra-0.7.5  tag2:  cassandra-0.7.6  cor:  1.794871794871795  cfor: 1.1025641025641026  pco:  0.05848214285714286
+Repo:  cassandra  tag1:  cassandra-0.7.6  tag2:  cassandra-0.7.7  cor:  1.4423076923076923  cfor: 1.1730769230769231  pco:  0.11538461538461538
+Repo:  cassandra  tag1:  cassandra-0.7.7  tag2:  cassandra-0.7.8  cor:  1.2727272727272727  cfor: 1.1818181818181819  pco:  0.12121212121212122
+Repo:  cassandra  tag1:  cassandra-0.7.8  tag2:  cassandra-0.7.9  cor:  1.4  cfor: 1.3  pco:  0.26825396825396824
+Repo:  cassandra  tag1:  cassandra-0.7.9  tag2:  cassandra-0.7.10  cor:  1.0  cfor: 1.0  pco:  0.0
+Removing commit:  b62b0aedd67a387b8d4b5f8bc083803e2fd99dae
+Removing commit:  4d1af49b98e6c0cb6b1908645d321bd21b448e4c
+Removing commit:  5e75a7f9f079e363e6ce5f5e95cd36765ffad95c
+Removing commit:  944ed31f60499fcb6e5558ac3feb1c2ef0729288
+Removing commit:  c5ee059b06827db76dc1a6fa296f1c583916cbbf
+Removing commit:  e98eb1cc1f17e62369ef31f2a2bb9bf9c0f0ae7e
+Removing commit:  c12a1300f6908e09487c4ed1a48643afb0f231fe
+Removing commit:  ab5a8c77e4509fee9c4942ae391bbd82d7f7b295
+Removing commit:  5d02c51253a4f96ae3b116b62594e3685165e336
+Removing commit:  1ecdd7f91b6ff5a8b8b3339a21950221450bdd47
+Removing commit:  4ec9511421c42a925f0bedacbb17a7983bb4d2c3
+Removing commit:  2c4ac98c9ffa8ea52da801830c7cdb745ddc28f0
+Repo:  cassandra  tag1:  cassandra-0.7.10  tag2:  cassandra-0.8.0  cor:  3.5024752475247523  cfor: 1.603960396039604  pco:  0.47360016723678255
+Removing commit:  1196163b6c726fd6fca1717a56bd0f85ea82f420
+Removing commit:  835669aee8dc0ba14a37594e1ff07d056c74a3ea
+Removing commit:  1adcd1c52e87a2f59d9006a29fb9476174968a60
+Removing commit:  cf22ca808b1ed080c00031e6b4d69c159f1eaae5
+Repo:  cassandra  tag1:  cassandra-0.8.0  tag2:  cassandra-0.8.1  cor:  2.05  cfor: 1.3708333333333333  pco:  0.311771163932306
+Repo:  cassandra  tag1:  cassandra-0.8.1  tag2:  cassandra-0.8.2  cor:  2.0919540229885056  cfor: 1.2413793103448276  pco:  0.21767802028218694
+Repo:  cassandra  tag1:  cassandra-0.8.2  tag2:  cassandra-0.8.3  cor:  1.3846153846153846  cfor: 1.1730769230769231  pco:  0.13607545852883013
+Repo:  cassandra  tag1:  cassandra-0.8.3  tag2:  cassandra-0.8.4  cor:  1.1481481481481481  cfor: 1.037037037037037  pco:  0.025
+Repo:  cassandra  tag1:  cassandra-0.8.4  tag2:  cassandra-0.8.5  cor:  1.6206896551724137  cfor: 1.2758620689655173  pco:  0.31671112194198847
+Removing commit:  6a958a90a8e95028fca55bd8f2e2ddcee7e1ce6a
+Repo:  cassandra  tag1:  cassandra-0.8.5  tag2:  cassandra-0.8.6  cor:  1.3181818181818181  cfor: 1.0909090909090908  pco:  0.06
+Repo:  cassandra  tag1:  cassandra-0.8.6  tag2:  cassandra-0.8.7  cor:  1.2962962962962963  cfor: 1.0740740740740742  pco:  0.051821862348178135
+Repo:  cassandra  tag1:  cassandra-0.8.7  tag2:  cassandra-0.8.8  cor:  1.7  cfor: 1.25  pco:  0.17586744639376217
+Repo:  cassandra  tag1:  cassandra-0.8.8  tag2:  cassandra-0.8.9  cor:  1.4444444444444444  cfor: 1.0  pco:  0.0
+Repo:  cassandra  tag1:  cassandra-0.8.9  tag2:  cassandra-0.8.10  cor:  1.0714285714285714  cfor: 1.0714285714285714  pco:  0.125
+Removing commit:  127c02856d297ee9d2584227549b64f48414f6a2
+Removing commit:  01883da5fc68b6570fac934fbfe5e5340b5b98de
+Removing commit:  b95a49c5f9e22225fc0ebc703fd62bd8241bd9d7
+Removing commit:  e1a1ec5dbed98b5215682fce82a1e9cf2ae4b7fa
+Removing commit:  3c4687c6d8c8bc2989c8cc9e951a1804796428b2
+Removing commit:  a8ed29baec96c76bbfda1d878758e82b0323d0e7
+Removing commit:  c8afd769e5baec91f20508d0a37bf1bba93f09ff
+Removing commit:  7b532bcada7959f6ba04618f427f1b9dfe17ecd1
+Removing commit:  16d73851665146c763b24c947e7a157fe24e666b
+Repo:  cassandra  tag1:  cassandra-0.8.10  tag2:  cassandra-1.0.0  cor:  3.461206896551724  cfor: 1.6314655172413792  pco:  0.41410455636599314
+Removing commit:  84eeb28e3c60fee44597f4e4c663472ef147c811
+Repo:  cassandra  tag1:  cassandra-1.0.0  tag2:  cassandra-1.0.1  cor:  1.6141732283464567  cfor: 1.3070866141732282  pco:  0.2725294367860529
+Repo:  cassandra  tag1:  cassandra-1.0.1  tag2:  cassandra-1.0.2  cor:  1.2093023255813953  cfor: 1.1162790697674418  pco:  0.07705627705627706
+Repo:  cassandra  tag1:  cassandra-1.0.2  tag2:  cassandra-1.0.3  cor:  1.7857142857142858  cfor: 1.2857142857142858  pco:  0.2635215026519374
+Repo:  cassandra  tag1:  cassandra-1.0.3  tag2:  cassandra-1.0.4  cor:  1.25  cfor: 1.125  pco:  0.09523809523809523
+Repo:  cassandra  tag1:  cassandra-1.0.4  tag2:  cassandra-1.0.5  cor:  1.0  cfor: 1.0  pco:  0
+Repo:  cassandra  tag1:  cassandra-1.0.5  tag2:  cassandra-1.0.6  cor:  1.6323529411764706  cfor: 1.3970588235294117  pco:  0.26671989492774223
+Removing commit:  1196163b6c726fd6fca1717a56bd0f85ea82f420
+Removing commit:  6a958a90a8e95028fca55bd8f2e2ddcee7e1ce6a
+Removing commit:  cf22ca808b1ed080c00031e6b4d69c159f1eaae5
+Repo:  cassandra  tag1:  cassandra-1.0.6  tag2:  cassandra-1.0.7  cor:  3.4232954545454546  cfor: 1.5909090909090908  pco:  0.49328029926484074
+Repo:  cassandra  tag1:  cassandra-1.0.7  tag2:  cassandra-1.0.8  cor:  1.9019607843137254  cfor: 1.2941176470588236  pco:  0.2749207862335509
+Repo:  cassandra  tag1:  cassandra-1.0.8  tag2:  cassandra-1.0.9  cor:  1.3829787234042554  cfor: 1.127659574468085  pco:  0.1180368149258704
+Repo:  cassandra  tag1:  cassandra-1.0.9  tag2:  cassandra-1.0.10  cor:  1.2222222222222223  cfor: 1.037037037037037  pco:  0.016666666666666666
+Repo:  cassandra  tag1:  cassandra-1.0.10  tag2:  cassandra-1.0.11  cor:  1.3548387096774193  cfor: 1.096774193548387  pco:  0.044360902255639094
+Repo:  cassandra  tag1:  cassandra-1.0.11  tag2:  cassandra-1.0.12  cor:  1.4  cfor: 1.0  pco:  0.0
+Removing commit:  2bc0d4db9d1b8fe074c7f79e90420072d5890ace
+Removing commit:  07cdfd07a3dc1fe9f9d6e1c24ad926eecae4017a
+Removing commit:  438acfc8c4b58e05791ebc232e4517c71a4631e7
+Removing commit:  a15c35b0942f91d6f9e45139d99491e189989bde
+Removing commit:  655ccc3abfc0f3fbe974d3f52cd38bf0d6afe2a9
+Removing commit:  ccb0028931c9de665d521b4798a9f63f7dee7497
+Removing commit:  3297a96e1849f41d9c61f024282ed52d642e0794
+Removing commit:  295aedb278e7a495213241b66bc46d763fd4ce66
+Removing commit:  b226cf93f8f3a6b6d7c2863df427656a86dd1361
+Removing commit:  7c8c57041bb739ab87377171f581f1dd85fd1b1f
+Removing commit:  37b079352d412bb67036aa4130107728b9c8ae0d
+Removing commit:  554223b4a65c7839c36e8a17e36636b92f4f15a0
+Repo:  cassandra  tag1:  cassandra-1.0.12  tag2:  cassandra-1.1.0  cor:  2.910614525139665  cfor: 1.812849162011173  pco:  0.6109212047547722
+Removing commit:  38ee718ee6edc0116a3727d9186b64272daa1018
+Repo:  cassandra  tag1:  cassandra-1.1.0  tag2:  cassandra-1.1.1  cor:  2.22  cfor: 1.465  pco:  0.26101007179531943
+Repo:  cassandra  tag1:  cassandra-1.1.1  tag2:  cassandra-1.1.2  cor:  1.4166666666666667  cfor: 1.2291666666666667  pco:  0.1639831093390604
+Repo:  cassandra  tag1:  cassandra-1.1.2  tag2:  cassandra-1.1.3  cor:  1.375  cfor: 1.1125  pco:  0.0795958613394568
+Repo:  cassandra  tag1:  cassandra-1.1.3  tag2:  cassandra-1.1.4  cor:  1.6  cfor: 1.0  pco:  0.0
+Repo:  cassandra  tag1:  cassandra-1.1.4  tag2:  cassandra-1.1.5  cor:  1.1041666666666667  cfor: 1.0625  pco:  0.05112044817927171
+Removing commit:  aba5a37650232dbf10b505c04b257f73b6c9b579
+Repo:  cassandra  tag1:  cassandra-1.1.5  tag2:  cassandra-1.1.6  cor:  1.6  cfor: 1.3636363636363635  pco:  0.18717516695457873
+Repo:  cassandra  tag1:  cassandra-1.1.6  tag2:  cassandra-1.1.7  cor:  1.3623188405797102  cfor: 1.2028985507246377  pco:  0.17760701353154182
+Repo:  cassandra  tag1:  cassandra-1.1.7  tag2:  cassandra-1.1.8  cor:  1.2083333333333333  cfor: 1.0833333333333333  pco:  0.04444444444444444
+Repo:  cassandra  tag1:  cassandra-1.1.8  tag2:  cassandra-1.1.9  cor:  1.3571428571428572  cfor: 1.25  pco:  0.18734335839598998
+Repo:  cassandra  tag1:  cassandra-1.1.9  tag2:  cassandra-1.1.10  cor:  1.2083333333333333  cfor: 1.0  pco:  0.0
+Repo:  cassandra  tag1:  cassandra-1.1.10  tag2:  cassandra-1.1.11  cor:  1.2083333333333333  cfor: 1.0833333333333333  pco:  0.06288862652499017
+Repo:  cassandra  tag1:  cassandra-1.1.11  tag2:  cassandra-1.1.12  cor:  1.1111111111111112  cfor: 1.0555555555555556  pco:  0.025
+Removing commit:  3a2faf9424769cfee5fdad25f4513611820ca980
+Removing commit:  5a6e2b0eabc3cfb2e347c4c59e12246a98a3e277
+Removing commit:  4d34917d2f0ceddd86dbed285391b05df19d46e9
+Removing commit:  6d3a3eed27af0b6dd398da5bdd342d5bbd5340c0
+Removing commit:  686139af7952c985431604abbe41ded6f8b40f07
+Removing commit:  45b4fd8e9c7230b14058761399283124567aef63
+Removing commit:  4e17ac4699e59637f20cd4cfcf2258eec5c42c5a
+Removing commit:  07cf56f26cb5577c67f0d69cac970677633898da
+Removing commit:  37f6a9f1037a764d6ceda74c02368d25579f8198
+Removing commit:  910b663b443505204e366292ba8a1c668c54d9ae
+Removing commit:  2fd3268b4841ff14d1c27bdcb4f80efc4174ffd0
+Removing commit:  91bdf7fb4220b27e9566c6673bf5dbd14153017c
+Removing commit:  5a3eb1a6c3e61bd217e23e5d1e7c27f03fab4f08
+Removing commit:  bddfa9e120bdafc204bde97bb51de1f86bf9695b
+Removing commit:  587cb5829f5858cf9e0faf7e6aca50b5e62dff7a
+Removing commit:  5a6f0b852935e7da957e5cfc397fd0a55b9516b6
+Removing commit:  2ae527218d2878b8fe874d2c05064351419ee832
+Removing commit:  debb15ed14aeff1f9bd1fc859cff10ee7248cf8c
+Removing commit:  7e4ef1cc29d472db773375802cb1e70e95fe9556
+Removing commit:  a15500e742b7c18804ead7ef338d6fa39b9ba984
+Removing commit:  a06be23fbe7859063039767ce0dff64922445f39
+Removing commit:  021ec71be5c32788347cee077034df690a279a34
+Removing commit:  5c94432b239547ef3ee8326e9543200f67a2ed2f
+Removing commit:  5d46a014be3b4ee3ff010c2c180ec3aa9ccac48b
+Removing commit:  69cedbfcaad18f40dcf97648c8adf129614054db
+Removing commit:  cb25a8fcdd9626c6b29a3b1a94dfda5fd0375928
+Removing commit:  90170d1594c3a88f0a7b6a25da7161bb7af2e552
+Removing commit:  95f94a4da0b31ffbf6f8c1e17e720b5e3ae70e91
+Removing commit:  7588f74d01afe5f65ee3ce7afe2b4423ece0970d
+Removing commit:  f650d3e8234cc30e71e2a227d597056946ef7bea
+Repo:  cassandra  tag1:  cassandra-1.1.12  tag2:  cassandra-1.2.0  cor:  3.5500878734622145  cfor: 1.8558875219683655  pco:  0.6118946765150696
+Repo:  cassandra  tag1:  cassandra-1.2.0  tag2:  cassandra-1.2.1  cor:  1.569767441860465  cfor: 1.2616279069767442  pco:  0.18126365476363226
+Removing commit:  a67f77922a5aba36540abd4526adf4ded1d6e8c7
+Removing commit:  31e669ab425759b8a6e5c09a1d6635d013b838d9
+Repo:  cassandra  tag1:  cassandra-1.2.1  tag2:  cassandra-1.2.2  cor:  1.4774774774774775  cfor: 1.3063063063063063  pco:  0.3806577748778388
+Repo:  cassandra  tag1:  cassandra-1.2.2  tag2:  cassandra-1.2.3  cor:  1.3563218390804597  cfor: 1.0804597701149425  pco:  0.07533647776905313
+Removing commit:  56f35dbf79e33c9fdc2c7350ee663cc72499e7ec
+Repo:  cassandra  tag1:  cassandra-1.2.3  tag2:  cassandra-1.2.4  cor:  1.6272727272727272  cfor: 1.3636363636363635  pco:  0.20986693302668613
+Repo:  cassandra  tag1:  cassandra-1.2.4  tag2:  cassandra-1.2.5  cor:  1.9814814814814814  cfor: 1.1944444444444444  pco:  0.08626359768966799
+Repo:  cassandra  tag1:  cassandra-1.2.5  tag2:  cassandra-1.2.6  cor:  1.6416666666666666  cfor: 1.1666666666666667  pco:  0.11007960840473156
+Repo:  cassandra  tag1:  cassandra-1.2.6  tag2:  cassandra-1.2.7  cor:  1.2658227848101267  cfor: 1.1012658227848102  pco:  0.1273627072659048
+Repo:  cassandra  tag1:  cassandra-1.2.7  tag2:  cassandra-1.2.8  cor:  1.2857142857142858  cfor: 1.0  pco:  0.0
+Repo:  cassandra  tag1:  cassandra-1.2.8  tag2:  cassandra-1.2.9  cor:  1.4583333333333333  cfor: 1.1875  pco:  0.19951467489698374
+Repo:  cassandra  tag1:  cassandra-1.2.9  tag2:  cassandra-1.2.10  cor:  1.3670886075949367  cfor: 1.1265822784810127  pco:  0.10321501585943177
+Repo:  cassandra  tag1:  cassandra-1.2.10  tag2:  cassandra-1.2.11  cor:  1.6896551724137931  cfor: 1.1954022988505748  pco:  0.10942067435623762
+Repo:  cassandra  tag1:  cassandra-1.2.11  tag2:  cassandra-1.2.12  cor:  1.1886792452830188  cfor: 1.0943396226415094  pco:  0.06555868464470616
+Repo:  cassandra  tag1:  cassandra-1.2.12  tag2:  cassandra-1.2.13  cor:  1.4705882352941178  cfor: 1.1764705882352942  pco:  0.11783596837944664
+Repo:  cassandra  tag1:  cassandra-1.2.13  tag2:  cassandra-1.2.14  cor:  1.5121951219512195  cfor: 1.2195121951219512  pco:  0.16807642031171444
+Repo:  cassandra  tag1:  cassandra-1.2.14  tag2:  cassandra-1.2.15  cor:  1.1666666666666667  cfor: 1.0  pco:  0.0
+Repo:  cassandra  tag1:  cassandra-1.2.15  tag2:  cassandra-1.2.16  cor:  1.3333333333333333  cfor: 1.0909090909090908  pco:  0.054285714285714284
+Repo:  cassandra  tag1:  cassandra-1.2.16  tag2:  cassandra-1.2.17  cor:  1.75  cfor: 1.2692307692307692  pco:  0.4373990395729526
+Repo:  cassandra  tag1:  cassandra-1.2.17  tag2:  cassandra-1.2.18  cor:  1.0  cfor: 1.0  pco:  0.0
+Repo:  cassandra  tag1:  cassandra-1.2.18  tag2:  cassandra-1.2.19  cor:  1.2758620689655173  cfor: 1.1379310344827587  pco:  0.08641975308641975
+Removing commit:  b068a9c4fa80ed85c463c6cb95102d2233fdf161
+Removing commit:  daff1fce0f17c03d51e06d1d9a27a70d9785a5a6
+Removing commit:  e48ff29387547c0837ab381f6e890f8417a1b65c
+Removing commit:  e9c674242b617588651ecbb79669e97a612cd25b
+Removing commit:  3a005df39797bd7b785d76830e72f3487dc9fa4e
+Removing commit:  eb4fa4a621db43ad9d48b146ee16caf09db7a853
+Removing commit:  fc8b76f79ec725c1082b18a0d6b19bdd080bb033
+Removing commit:  51511697254615b570f4162bbcd2baee23a234e9
+Removing commit:  a950b9257f4c92d067eb5e1d437096699123ac9b
+Removing commit:  1f7628ce7c1b3f820717eaa44df9b182158eb49e
+Removing commit:  0e96e585837c277073779a5f004fbb1e245964af
+Removing commit:  997ab95936c3527252a20f92d7deafcda493ec4e
+Removing commit:  6f217f7fe86cd06b23033f9efe678bde2e08d4d8
+Removing commit:  72a6cff6e883320a6ceec88e41b42ca15dff1e2e
+Removing commit:  d394ab14a91300ac017f233db6a40b71ff048214
+Removing commit:  aa76394764bcb4af54150f12528fed9ddfa66044
+Removing commit:  7f2c3a8e40f97c626def5c510d77c1da3d9ae926
+Removing commit:  1936648a1188b8948048610eb2ccea316a39c647
+Removing commit:  60d9c7f2f9bf3fc65dc486847815ebcb978c70f7
+Removing commit:  a9bd531bc9a286cc8e81a800aaa29c1fead62dcd
+Removing commit:  8b0e1868e8cf813ddfc98d11448aa2ad363eccc1
+Removing commit:  1d2c12242f20dfcc0b787129b4ad8eeef2768d6b
+Removing commit:  22f515b3760279046f051c083c8c2fe66bb80d56
+Removing commit:  b153d45644b1af0e645fcb3cdc1c835949289e41
+Repo:  cassandra  tag1:  cassandra-1.2.19  tag2:  cassandra-2.0.0  cor:  2.951473136915078  cfor: 1.7746967071057191  pco:  0.5311455202841884
+Removing commit:  bffd9ea8eb5358b5f138cbad8a387d5037d1ac12
+Removing commit:  83a43f121485a66c6862baca52e740cc479910e0
+Repo:  cassandra  tag1:  cassandra-2.0.0  tag2:  cassandra-2.0.1  cor:  1.393939393939394  cfor: 1.1464646464646464  pco:  0.1009485427880192
+Repo:  cassandra  tag1:  cassandra-2.0.1  tag2:  cassandra-2.0.2  cor:  2.1271676300578033  cfor: 1.3583815028901733  pco:  0.35162994771165557
+Repo:  cassandra  tag1:  cassandra-2.0.2  tag2:  cassandra-2.0.3  cor:  1.463235294117647  cfor: 1.1838235294117647  pco:  0.09032714368172218
+Repo:  cassandra  tag1:  cassandra-2.0.3  tag2:  cassandra-2.0.4  cor:  1.4666666666666666  cfor: 1.161904761904762  pco:  0.08375011840484986
+Repo:  cassandra  tag1:  cassandra-2.0.4  tag2:  cassandra-2.0.5  cor:  1.4824561403508771  cfor: 1.1842105263157894  pco:  0.17514582493529862
+Removing commit:  b09d876914ad9c9fdf1af35cf48cdb98c27bbf32
+Repo:  cassandra  tag1:  cassandra-2.0.5  tag2:  cassandra-2.0.6  cor:  1.5905511811023623  cfor: 1.1496062992125984  pco:  0.10650229825517182
+Repo:  cassandra  tag1:  cassandra-2.0.6  tag2:  cassandra-2.0.7  cor:  1.6581196581196582  cfor: 1.205128205128205  pco:  0.12424795813180568
+Repo:  cassandra  tag1:  cassandra-2.0.7  tag2:  cassandra-2.0.8  cor:  1.5876288659793814  cfor: 1.2783505154639174  pco:  0.26181951415895977
+Removing commit:  0ea840fd906739e376b81029b4c6061f8b6c7452
+Removing commit:  e18264114d6b08339022c90a10627e6a02bd7e0a
+Repo:  cxf  tag1:  cxf-2.1.1  tag2:  cxf-2.1.2  cor:  1.4026402640264026  cfor: 1.0528052805280528  pco:  0.014008063974670215
+Repo:  cxf  tag1:  cxf-2.1.2  tag2:  cxf-2.1.3  cor:  1.4797843665768193  cfor: 1.0862533692722371  pco:  0.03200522322111384
+Removing commit:  bcea35016d3af5f9570f3a75cd978f3a3f601c83
+Repo:  cxf  tag1:  cxf-2.1.3  tag2:  cxf-2.1.4  cor:  1.9979423868312758  cfor: 1.1378600823045268  pco:  0.05517011996300037
+Removing commit:  bacc3ce2dfde64dd0414e152b5945541ee6aab95
+Removing commit:  b5c29cf6f62b4b64f750ea6cacb8c9a629755e2f
+Removing commit:  9aacf6105112131c3b149ff4f74ae501980de966
+Removing commit:  b9cfbbbc51a90592cf5959f731aa15d2b4bd5f97
+Repo:  cxf  tag1:  cxf-2.1.4  tag2:  cxf-2.1.5  cor:  1.6613333333333333  cfor: 1.0746666666666667  pco:  0.030787318948600324
+Repo:  cxf  tag1:  cxf-2.1.5  tag2:  cxf-2.1.6  cor:  1.3636363636363635  cfor: 1.0363636363636364  pco:  0.03816168191311245
+Removing commit:  327e2a0dbc12e50c43935746426ad2b48df174da
+Removing commit:  668254820c31066d6c237eb1e46f755a9032cf33
+Removing commit:  3107a8bfa21cc4cd22c1eb89d59c1e266bfa8653
+Removing commit:  00975881e9f3288577b5b969b57ccb2d51b76d4f
+Removing commit:  7847f2968b6b9370d37d55379c0f6bfa2a2a63c4
+Removing commit:  c817e7e47411ac610519ac76dbea43efc6520a3b
+Removing commit:  595e86c4c8274a7d5df19b89f90bb936752d5c6a
+Removing commit:  332f1b45a6e551050752c21e23bbed55e21a951c
+Removing commit:  0430d445642f066487f49d2af1d8aea800ccaef4
+Removing commit:  4a6d55f30d927ff5156078b6ddb3644e05fa25e4
+Removing commit:  c76589a7177bc28e8ff8565f74f0489f1350b9e5
+Removing commit:  3df7e141b9f357fb00ed6f365d7f3591a900dd4e
+Removing commit:  452d5775c22d61c5e3632f3ae81747710ae1deb5
+Removing commit:  40f7c59a4bd5f517dc08dfd9210c82b85a49f19e
+Removing commit:  53c95f98d8a3143e3090b91bb8f6e592fe92643f
+Removing commit:  7a1362a20157a10f6abd88abf1732be2a46f752f
+Removing commit:  5ca5ae17be507d2b0a20a0af044d2239a2b5e7e6
+Removing commit:  06e87e432af7b34a60be1dcdb2bbfd41cfddf9db
+Removing commit:  6a2af61f1edf8e351acf59f5ae13725d7115ffb3
+Removing commit:  3f1a0e8d299a255a8c6639ce24fc025b5298fe58
+Removing commit:  c4bac0e7b6d6bda9fa15267c7f706a92d67e41e3
+Removing commit:  ac174e4edae3c8e912b7edff8e646739279bda6c
+Removing commit:  3ec46593009792f9ba5287bcab864ca6beb78dd1
+Removing commit:  8aa79b7e2c47072184b4b36a6a415f3be1c945a7
+Removing commit:  cfbf14244933b8c88c832c0e3bf71fc8a7d60046
+Removing commit:  ceb3a0b6a1170abed3182e9961b1d85202f063aa
+Removing commit:  48c8a4fa7ee15a37e9b3e79981e16982a680c010
+Removing commit:  f2d1e92da5c80dff5a505319a48b57bc73b394a1
+Removing commit:  a351932b5016f0f96d000540a8a7a9c0511b1327
+Removing commit:  3e2ee2c770eb37519b7b0bb8e9fcc3fe5cc93ad3
+Removing commit:  0424f4e276fffaedacf77b3157fdc2f6da582651
+Repo:  cxf  tag1:  cxf-2.1.6  tag2:  cxf-2.1.7  cor:  2.6864594894561598  cfor: 1.2452830188679245  pco:  0.12445930836416032
+Repo:  cxf  tag1:  cxf-2.1.7  tag2:  cxf-2.1.8  cor:  1.196969696969697  cfor: 1.0  pco:  0
+Repo:  cxf  tag1:  cxf-2.1.8  tag2:  cxf-2.1.9  cor:  1.3854166666666667  cfor: 1.0  pco:  0
+Removing commit:  3df7e141b9f357fb00ed6f365d7f3591a900dd4e
+Removing commit:  4a6d55f30d927ff5156078b6ddb3644e05fa25e4
+Removing commit:  332f1b45a6e551050752c21e23bbed55e21a951c
+Removing commit:  00975881e9f3288577b5b969b57ccb2d51b76d4f
+Removing commit:  53c95f98d8a3143e3090b91bb8f6e592fe92643f
+Removing commit:  c4bac0e7b6d6bda9fa15267c7f706a92d67e41e3
+Removing commit:  3ec46593009792f9ba5287bcab864ca6beb78dd1
+Removing commit:  ac174e4edae3c8e912b7edff8e646739279bda6c
+Removing commit:  cfbf14244933b8c88c832c0e3bf71fc8a7d60046
+Removing commit:  a351932b5016f0f96d000540a8a7a9c0511b1327
+Removing commit:  8aa79b7e2c47072184b4b36a6a415f3be1c945a7
+Removing commit:  f2d1e92da5c80dff5a505319a48b57bc73b394a1
+Repo:  cxf  tag1:  cxf-2.1.9  tag2:  cxf-2.2  cor:  2.318609022556391  cfor: 1.2067669172932332  pco:  0.13159976877788224
+Removing commit:  6a2af61f1edf8e351acf59f5ae13725d7115ffb3
+Repo:  cxf  tag1:  cxf-2.2  tag2:  cxf-2.2.1  cor:  1.3881118881118881  cfor: 1.0804195804195804  pco:  0.027082985027898788
+Removing commit:  40f7c59a4bd5f517dc08dfd9210c82b85a49f19e
+Removing commit:  06e87e432af7b34a60be1dcdb2bbfd41cfddf9db
+Repo:  cxf  tag1:  cxf-2.2.1  tag2:  cxf-2.2.2  cor:  1.2925531914893618  cfor: 1.0319148936170213  pco:  0.01571059234448477
+Removing commit:  70a60f52fb047eed8028dd3307634ac542d4e56c
+Repo:  cxf  tag1:  cxf-2.2.2  tag2:  cxf-2.2.3  cor:  1.5438144329896908  cfor: 1.074742268041237  pco:  0.03679804171685568
+Removing commit:  d2ab10e1ce932f89710e5c711f41b16c394d5c43
+Removing commit:  54ba1cbefa35e1db431a958ec3d5cf1eb131cb0a
+Removing commit:  8c20f2129cb5615c44e5d56a3764eba134c91dca
+Removing commit:  1938051f708fef447b05cd9c79bf8c648fc8c483
+Removing commit:  36866315e33274c4c3a99213b91642de8fdf957c
+Removing commit:  0eac154e7216d53aa26c67521ab16331cd33e7c8
+Removing commit:  26f28a87041e980357816e31a5ad975a88b8a532
+Removing commit:  0f55c195b0dc511bc67261fe8fd487e2eb709801
+Repo:  cxf  tag1:  cxf-2.2.3  tag2:  cxf-2.2.4  cor:  1.5339805825242718  cfor: 1.1132686084142396  pco:  0.0573937908496732
+Removing commit:  2670854e41d7d837800943d0c0139eba66f42363
+Removing commit:  b91d0efe5e996da819aa2b1af82a1ba33ca8cc39
+Removing commit:  90cad77ec5f8807f0eb3566aa87c35b8688778b8
+Repo:  cxf  tag1:  cxf-2.2.4  tag2:  cxf-2.2.5  cor:  1.313868613138686  cfor: 1.0072992700729928  pco:  0.0039197072468649995
+Repo:  cxf  tag1:  cxf-2.2.5  tag2:  cxf-2.2.6  cor:  1.448905109489051  cfor: 1.0364963503649636  pco:  0.03230179163014984
+Removing commit:  d62bd40c534a6aca7221a0b2fb59a08ecd0782c5
+Repo:  cxf  tag1:  cxf-2.2.6  tag2:  cxf-2.2.7  cor:  1.4424778761061947  cfor: 1.0353982300884956  pco:  0.016138742692897785
+Repo:  cxf  tag1:  cxf-2.2.7  tag2:  cxf-2.2.8  cor:  1.3051948051948052  cfor: 1.0584415584415585  pco:  0.03290184510382324
+Repo:  cxf  tag1:  cxf-2.2.8  tag2:  cxf-2.2.9  cor:  1.3488372093023255  cfor: 1.0232558139534884  pco:  0.023255813953488372
+Removing commit:  87218ef88b9582d0272750527223f5e336a215cb
+Removing commit:  7a47354a6d1e567658ce4d90af46644449230a04
+Removing commit:  b0081ff8702a03b5d054854512c70b90b794a235
+Removing commit:  3f21440052afed1379ec3d8c911639a42fe4791a
+Repo:  cxf  tag1:  cxf-2.2.9  tag2:  cxf-2.2.10  cor:  1.2334630350194553  cfor: 1.0583657587548638  pco:  0.02048953690874708
+Repo:  cxf  tag1:  cxf-2.2.10  tag2:  cxf-2.2.11  cor:  1.325  cfor: 1.09375  pco:  0.07132787067277843
+Repo:  cxf  tag1:  cxf-2.2.11  tag2:  cxf-2.2.12  cor:  1.3829787234042554  cfor: 1.0425531914893618  pco:  0.023774827365349645
+Removing commit:  f5ecfa9060998fd10ed9a25a152e6d2c1d2d282d
+Removing commit:  327e2a0dbc12e50c43935746426ad2b48df174da
+Removing commit:  3fc826aa702593e1c13a0660a8ce28567b36053f
+Removing commit:  0e86690b3dc0e88f050400bb2a609b15962d9894
+Removing commit:  f5dfcf4e721f8a454eaffd79be17196c843c4066
+Removing commit:  c76589a7177bc28e8ff8565f74f0489f1350b9e5
+Removing commit:  3107a8bfa21cc4cd22c1eb89d59c1e266bfa8653
+Removing commit:  bc9a9f3c3ce0c83916dbfc1c277578dd4a0dafac
+Removing commit:  dd727c9dd0bbf95b78822bfe43f451deb34a45bf
+Removing commit:  7a1362a20157a10f6abd88abf1732be2a46f752f
+Removing commit:  e6e0d6580ea792517cd8d038e02b2113d4a6ca85
+Removing commit:  4ccb3b62d71ee0d232b71088b65358645f232bb1
+Removing commit:  452d5775c22d61c5e3632f3ae81747710ae1deb5
+Removing commit:  18f6df7f7700c82061874ee1672dae4722f7dc84
+Removing commit:  3f1a0e8d299a255a8c6639ce24fc025b5298fe58
+Removing commit:  3811b0835bea54d995a1b466dc2d326feb7f5b88
+Removing commit:  48c8a4fa7ee15a37e9b3e79981e16982a680c010
+Removing commit:  ceb3a0b6a1170abed3182e9961b1d85202f063aa
+Removing commit:  3e2ee2c770eb37519b7b0bb8e9fcc3fe5cc93ad3
+Removing commit:  0424f4e276fffaedacf77b3157fdc2f6da582651
+Repo:  cxf  tag1:  cxf-2.2.12  tag2:  cxf-2.3.0  cor:  2.339401056958309  cfor: 1.2466236054022313  pco:  0.13606649882896232
+Repo:  cxf  tag1:  cxf-2.3.0  tag2:  cxf-2.3.1  cor:  1.2489270386266094  cfor: 1.0729613733905579  pco:  0.04158279807506246
+Removing commit:  643fefaa83bd9317d0a36f1a96614e463ab09e80
+Repo:  cxf  tag1:  cxf-2.3.1  tag2:  cxf-2.3.2  cor:  1.4086956521739131  cfor: 1.0869565217391304  pco:  0.06710436311276648
+Repo:  cxf  tag1:  cxf-2.3.2  tag2:  cxf-2.3.3  cor:  1.3355704697986577  cfor: 1.0671140939597314  pco:  0.057696338438428606
+Repo:  cxf  tag1:  cxf-2.3.3  tag2:  cxf-2.3.4  cor:  1.5  cfor: 1.0691489361702127  pco:  0.02811530327937219
+Repo:  cxf  tag1:  cxf-2.3.4  tag2:  cxf-2.3.5  cor:  1.42  cfor: 1.06  pco:  0.044871899525809826
+Repo:  cxf  tag1:  cxf-2.3.5  tag2:  cxf-2.3.6  cor:  1.125  cfor: 1.0568181818181819  pco:  0.06395984967413539
+Removing commit:  ec232a750075a853b7cf8617ea9bf5de46970111
+Repo:  cxf  tag1:  cxf-2.3.6  tag2:  cxf-2.3.7  cor:  1.2268041237113403  cfor: 1.0618556701030928  pco:  0.04771491930105375
+Repo:  cxf  tag1:  cxf-2.3.7  tag2:  cxf-2.3.8  cor:  1.3421052631578947  cfor: 1.0657894736842106  pco:  0.03252937538651824
+Repo:  cxf  tag1:  cxf-2.3.8  tag2:  cxf-2.3.9  cor:  1.3333333333333333  cfor: 1.0333333333333334  pco:  0.022988505747126436
+Repo:  cxf  tag1:  cxf-2.3.9  tag2:  cxf-2.3.10  cor:  1.3057851239669422  cfor: 1.0330578512396693  pco:  0.06131760078662733
+Repo:  cxf  tag1:  cxf-2.3.10  tag2:  cxf-2.3.11  cor:  1.1875  cfor: 1.0208333333333333  pco:  0.025641025641025644
+Removing commit:  33a1200c605213e3533d6aa3936fed32d0e7b0b2
+Removing commit:  0f337efab344de287c2f87d6d5cc7d6f00da4e1d
+Removing commit:  b5e7584c7addef7d4042457e93fd5d84f199aca1
+Removing commit:  eec7966a158df75b817bbfa06f413b0e05c6f85a
+Removing commit:  20d7050e0cfa6955b8611ffe4862a6bcb6438984
+Removing commit:  45a910429604d210fca11f9dff7e3f3b5f1215e1
+Removing commit:  4ed4013290c191e7e9ba15581a9b6b0e9e33aa14
+Removing commit:  790be4544351111a2bf8e89927e3daff291f0db9
+Removing commit:  4b619eda1e952f306dcfeba44e3a804a8de1b234
+Removing commit:  80ac99f6190fb02adb8fb9adf3c2cc727273f5d3
+Removing commit:  26328e22efcef035910cca333d3e532e11df7ead
+Removing commit:  cfc9d4e1680b7627a7e677529429713c3dcc20b5
+Repo:  cxf  tag1:  cxf-2.3.11  tag2:  cxf-2.4.0  cor:  1.958670260557053  cfor: 1.196765498652291  pco:  0.10347910829634362
+Removing commit:  c6f7ce92a7a7fbe9ce3d27a96d5718af1004271a
+Repo:  cxf  tag1:  cxf-2.4.0  tag2:  cxf-2.4.1  cor:  1.5771604938271604  cfor: 1.0925925925925926  pco:  0.0664844905949036
+Removing commit:  fd5d161805ef4732a4c22d28509a23ed17037c11
+Removing commit:  55e3c1b7428aa024b2c00cdb8e202fb0cbc46d62
+Removing commit:  625afc7c571be89d9295c2df06ad07a1ee899e06
+Removing commit:  73aba4dbbb0d6b99a87ce0fe795677c974c2532b
+Removing commit:  f257791d452177ac14b41de085e76b2c80c94eee
+Repo:  cxf  tag1:  cxf-2.4.1  tag2:  cxf-2.4.2  cor:  2.503267973856209  cfor: 1.1241830065359477  pco:  0.09748312930779642
+Removing commit:  8ef626b79ae0319970bc4d5bc2ead498b804509b
+Removing commit:  fbe5e9274ba3dd63f2bf9d5b146f56b37a7266da
+Repo:  cxf  tag1:  cxf-2.4.2  tag2:  cxf-2.4.3  cor:  1.40625  cfor: 1.12109375  pco:  0.06498729880794578
+Repo:  cxf  tag1:  cxf-2.4.3  tag2:  cxf-2.4.4  cor:  1.4545454545454546  cfor: 1.0909090909090908  pco:  0.08527362686729263
+Repo:  cxf  tag1:  cxf-2.4.4  tag2:  cxf-2.4.5  cor:  1.6227272727272728  cfor: 1.05  pco:  0.02795758033853272
+Removing commit:  099aa62c17a662ebf429ed62c53b1bbea0c1ffd2
+Repo:  cxf  tag1:  cxf-2.4.5  tag2:  cxf-2.4.6  cor:  1.2692307692307692  cfor: 1.0096153846153846  pco:  0.00380952380952381
+Repo:  cxf  tag1:  cxf-2.4.6  tag2:  cxf-2.4.7  cor:  1.441696113074205  cfor: 1.0671378091872792  pco:  0.060385757550414955
+Repo:  cxf  tag1:  cxf-2.4.7  tag2:  cxf-2.4.8  cor:  1.2142857142857142  cfor: 1.0317460317460319  pco:  0.02366435302625015
+Removing commit:  7258ce36f9d126e10b1562dc7c25147cc5414781
+Repo:  cxf  tag1:  cxf-2.4.8  tag2:  cxf-2.4.9  cor:  1.4177215189873418  cfor: 1.0759493670886076  pco:  0.05220034742187143
+Repo:  cxf  tag1:  cxf-2.4.9  tag2:  cxf-2.4.10  cor:  1.18  cfor: 1.0  pco:  0.0
+Removing commit:  6b863fa029f674b3560ec706ad12fefe72dfb0c9
+Removing commit:  ded74a8cc29b546751cb0af49ae7289ed39e23ca
+Removing commit:  e525f29e537afe3d6648f6f50d93eaa2a73d3d2f
+Removing commit:  aa32fe831a1c8ca9e232d863fe7bc2808374b1d6
+Removing commit:  71267d2e7dd1ea82839b74e648f6903b4a71ea90
+Removing commit:  dc2072132628609ad7436c19d1b1a39d735af57d
+Removing commit:  fd5d161805ef4732a4c22d28509a23ed17037c11
+Removing commit:  2ad762d10bbb46e976a66bd611e56307b21cc648
+Removing commit:  65040e5c92206aea2cb8d072d5741117f7c81972
+Removing commit:  915d90dd03a98d7e7a01d4643bbb8f202dd44b9d
+Removing commit:  f257791d452177ac14b41de085e76b2c80c94eee
+Removing commit:  f72a85faa6d049e26c90d5cb45933c53042765ad
+Removing commit:  032c11d017157b505fd90e8fb49eccf3044d3ad2
+Removing commit:  73aba4dbbb0d6b99a87ce0fe795677c974c2532b
+Removing commit:  625afc7c571be89d9295c2df06ad07a1ee899e06
+Repo:  cxf  tag1:  cxf-2.4.10  tag2:  cxf-2.5.0  cor:  1.8015184381778742  cfor: 1.146420824295011  pco:  0.105725522739329
+Removing commit:  1b8cc457a2665285e493a0fdb0c71fab9d041785
+Removing commit:  ce1e00dd894b614959891bc3d602ae31d5707120
+Removing commit:  602b350b17a33ac902e1ee279cd4547e7499b5b6
+Repo:  cxf  tag1:  cxf-2.5.0  tag2:  cxf-2.5.1  cor:  1.7094972067039107  cfor: 1.0754189944134078  pco:  0.07918833926500715
+Removing commit:  a45c4254d1ec6e97f188871c44e9fcaf95962f39
+Removing commit:  24b3fa5a73ac028adf6392d5f3aca492ec7ecc97
+Removing commit:  1c715cb9ab0e4c2d0d4fa956f0ea54512ca8c1f4
+Removing commit:  3ba9fca305da60d1c580d182bcc3813c1e522b03
+Removing commit:  1a8543b503236f583abf0e7ea98e18c1d82bcc83
+Removing commit:  c295783887d884639740ed84c39adfe1d570606a
+Removing commit:  6d7107740b880384fdacf41c503b44306c326852
+Removing commit:  f2a212db02be892db8918031426707038f80f5e7
+Removing commit:  f94943ef516ce223adbc1fe28d4e1a42e4efe232
+Removing commit:  f19c9841f5cd356cbfc3ed3c60f6fcbaf5c97290
+Removing commit:  f196317cf31e3c0cfdd050d1f269203fe6cb0ea4
+Removing commit:  71131797f44b926382523a51c78b68e0910135f6
+Removing commit:  28b4290cdf78b59a24d43ff69f916328ccfce13d
+Removing commit:  8ba4be7a4e4a3adfbd9f557fde93ee4409118ba2
+Removing commit:  d2a3e5178ed3977617c91a43876831e74fd77722
+Removing commit:  8f939b134a37b40ed03ac122cff832e77e70d787
+Repo:  cxf  tag1:  cxf-2.5.1  tag2:  cxf-2.5.2  cor:  1.7293814432989691  cfor: 1.0721649484536082  pco:  0.03512812113074431
+Removing commit:  ea19bb05ea1d07c8ecde5203d47f26c526bc5f05
+Removing commit:  9ef8bb24bac8a9bfa566b745dfd585f22a2e61a3
+Repo:  cxf  tag1:  cxf-2.5.2  tag2:  cxf-2.5.3  cor:  1.488933601609658  cfor: 1.0663983903420524  pco:  0.06193790301377781
+Removing commit:  346648c9082e240a3c3185b3b16ea451106f55ac
+Removing commit:  0827ce3bcc698f987f887a205cf51170d8f74fea
+Repo:  cxf  tag1:  cxf-2.5.3  tag2:  cxf-2.5.4  cor:  1.302325581395349  cfor: 1.0465116279069768  pco:  0.02512042176318527
+Removing commit:  f2a1bb65748838eac7018a62b40e72fe6de74496
+Repo:  cxf  tag1:  cxf-2.5.4  tag2:  cxf-2.5.5  cor:  1.472972972972973  cfor: 1.0743243243243243  pco:  0.04257241304434386
+Repo:  cxf  tag1:  cxf-2.5.5  tag2:  cxf-2.5.6  cor:  1.2673267326732673  cfor: 1.0396039603960396  pco:  0.04354373225340967
+Repo:  cxf  tag1:  cxf-2.5.6  tag2:  cxf-2.5.7  cor:  1.2329317269076305  cfor: 1.0803212851405624  pco:  0.07256531388289639
+Repo:  cxf  tag1:  cxf-2.5.7  tag2:  cxf-2.5.8  cor:  1.1683168316831682  cfor: 1.0297029702970297  pco:  0.015873015873015872
+Repo:  cxf  tag1:  cxf-2.5.8  tag2:  cxf-2.5.9  cor:  1.2063492063492063  cfor: 1.0476190476190477  pco:  0.045024420024420024
+Repo:  cxf  tag1:  cxf-2.5.9  tag2:  cxf-2.5.10  cor:  1.375796178343949  cfor: 1.0509554140127388  pco:  0.030793753524493418
+Removing commit:  15f7b474c12a9c1fcc11ac8f2189bcc0b3b26f3a
+Repo:  cxf  tag1:  cxf-2.5.10  tag2:  cxf-2.5.11  cor:  1.2569444444444444  cfor: 1.0277777777777777  pco:  0.04307691456029052
+Removing commit:  7a68b5d26445a42e4465c2141aa03b10a61b1fb1
+Removing commit:  6d7107740b880384fdacf41c503b44306c326852
+Removing commit:  c295783887d884639740ed84c39adfe1d570606a
+Removing commit:  711506280766bedc0c89292828dfad03ca21bd98
+Removing commit:  f196317cf31e3c0cfdd050d1f269203fe6cb0ea4
+Removing commit:  f19c9841f5cd356cbfc3ed3c60f6fcbaf5c97290
+Removing commit:  f786738e5a8ed9faa74e33858c9ec53f15cb2298
+Removing commit:  f94943ef516ce223adbc1fe28d4e1a42e4efe232
+Removing commit:  a45c4254d1ec6e97f188871c44e9fcaf95962f39
+Removing commit:  24b3fa5a73ac028adf6392d5f3aca492ec7ecc97
+Removing commit:  3ba9fca305da60d1c580d182bcc3813c1e522b03
+Removing commit:  71131797f44b926382523a51c78b68e0910135f6
+Removing commit:  59bb778ec0d2b0f737e7537f5e375ddaff393dc3
+Removing commit:  d2a3e5178ed3977617c91a43876831e74fd77722
+Removing commit:  28b4290cdf78b59a24d43ff69f916328ccfce13d
+Removing commit:  8ba4be7a4e4a3adfbd9f557fde93ee4409118ba2
+Removing commit:  f2a212db02be892db8918031426707038f80f5e7
+Removing commit:  eb38f955b3c1a90b3081696e030c88127bbd47db
+Removing commit:  ae38b1ce79e1e48fd04d983ae3c4e1a609d6e51d
+Removing commit:  b664c13c9c5052715fa7937f0e770ead35d33d05
+Removing commit:  5c018542425f2ec5ce22f523e99de7544b8199de
+Removing commit:  ea48c637f9e1860a11e077da58cbf37e46a75b73
+Removing commit:  960125550db5eddab32453eb1fdc6506044fdf93
+Removing commit:  daef913ce4b9d150b8f921753d6dc585bd127acb
+Removing commit:  49ebabdf0a7dcd02ba17ebbebb21ca71d25da9d0
+Removing commit:  5033a26975f0fcf315209673c2ae346ad1f50f02
+Removing commit:  653bb2665531e1622dda1c2b377cac310fc055b9
+Removing commit:  f3b623e848a7b73db9ec6d46cd2ee11d9c3be2e9
+Removing commit:  f9a1e109f8321f655d9e788f99b6360f67ccd452
+Repo:  cxf  tag1:  cxf-2.5.11  tag2:  cxf-2.6.0  cor:  1.6017915309446253  cfor: 1.0985342019543973  pco:  0.0693860210866943
+Removing commit:  409fde220ba970a798bd1c4e845f645ac4d7da7b
+Removing commit:  f4db427bc4f62030cb24dd14b91d371b3e697b24
+Removing commit:  b122753c817c349b8a010200c684d81b99bb3fe4
+Repo:  cxf  tag1:  cxf-2.6.0  tag2:  cxf-2.6.1  cor:  1.476284584980237  cfor: 1.0790513833992095  pco:  0.03216453639378857
+Removing commit:  eb32ee947a139e6878f846ca2634b49610ce1fb9
+Removing commit:  0d855dab5d16ebdfcf08c1aa487e2dfd4c025557
+Repo:  cxf  tag1:  cxf-2.6.1  tag2:  cxf-2.6.2  cor:  1.491869918699187  cfor: 1.0589430894308942  pco:  0.046385479561418634
+Removing commit:  e2c9818586c51797d9c322c24733ecdfa0dd2729
+Removing commit:  fe2b5964120243a24afb5fff67444757c54bfe65
+Repo:  cxf  tag1:  cxf-2.6.2  tag2:  cxf-2.6.3  cor:  1.2666666666666666  cfor: 1.0242424242424242  pco:  0.02424283214429937
+Repo:  cxf  tag1:  cxf-2.6.3  tag2:  cxf-2.6.4  cor:  1.4056603773584906  cfor: 1.080188679245283  pco:  0.04672588529518684
+Repo:  cxf  tag1:  cxf-2.6.4  tag2:  cxf-2.6.5  cor:  1.207070707070707  cfor: 1.0303030303030303  pco:  0.012791353287546815
+Repo:  cxf  tag1:  cxf-2.6.5  tag2:  cxf-2.6.6  cor:  1.1685393258426966  cfor: 1.0337078651685394  pco:  0.02913273521969174
+Repo:  cxf  tag1:  cxf-2.6.6  tag2:  cxf-2.6.7  cor:  1.3628318584070795  cfor: 1.0530973451327434  pco:  0.02751760825100235
+Repo:  cxf  tag1:  cxf-2.6.7  tag2:  cxf-2.6.8  cor:  1.183673469387755  cfor: 1.030612244897959  pco:  0.040994175447956964
+Removing commit:  03c562177e7cc4a920d88eac2d1581a7707ee4b5
+Repo:  cxf  tag1:  cxf-2.6.8  tag2:  cxf-2.6.9  cor:  1.209090909090909  cfor: 1.0318181818181817  pco:  0.02434333720268061
+Removing commit:  ee6e86af0e25bc2fa0e6c363df22dc53cf27065b
+Repo:  hadoop  tag1:  release-1.0.0  tag2:  release-1.0.1  cor:  1.12  cfor: 1.08  pco:  0.08333333333333333
+Removing commit:  9bc66fc4bbf46951be9054463fb30a0b1961e46d
+Repo:  hadoop  tag1:  release-1.0.1  tag2:  release-1.0.2  cor:  1.105263157894737  cfor: 1.0  pco:  0.0
+Repo:  hadoop  tag1:  release-1.0.2  tag2:  release-1.0.3  cor:  1.2352941176470589  cfor: 1.1176470588235294  pco:  0.11041666666666666
+Repo:  hadoop  tag1:  release-1.0.3  tag2:  release-1.0.4  cor:  1.0  cfor: 1.0  pco:  0.0
+Removing commit:  edc6063ed3b2ac16c5cd43d12313cc3350d74e20
+Removing commit:  017454f9ecfa216e3bfe29416ce40cd52dcb2997
+Removing commit:  80cac1d0a106385da6721ea4acdc55172e672800
+Removing commit:  e755f16fe42a3f34b14e782d285418683a003066
+Removing commit:  9c6b52f5810ad1a84723fbdb418a1fc5d1592018
+Repo:  hadoop  tag1:  release-1.0.4  tag2:  release-1.1.0  cor:  2.2146464646464645  cfor: 1.4722222222222223  pco:  0.2763733951485302
+Repo:  hadoop  tag1:  release-1.1.0  tag2:  release-1.1.1  cor:  1.3333333333333333  cfor: 1.1111111111111112  pco:  0.06506192220477934
+Repo:  hadoop  tag1:  release-1.1.1  tag2:  release-1.1.2  cor:  1.2045454545454546  cfor: 1.0681818181818181  pco:  0.1746031746031746
+Removing commit:  b20cb2baf82ee5d099381c532adc9c3752c9ba97
+Removing commit:  108b0e8c3069d6afad578ee7098d2f0392094571
+Repo:  hadoop  tag1:  release-1.1.2  tag2:  release-1.2.0  cor:  1.8777292576419213  cfor: 1.3624454148471616  pco:  0.39354241141663926
+Repo:  hadoop  tag1:  release-1.2.0  tag2:  release-1.2.1  cor:  1.16  cfor: 1.0  pco:  0.0
+Repo:  httpd  tag1:  2.2.0  tag2:  2.2.1  cor:  1.6216216216216217  cfor: 1.4054054054054055  pco:  0.10997903063120454
+Removing commit:  786089eef9a5ed532224599acc96e2ca5bb8bc61
+Removing commit:  8ffd8c554bfbf342358e027f5fd9e67c66db5241
+Repo:  httpd  tag1:  2.2.1  tag2:  2.2.2  cor:  1.4285714285714286  cfor: 1.2857142857142858  pco:  0.08867899776990686
+Removing commit:  ae1748a99f901a249de1f3eab52e35594b6d1a0b
+Repo:  httpd  tag1:  2.2.2  tag2:  2.2.3  cor:  1.5  cfor: 1.1  pco:  0.03484848484848485
+Repo:  httpd  tag1:  2.2.3  tag2:  2.2.4  cor:  1.543859649122807  cfor: 1.2280701754385965  pco:  0.06417027417027417
+Repo:  httpd  tag1:  2.2.4  tag2:  2.2.5  cor:  1.5344827586206897  cfor: 1.2241379310344827  pco:  0.09939575465864046
+Repo:  httpd  tag1:  2.2.5  tag2:  2.2.6  cor:  1.7777777777777777  cfor: 1.2222222222222223  pco:  0.05559705363626932
+Repo:  httpd  tag1:  2.2.6  tag2:  2.2.7  cor:  2.1044776119402986  cfor: 1.2985074626865671  pco:  0.04675142315321051
+Repo:  httpd  tag1:  2.2.7  tag2:  2.2.8  cor:  1.8  cfor: 1.2  pco:  0.13333333333333333
+Repo:  httpd  tag1:  2.2.8  tag2:  2.2.9  cor:  1.8703703703703705  cfor: 1.4074074074074074  pco:  0.09683476512121014
+Repo:  httpd  tag1:  2.2.9  tag2:  2.2.10  cor:  1.7037037037037037  cfor: 1.2222222222222223  pco:  0.037143843044464164
+Repo:  httpd  tag1:  2.2.10  tag2:  2.2.11  cor:  1.3043478260869565  cfor: 1.173913043478261  pco:  0.03867563645956997
+Repo:  httpd  tag1:  2.2.11  tag2:  2.2.12  cor:  1.8703703703703705  cfor: 1.6481481481481481  pco:  0.21996229987211277
+Repo:  httpd  tag1:  2.2.12  tag2:  2.2.13  cor:  2.375  cfor: 1.75  pco:  0.22222222222222224
+Repo:  httpd  tag1:  2.2.13  tag2:  2.2.14  cor:  1.1578947368421053  cfor: 1.0526315789473684  pco:  0.0125
+Repo:  httpd  tag1:  2.2.14  tag2:  2.2.15  cor:  1.6222222222222222  cfor: 1.4444444444444444  pco:  0.23551577828504663
+Repo:  httpd  tag1:  2.2.15  tag2:  2.2.16  cor:  1.8695652173913044  cfor: 1.608695652173913  pco:  0.2525556315029999
+Repo:  httpd  tag1:  2.2.16  tag2:  2.2.17  cor:  1.1666666666666667  cfor: 1.1111111111111112  pco:  0.022339800117577895
+Repo:  httpd  tag1:  2.2.17  tag2:  2.2.18  cor:  1.6065573770491803  cfor: 1.1967213114754098  pco:  0.08641702637619153
+Repo:  httpd  tag1:  2.2.18  tag2:  2.2.19  cor:  1.3333333333333333  cfor: 1.1666666666666667  pco:  0.07142857142857142
+Repo:  httpd  tag1:  2.2.19  tag2:  2.2.20  cor:  1.4285714285714286  cfor: 1.1428571428571428  pco:  0.017857142857142856
+Repo:  httpd  tag1:  2.2.20  tag2:  2.2.21  cor:  1.625  cfor: 1.3125  pco:  0.2636363636363636
+Repo:  httpd  tag1:  2.2.21  tag2:  2.2.22  cor:  1.6875  cfor: 1.3125  pco:  0.21014492753623187
+Repo:  httpd  tag1:  2.2.22  tag2:  2.2.23  cor:  1.3571428571428572  cfor: 1.1666666666666667  pco:  0.05971695661136655
+Repo:  httpd  tag1:  2.2.23  tag2:  2.2.24  cor:  1.25  cfor: 1.0833333333333333  pco:  0.009839816933638444
+Removing commit:  de645c359d0099b1034222661c764bfbd39b1c4f
+Removing commit:  886787685c97f9c392adca5ac29d3e8bd3aef7c5
+Repo:  httpd  tag1:  2.2.24  tag2:  2.2.25  cor:  1.7307692307692308  cfor: 1.2692307692307692  pco:  0.0461361014994233
+Repo:  httpd  tag1:  2.2.25  tag2:  2.2.26  cor:  2.642857142857143  cfor: 1.9285714285714286  pco:  0.3243589743589744
+Repo:  httpd  tag1:  2.2.26  tag2:  2.2.27  cor:  1.2142857142857142  cfor: 1.1428571428571428  pco:  0.375
+Repo:  httpd  tag1:  2.2.27  tag2:  2.2.28  cor:  1.3125  cfor: 1.21875  pco:  0.10810853634383047
+Repo:  httpd  tag1:  2.2.28  tag2:  2.2.29  cor:  2.0  cfor: 1.0  pco:  0
+Repo:  httpd  tag1:  2.2.29  tag2:  2.2.30  cor:  1.8095238095238095  cfor: 1.1904761904761905  pco:  0.025004203865992485
+Repo:  httpd  tag1:  2.2.30  tag2:  2.2.31  cor:  1.25  cfor: 1.0  pco:  0.0
+Repo:  httpd  tag1:  2.2.31  tag2:  2.2.32  cor:  2.588235294117647  cfor: 1.7647058823529411  pco:  0.2681836970899471
+Repo:  httpd  tag1:  2.2.32  tag2:  2.2.33  cor:  1.1  cfor: 1.0  pco:  0.0
+Repo:  httpd  tag1:  2.2.33  tag2:  2.2.34  cor:  1.25  cfor: 1.0  pco:  0.0
+Removing commit:  a324a1d72f2f9c3d48bd4615b462a922760ba643
+Removing commit:  5061d9fa920cb1821a51495fc42833c54e5bd714
+Removing commit:  08c97ba290d9b8cb32992529db3f66c6c3c35589
+Removing commit:  5d2fae4818e5eca5c32f439da1dbaed1bb2dad1b
+Removing commit:  de659cbed0a2cb0397109fecbf9a2465387a1cfa
+Removing commit:  dd95d7c37c2f6dac58fa7ad5420623c3bf753a56
+Removing commit:  8c1e315d3f23dd93529fd9605da571c4af9dfbf6
+Repo:  httpd  tag1:  2.2.34  tag2:  2.3.0  cor:  7.148571428571429  cfor: 2.9571428571428573  pco:  1.0157497137123128
+Repo:  httpd  tag1:  2.3.0  tag2:  2.3.1  cor:  2.4444444444444446  cfor: 1.1919191919191918  pco:  0.15612501515484714
+Repo:  httpd  tag1:  2.3.1  tag2:  2.3.2  cor:  2.1875  cfor: 1.3625  pco:  0.1809069471063279
+Repo:  httpd  tag1:  2.3.2  tag2:  2.3.3  cor:  3.6666666666666665  cfor: 1.9568627450980391  pco:  0.48647233984160626
+Repo:  httpd  tag1:  2.3.3  tag2:  2.3.4  cor:  1.2363636363636363  cfor: 1.0  pco:  0.0
+Repo:  httpd  tag1:  2.3.4  tag2:  2.3.5  cor:  1.875  cfor: 1.4583333333333333  pco:  0.24968735750378437
+Removing commit:  ebb62867fb8a335f70c30e01280cc30f5c4d0597
+Repo:  httpd  tag1:  2.3.5  tag2:  2.3.6  cor:  3.110169491525424  cfor: 1.923728813559322  pco:  0.5128477933136999
+Repo:  httpd  tag1:  2.3.6  tag2:  2.3.7  cor:  1.9126984126984128  cfor: 1.3095238095238095  pco:  0.1988609678088169
+Repo:  httpd  tag1:  2.3.7  tag2:  2.3.8  cor:  1.3333333333333333  cfor: 1.1333333333333333  pco:  0.0642857142857143
+Repo:  httpd  tag1:  2.3.8  tag2:  2.3.9  cor:  3.5337837837837838  cfor: 1.4662162162162162  pco:  0.30765466157764
+Repo:  httpd  tag1:  2.3.9  tag2:  2.3.10  cor:  1.6153846153846154  cfor: 1.0512820512820513  pco:  0.023571428571428573
+Repo:  httpd  tag1:  2.3.10  tag2:  2.3.11  cor:  3.1515151515151514  cfor: 1.4747474747474747  pco:  0.3069660786175093
+Repo:  httpd  tag1:  2.3.11  tag2:  2.3.12  cor:  2.7777777777777777  cfor: 1.4126984126984128  pco:  0.22870364348734565
+Removing commit:  c9fd2623da21dc757571e93f8c14344946e59ec7
+Repo:  httpd  tag1:  2.3.12  tag2:  2.3.13  cor:  2.076923076923077  cfor: 1.2136752136752136  pco:  0.1107828826992664
+Repo:  httpd  tag1:  2.3.13  tag2:  2.3.14  cor:  1.8125  cfor: 1.1  pco:  0.07266522872752015
+Removing commit:  427c85bd2353796cbd8253854dd2fb2ccfbf8bdc
+Removing commit:  103f776c25b7fdd51da4f98643b8dcdb09efdce6
+Removing commit:  1951a037bf2b1009cf6908b035e868a90f2dfb59
+Repo:  httpd  tag1:  2.3.14  tag2:  2.3.15  cor:  3.1940298507462686  cfor: 1.4328358208955223  pco:  0.4144776008291969
+Removing commit:  b6ae8ca44adfc5fdf7ec83d8a4fc29ea5d257a55
+Repo:  httpd  tag1:  2.3.15  tag2:  2.3.16  cor:  2.4926470588235294  cfor: 1.5294117647058822  pco:  0.27945388297823565
+Repo:  httpd  tag1:  2.3.16  tag2:  2.4.0  cor:  1.392156862745098  cfor: 1.1568627450980393  pco:  0.10637738330046022
+Repo:  httpd  tag1:  2.4.0  tag2:  2.4.1  cor:  1.5686274509803921  cfor: 1.2745098039215685  pco:  0.13880234144940026
+Repo:  httpd  tag1:  2.4.1  tag2:  2.4.2  cor:  1.3409090909090908  cfor: 1.1818181818181819  pco:  0.06862173444834735
+Repo:  httpd  tag1:  2.4.2  tag2:  2.4.3  cor:  1.851063829787234  cfor: 1.5851063829787233  pco:  0.11678228269479662
+Repo:  httpd  tag1:  2.4.3  tag2:  2.4.4  cor:  1.619047619047619  cfor: 1.276190476190476  pco:  0.0817686621497778
+Repo:  httpd  tag1:  2.4.4  tag2:  2.4.5  cor:  2.111111111111111  cfor: 1.2991452991452992  pco:  0.07256191847301252
+Repo:  httpd  tag1:  2.4.5  tag2:  2.4.6  cor:  1.5  cfor: 1.0  pco:  0.0
+Removing commit:  581bc60406bf2e89b03eb5c925c3466b5ae8bd50
+Removing commit:  06bc65709052fa88eebb07032cf3db0b2765f1d5
+Removing commit:  b4d9cc8be1c7440bbfba8473ec1dd7feaf207daa
+Removing commit:  64301883acca71df44f307f5c281639839c62818
+Removing commit:  d53cf4a1ae2c94132ebb247a872e391d74389cf4
+Removing commit:  5ce59923464550a51f4dd8f7cea50cfaba228844
+Removing commit:  4ef4dc725dea6f8a9f1b3f72f3e82cd8254354ce
+Removing commit:  515bac41819e209190a53c8f6b1de1db25dee575
+Removing commit:  f824f90d5eb76383e5e38227958bc1b0388259ed
+Removing commit:  c1a418840ba418ac6691d398ab7f3f65752f6f3f
+Removing commit:  16937e1fd3cbf15109ecc68a34e36b95df0a8d94
+Removing commit:  c0c8d9f64563d092506407f49addff96846a04cb
+Removing commit:  48332a4260d85693d84c07105e7dbefe835bff47
+Removing commit:  71850f26e96311afcf9d1029a62ac47d07cdf0d8
+Removing commit:  69ba194af61508da5e286b5690d171e01ab1635e
+Removing commit:  049e7dc6cae23f7992aee48ec1f85d0cc133a20c
+Removing commit:  024261a3f609d4d40f090369d80fd1cda3d5ef9e
+Removing commit:  95ab66ffc698968dfc7e8910e37d138f5ea2f243
+Removing commit:  3f1450a35e058c5353004affd12f3ddd7e7327e8
+Removing commit:  8a99d7561228883cfddcda43428053cd78611b11
+Removing commit:  ff79ff48c3a7228dc7ea89f917b2e9db87048728
+Removing commit:  d9b6358bb1f0730038e3683552b2d3812cbd22ec
+Removing commit:  61ae2e77f725bbc71c2ed9899f8b91fd6f422242
+Removing commit:  ad2817beb235f8f24b7e73feac2ad717346bcd6f
+Removing commit:  aec18185d718dc04d4c5e53ddb3cc3e5825db386
+Removing commit:  639f2dee3e127c737f3e47c821b6238bcec9fd34
+Removing commit:  45cebc427d31070ef01e9d660da10dea81f40604
+Removing commit:  ff3da8cd8522a90122b3ba833991e6f5d32717a6
+Removing commit:  5a7067b89828b28feeb5df964edca3d02746a15f
+Removing commit:  10d666390968cba134b31b78d6c3c99b0b6164cd
+Removing commit:  fed7d6133df15b27c2d210a784f4a0cbea7c9dda
+Removing commit:  a7f82c97696625a5f0add0d2b22540141987ef29
+Removing commit:  b3ba49c381d8fb155b887d4eb89c828b8c0bd722
+Removing commit:  9a47bc15ce60ac09df8a0470493fcb175258e9e8
+Removing commit:  03424784c070b28b3e6ec3fcc1fab1163d1decf3
+Removing commit:  b1dd03663c549c191d2aa61b80f0af5e5978d542
+Removing commit:  91456bb2aab251b8512b41b48726fe0550d25cfa
+Removing commit:  f4c8f73fce2f184612db3a837a180c9c2689b889
+Removing commit:  22726e80d48f13e5f46ba3a0f9576e407bb7c466
+Repo:  mahout  tag1:  mahout-0.3  tag2:  mahout-0.4  cor:  2.6295811518324608  cfor: 1.2473821989528795  pco:  0.14536264416406103
+Removing commit:  939ac30b4b482bb3ae24dcf73c730dd1f9021615
+Removing commit:  3218e951e55dea4d2cb984be697f39bb70e82a36
+Removing commit:  35032b8b4e08e8873ac02d96cb2a63f5b19daae3
+Removing commit:  f696d3635f390a514bd708ffa762486850f55ed1
+Removing commit:  f3a9cc138cf2e4e64436d24eda06d32d335aff85
+Removing commit:  208aa074f35c0c0143f9ad00b7f0056299b80eba
+Removing commit:  a13b4b7fae76062d7db63aebbde750fce6daed70
+Removing commit:  58fd277b2a697fe09cc092c0f180576de15f0aa3
+Removing commit:  80366ee59bc003a5cf18910340bd3d2a08d87de5
+Removing commit:  d61a0ee216389fcac1d3e56f531aa4cc8f597c59
+Removing commit:  85ec3a32bfd7b337c8cd45aecac7494c429c462f
+Removing commit:  b16c26072da5828e6b9a05a882da838463a8f2a6
+Removing commit:  39fe22402990d06f23a39cec18e74887ea5eb262
+Removing commit:  467bf1839b82b80d017e7a1cabd642a1c2b0b778
+Removing commit:  e23728debd770f4710d9455c5bb6117b3d864ff9
+Repo:  mahout  tag1:  mahout-0.4  tag2:  mahout-0.5  cor:  1.612121212121212  cfor: 1.2404040404040404  pco:  0.09074483792054004
+Removing commit:  52ce4129a013933836b4bc6ba1bde282810f1959
+Removing commit:  29a7f38810270fa45a17bdf2418c896c1594d43c
+Removing commit:  d491f69bc2a6e2d0d369d84c03b46338fe886b42
+Removing commit:  4fbfbc694a956c6e4923af27fbd42eb26467bb9f
+Removing commit:  4194a28a7fd44438f0277c55deff67509bb9fcc4
+Removing commit:  e0ec7c1be9cf1141123b00841c9502e85f5ae426
+Removing commit:  051cbcf86e5dd61a198803256781c058120938d0
+Removing commit:  96117d39eed51f10ee1300917f80abc32908d373
+Removing commit:  3d44c1ee288700b0a5ffd8aaf2f734cf4315de99
+Removing commit:  564c3e13a9eaf84fc76335b4a415937a747c974f
+Removing commit:  50fd693770212294b1c14eb9ec10324c7d99a303
+Removing commit:  149941141dcc05cd92c154139ad04c2d4529bc2a
+Removing commit:  528ffcd080419a6fd5edcaa49490bb5c2260a1aa
+Removing commit:  95f836bfb22663dee1ee109512fb202b7932ecbd
+Removing commit:  d6aba1afc80cbeb3c6945c69b6e5ee13d4699496
+Removing commit:  e9cc3238826c6c248b6ba69eceba6807ac9defeb
+Removing commit:  96024a77ce7b2d271e4c84e185912189ec53bd4e
+Removing commit:  08e65f66279f03caaa46f789f20d17d1db36c78f
+Removing commit:  c3496d1b4a5a3012d546e73079a07a137788a5c6
+Removing commit:  74f849b10c4d76281f31741a9cef48ceddcde123
+Removing commit:  d608a88d95b4a7bfd5f32a24f0c0a5d5cf6f25cf
+Removing commit:  845cbcdd860ee1aa8817259b9b6a5415a5196275
+Repo:  mahout  tag1:  mahout-0.5  tag2:  mahout-0.6  cor:  1.5906666666666667  cfor: 1.1786666666666668  pco:  0.07663351128757792
+Removing commit:  51f58b8b5a066d0afabc850c19fae21b9f24ca95
+Removing commit:  1ac30a4af120f511c04461f5fbef6984d4cfa806
+Removing commit:  8d102ea2cea0e43c91e867362ec842fbc286fb26
+Removing commit:  1de8cec0ace0a8026f8c7b4e9fd8961d7496b2ca
+Removing commit:  7c2b66444177812e26572e6d66a70e29a2855fa9
+Removing commit:  b06077a7217548e3c3a7c5748dc03bf9e52015b6
+Removing commit:  0a80b544349320c89b495fc2f78588297359d929
+Removing commit:  6db7f6287a5720ea3dca07c1c89da4568bb4e84e
+Removing commit:  35fa73f05fa65905e4b9e26f8fdbea51d2e945f4
+Removing commit:  e64dd36ec79d1c22a6161078f5363cfb5f89ff91
+Removing commit:  44459bda14b550d8929728294bc9af412aa41852
+Repo:  mahout  tag1:  mahout-0.6  tag2:  mahout-0.7  cor:  1.816  cfor: 1.196  pco:  0.11699470145277097
+Removing commit:  6a4942cd0fb2dfce2766ce070341242ea8cb9086
+Removing commit:  31cb292293bd539e29458896e78bad5d72b2b895
+Removing commit:  17f63629727bc2b67fb6d0ac1b0df0f15eb6c257
+Removing commit:  4841efbcd36c2d7bd160fe673824578f3adc5a23
+Removing commit:  5d667589f9f7d775448389c69bf6c6776ef54269
+Removing commit:  bdb1c48561578dc496d05c263b28b68d0c97e2d2
+Removing commit:  58cc1ae19757e09389196dff605359be72f797fe
+Removing commit:  210b26585d87b7096286b162b733b18f18d9c785
+Removing commit:  3c22856e8f2163301aa0ea870622c142427b4b40
+Removing commit:  6d16230d5548b1acd9762dee1f76b98f2727e2a2
+Removing commit:  67a531e942f10611477f9ffd4424f957d41cbb7c
+Removing commit:  8b6a26a153cd87720b6f323da1317ea6177a998f
+Removing commit:  229aeff334882293c915b27e40a4864878a644b9
+Removing commit:  8396a27bb2881b59c4aa9bb49427f0e7c27ae095
+Removing commit:  10c535c16ea567a2105a6cbcbeb2af3321028417
+Removing commit:  4ca6b866a4b2cdacec85be5f1828594a1ef76754
+Removing commit:  335a993715963616980d746f9d80d28f0c22fabe
+Removing commit:  87d4b2e03012ca44f5c0f6629b0546785d9058ee
+Removing commit:  dc62944247cc3dbc212aad50fd9d7243ce3fd446
+Removing commit:  e3ec9d80c23269e3160494575dfa283459da5e02
+Removing commit:  402e296c5efe03d91a8ca8e962705bc79b2b6f23
+Repo:  mahout  tag1:  mahout-0.7  tag2:  mahout-0.8  cor:  1.836935166994106  cfor: 1.3339882121807465  pco:  0.21431821112173227
+Removing commit:  c88c240fc6bb33a8206ede54d4bb81c25e67066c
+Removing commit:  cd167f96b31eec1c4e7affc0f188d06c753cd39c
+Removing commit:  700224140ffb5cda4517f2d32261612b3d29bace
+Removing commit:  921e2015ef96bc9655c9d821e051d6c0d2e99045
+Removing commit:  b60c9090cf6823b04b8608b4b21b003e3d5367d6
+Removing commit:  1cdd0956f8e82c9ffea5058b3b017bfe3fde55cc
+Repo:  mahout  tag1:  mahout-0.8  tag2:  mahout-0.9  cor:  1.3982683982683983  cfor: 1.1428571428571428  pco:  0.09026398906048999
+Removing commit:  f290fad39391ba583289c4abfe52d3f81f95d18a
+Removing commit:  9c16a4373493bb9307dda99fc63e29c0fb8a3653
+Removing commit:  f153a4ea37a2ea16247fd773756fa5da27f075ff
+Removing commit:  e9c0347cfa97a7310ca6a56fbc50db83b97974e7
+Repo:  openjpa  tag1:  1.2.0  tag2:  1.2.1  cor:  1.6097560975609757  cfor: 1.2276422764227641  pco:  0.1943642284264656
+Removing commit:  115af5954d8ba917d83b7dceb181b01257c359ab
+Removing commit:  f7463a50bf23090222878e01dd075d2a17055552
+Removing commit:  4b6c0c99f462fddcb83df044aceff2f2ee51a08c
+Repo:  openjpa  tag1:  1.2.1  tag2:  1.2.2  cor:  1.1904761904761905  cfor: 1.0595238095238095  pco:  0.05952380952380952
+Removing commit:  9f9f3cd8581d993dd086fb7ccb7bd63bcf79ad98
+Repo:  openjpa  tag1:  1.2.2  tag2:  1.2.3  cor:  1.8606060606060606  cfor: 1.2303030303030302  pco:  0.11495968807824274
+Removing commit:  dff9c690bc677bb42ed4317cf9dce92de742110b
+Removing commit:  55bf86a4c8d4e7bef9aa7b611a9130011fa27c34
+Removing commit:  fa02d2a5faea007b48a3158808de79c584d03574
+Removing commit:  fb60f8136f5427e47cc449bf21a9b860c3e11db9
+Removing commit:  549115f77c4551a21711646d43b522f4b7894817
+Removing commit:  32796f751b23286fff8d38d7114daf315f7b8fce
+Removing commit:  70f55bdee8d87fbfde8b15524cbb2e204194cdd7
+Removing commit:  ecf43f87f74dd869b7c7c661f57f8b2fe671a5fe
+Removing commit:  4c4219fc223dcfcaee24119825d5b63f31c2dc67
+Removing commit:  c3175eea3c3885286898170fae6b487b070f60b5
+Removing commit:  05d2a8041782f2531caaeb372ba610be18e5704a
+Removing commit:  b961b8baa20c592d350349d2c83bf6dfc0a2df1d
+Removing commit:  295442d82f417e203a110bb2caac18e10b5fb3f2
+Removing commit:  74c5f3078f30ec3c8c06b0b7c5601fb274eaa489
+Removing commit:  fadd48fe5b68577a3a75d86fb7e51746d6662c3b
+Removing commit:  1f37b7725c30b6dde445598f24d30841fba87535
+Removing commit:  04df2fac8231731830c5b886650b39b46cf9ed69
+Removing commit:  017e518bbac1b9e0c1f67dd5cd1330cd54c02106
+Removing commit:  f8bb2a83e63846ba98063d2d6bc172ba5782d5a4
+Removing commit:  718370e1ef8ceaa48fedfa92b90dc49de6cb530b
+Removing commit:  8c8636fce98d7907c444bc9f7dc2c94321163d68
+Removing commit:  fcebb24e61b64dbd6557d6458d983ea00269a34f
+Removing commit:  1b128ce338602b085108faa64827bd37e540b6f5
+Removing commit:  c99c9d24f968fbc2fb2542291ee20164518e6111
+Removing commit:  c0bf7e40d6ff57df1c5679c813192e0a8c82de28
+Removing commit:  3464d8e9b877137a0b37095687845b4624b02c52
+Removing commit:  e1bd3c4dcbe89521ecd7aefd04df01e5f34963be
+Removing commit:  90b84c5d73db4d0d7fa3e5520358912961b59c43
+Removing commit:  c58af533fb565d92f7a514749d05a957b6530fc5
+Removing commit:  995c6a4acc0183dc76cd4c477b47bf515334ce00
+Removing commit:  a1a94144bd0a9a26edcd0209e884b364782fd5d7
+Removing commit:  291e27eba9b36f28c8a87da81b23758e1f803f4e
+Removing commit:  1fce44737bd0cd696fb8b904aafb1dd663093d11
+Removing commit:  c246a7a4b17e6e8c83ebb1660bf3f3b726675c1d
+Removing commit:  88dcd580d8c9f9c4b1bcca19f9d74638aaa9a681
+Removing commit:  8597b330e59009860f0c3d890a6755cf47970028
+Removing commit:  c1b842d49256339bc9c82441d3b956540e22e648
+Removing commit:  62092d763ad8d63b7e1b5d45c04d607632986c5b
+Removing commit:  b6e661e24a3f5993ba24df9819e61f8ed028a115
+Removing commit:  de5e6c9ba9343d24e0ee992f5a54f98372ee1469
+Removing commit:  30ee661fdca6bb2c0a8ebf9296c62a2e1dcfd1e8
+Repo:  openjpa  tag1:  1.2.3  tag2:  2.0.0  cor:  2.7622739018087854  cfor: 1.481653746770026  pco:  0.38307621504627387
+Repo:  openjpa  tag1:  2.0.0  tag2:  2.0.1  cor:  1.3134328358208955  cfor: 1.044776119402985  pco:  0.01859756097560976
+Removing commit:  733adeb47b01342ee337f8a3cd8131ea9dbfb3b1
+Removing commit:  e0882d7cc03da7d8dacf445cc0daf8862f248a50
+Removing commit:  3887eb414e6118c294661aa326886a14444435d1
+Removing commit:  2f3fe527a14cbbb9054c8d54ee6bd7a8612afe0a
+Removing commit:  e88899d3a1f38886a0de96eed3c870f31d31beb3
+Repo:  openjpa  tag1:  2.0.1  tag2:  2.1.0  cor:  1.8415178571428572  cfor: 1.3772321428571428  pco:  0.2736612863600212
+Repo:  openjpa  tag1:  2.1.0  tag2:  2.1.1  cor:  1.5423728813559323  cfor: 1.271186440677966  pco:  0.18721554999846668
+Removing commit:  3494fab794711379f046a26e3a19f10a5f80c7ea
+Removing commit:  2bbbcc9d735a66b64afc1a8bcdba13ab151242db
+Removing commit:  3d5b44956dd6b860b8367b25d5858ad7db0cd141
+Repo:  openjpa  tag1:  2.1.1  tag2:  2.2.0  cor:  1.8926174496644295  cfor: 1.3624161073825503  pco:  0.33595244340108915
+Removing commit:  c31bde7ff3c9b7f856134209cc60236192243376
+Repo:  openjpa  tag1:  2.2.0  tag2:  2.2.1  cor:  1.2986111111111112  cfor: 1.1527777777777777  pco:  0.25544306379353016
+Repo:  openjpa  tag1:  2.2.1  tag2:  2.2.2  cor:  1.4225352112676057  cfor: 1.1267605633802817  pco:  0.1374490893944524
+Repo:  pdfbox  tag1:  1.7.0  tag2:  1.7.1  cor:  1.0  cfor: 1.0  pco:  0
+Removing commit:  d76d9cf7ccfa76aaa4aeb36882ce2301acc8a255
+Removing commit:  2a891ae3e5027e601d6ab84376581b0f22153401
+Removing commit:  b46f2a70aa22a4001a42cd08a7a918c07d406406
+Removing commit:  0063210109f21b0c723d44c663b401f74e20ef1c
+Removing commit:  e8421fc0e4c8bf55cab57b67b996f4ad10fa8ea5
+Removing commit:  2c33be84c347669991eafc0dc4ae2a816efe58f3
+Removing commit:  5a39ac63835cadeb8b8e0bce11e7ff8df0157b70
+Removing commit:  a1813d985ac93c52ee36120044bba0f3486a1318
+Removing commit:  8ef145c78640974fccbc665cd8e5225a0c9ee326
+Removing commit:  e52d346adfa24ac83ec71d79c02d67e14434b1a4
+Repo:  pdfbox  tag1:  1.7.1  tag2:  1.8.0  cor:  1.3358585858585859  cfor: 1.0606060606060606  pco:  0.04820598353946194
+Repo:  pdfbox  tag1:  1.8.0  tag2:  1.8.1  cor:  1.0  cfor: 1.0  pco:  0
+Repo:  pdfbox  tag1:  1.8.1  tag2:  1.8.2  cor:  1.0344827586206897  cfor: 1.0  pco:  0
+Removing commit:  72d744b591cf0ca4bd17589e2612a75450151efb
+Removing commit:  68a83536304deee7a559c0fd4af564df10e80ea0
+Repo:  pdfbox  tag1:  1.8.2  tag2:  1.8.3  cor:  1.2093023255813953  cfor: 1.0232558139534884  pco:  0.016666666666666666
+Repo:  pdfbox  tag1:  1.8.3  tag2:  1.8.4  cor:  1.4102564102564104  cfor: 1.0  pco:  0.0
+Removing commit:  7783f04dad25484b6b338f0d717acbac905ef6c9
+Removing commit:  a52cbb2a5ca0fb93a09f86a3c3a302203e51bad0
+Removing commit:  336f40775d70a1ec1263ef1025bab48b47fceb73
+Repo:  pdfbox  tag1:  1.8.4  tag2:  1.8.5  cor:  1.4684684684684686  cfor: 1.117117117117117  pco:  0.08227441920164293
+Repo:  pdfbox  tag1:  1.8.5  tag2:  1.8.6  cor:  1.746031746031746  cfor: 1.0873015873015872  pco:  0.06475953911664023
+Removing commit:  7cb19eb7f65579d7a66b12d53d75739167209fc5
+Repo:  pdfbox  tag1:  1.8.6  tag2:  1.8.7  cor:  1.359375  cfor: 1.0859375  pco:  0.08139905817953018
+Removing commit:  02d485125b16a8924b332c556866bbe99e403b12
+Removing commit:  ab33ae58ef726b560ff2e19d3aa007ef3e985734
+Removing commit:  1176b1d713ed4650fb6a79c6488755dd03188638
+Removing commit:  bfaa751e5c834cccbc89c34556a6d1e8706671af
+Removing commit:  344ac781a15d447fdc4f6c6ec680b3d1e5d075cb
+Removing commit:  d41f21a0862d19deeae503624969feceaa27b115
+Removing commit:  eebff2a86ad6410de9c40e320945931f822bb0f9
+Removing commit:  30716dbf65c178ba94cc69431f6d6306025d62a4
+Repo:  pig  tag1:  release-0.6.0  tag2:  release-0.7.0  cor:  1.8048780487804879  cfor: 1.3614190687361418  pco:  0.41099907236280275
+Removing commit:  a6432786ed3dfbc5b4cabc1a552e6b0829fe22cd
+Removing commit:  de24a53a97ada96ef28ef67f70f7860b8975f106
+Removing commit:  84516f8a94aacfd35e0aebd4006e66a122f2db32
+Removing commit:  86eeb0ee6d8d7f6471d03f666032a8347a01627d
+Removing commit:  73f28bc3d04fc3d7ca0eb61f2f2f16f94784dee0
+Removing commit:  7d8f21477848513008e6eb62049c9f25f192b5c6
+Removing commit:  c122610e3ec5a7730fde1f6c458b02ef5c09b779
+Removing commit:  58ba1358cbb4103906653b129bea9705bd86f849
+Removing commit:  340d82d5d715bd62fe333b2891f7755e16dab626
+Removing commit:  4afbdd2e436037e555b28ed7288ef6120ee80577
+Removing commit:  b5a2dd9ef147f1ccb092eb0ca1b9170808d54cf4
+Removing commit:  c6efb7ac3aba0f492b4e4938b37c9469d5f28c3a
+Removing commit:  441b528efb958a1db128a5e4ff915f77db4b7fb9
+Removing commit:  8957162bbb970edffb35bc1a0232c391af53c931
+Removing commit:  5d20d585abebf5474ffc858668a961a8d59a6331
+Repo:  pig  tag1:  release-0.7.0  tag2:  release-0.8.0  cor:  2.114018691588785  cfor: 1.355140186915888  pco:  0.3402081454086427
+Repo:  pig  tag1:  release-0.8.0  tag2:  release-0.8.1  cor:  1.3707865168539326  cfor: 1.1123595505617978  pco:  0.08645617667356797
+Removing commit:  3cb0898c8c34d959c1eb121e5a8a808baaa14021
+Removing commit:  f02c5040d0552facf419a4a61784de1827c350ab
+Removing commit:  12f584eb46969b549a57d27cd49681ff3cfdc93a
+Removing commit:  612468b0f8d47200e9ad5371dea39b591e656630
+Removing commit:  e84576df9d9498afc50de437f4000986d2403e2a
+Removing commit:  5486f231b09aeff78a97a99a01934fe65f62e486
+Removing commit:  7cd91763eaedb570dbf1cefbb5a7cc4c1991b1cd
+Removing commit:  15b428abfd8dc7967655622066bf4ee633411148
+Removing commit:  96644af492274bf7e47119f538f529202245db5a
+Removing commit:  e73bdfa3d9fc386bf973b3a4b4272479a46f8ebf
+Removing commit:  e0d6559d8895a7c0de9f475f4af6b25a0099bba8
+Removing commit:  37d3f9142e748b02a03749c49841a743b794d3d4
+Removing commit:  3230362fb1d50cb91f8ad913d21c7afe8f4f0c70
+Removing commit:  1c82b83a96b0e8425089769078c4f3a6e6d77b9d
+Removing commit:  5fc7943db0a9d83ea619cc47a937fefb159051d7
+Removing commit:  ab3ddddfcd945fe3da86e624a7f62e04a2f78877
+Removing commit:  4c9808fab84dcc9e05c030894eeba87e24ba190a
+Removing commit:  c5c157ebfd33c2c3cb0e7f6af50d24591701dd1c
+Removing commit:  6766126f94c4b87c68012e6f514bb6e3214871e1
+Repo:  pig  tag1:  release-0.8.1  tag2:  release-0.9.0  cor:  2.721194879089616  cfor: 1.7496443812233287  pco:  0.6669092180791685
+Repo:  pig  tag1:  release-0.9.0  tag2:  release-0.9.1  cor:  1.2352941176470589  cfor: 1.0588235294117647  pco:  0.041025641025641026
+Repo:  tika  tag1:  1.0  tag2:  1.1  cor:  2.130841121495327  cfor: 1.233644859813084  pco:  0.14613045779175815
+Removing commit:  923ef5d6b2101a7500955b9709967c7277ff5674
+Removing commit:  89dc4d725fc4a1dd3406c462bb0e2b8575c5d34f
+Removing commit:  07a1590839bff6f16ac19b031a26e128141e19a2
+Repo:  tika  tag1:  1.1  tag2:  1.2  cor:  2.087248322147651  cfor: 1.1879194630872483  pco:  0.15956052709746293
+Repo:  tika  tag1:  1.2  tag2:  1.3  cor:  1.875  cfor: 1.1931818181818181  pco:  0.12225294418842807
+Repo:  tika  tag1:  1.3  tag2:  1.4  cor:  1.3725490196078431  cfor: 1.0980392156862746  pco:  0.0940012368583797
+Removing commit:  2a36fcd63ddd3234b7f34e6814972bb62aeb4bc9
+Repo:  tika  tag1:  1.4  tag2:  1.5  cor:  1.9189189189189189  cfor: 1.2432432432432432  pco:  0.226985975055235
+Repo:  tika  tag1:  1.5  tag2:  1.6  cor:  2.15  cfor: 1.2785714285714285  pco:  0.23841938539400095
+Removing commit:  6cc0e11b91ee5ebe97ea91fc50a76074f45829c2
+Repo:  tika  tag1:  1.6  tag2:  1.7  cor:  1.9842105263157894  cfor: 1.3  pco:  0.2515752160292299
+Repo:  wicket  tag1:  wicket-1.3.0  tag2:  wicket-1.3.1  cor:  1.1666666666666667  cfor: 1.0606060606060606  pco:  0.05088340231197374
+Repo:  wicket  tag1:  wicket-1.3.1  tag2:  wicket-1.3.2  cor:  1.3522727272727273  cfor: 1.125  pco:  0.10335993835100397
+Repo:  wicket  tag1:  wicket-1.3.2  tag2:  wicket-1.3.3  cor:  1.2769230769230768  cfor: 1.1076923076923078  pco:  0.05937706260286906
+Repo:  wicket  tag1:  wicket-1.3.3  tag2:  wicket-1.3.4  cor:  1.4601769911504425  cfor: 1.1061946902654867  pco:  0.06573396504741941
+Repo:  wicket  tag1:  wicket-1.3.4  tag2:  wicket-1.3.5  cor:  1.4123711340206186  cfor: 1.134020618556701  pco:  0.09927651065870746
+Repo:  wicket  tag1:  wicket-1.3.5  tag2:  wicket-1.3.6  cor:  1.4069767441860466  cfor: 1.0930232558139534  pco:  0.0778500188336254
+Repo:  wicket  tag1:  wicket-1.3.6  tag2:  wicket-1.3.7  cor:  1.096774193548387  cfor: 1.096774193548387  pco:  0.12080808080808081
+Removing commit:  0363a6a1a969fae168d65027f29cfb3dfaddec44
+Removing commit:  145ad743192b953c00c6b00a7339bbf284b3c46a
+Removing commit:  e681175f2d492c38064274dc6497e63fe340718e
+Removing commit:  0300e9cbf508a8154970a01575988c93c3efa589
+Removing commit:  63ce7e942e8c5cd9ae7b29ddbcfca3a3f6d002b9
+Removing commit:  992b05b436f8093210a9eadf8e3f100ed32fac83
+Removing commit:  3bef39a9f6993aff983b380e3631cbcfcd76f2fa
+Removing commit:  6d91ce887edda5a5a816299c9abdb2a31aa8660e
+Removing commit:  f1b89526c5458ee4956d75e14ad811cfaedb6e89
+Removing commit:  38ffc8c48897505c386088f5aaf006d4c986719d
+Removing commit:  4953a722385ce9e6d47b76c7cf101615235bca7b
+Removing commit:  b95c592fa63d870996f325ede5a32094a189c7b2
+Removing commit:  d4d053bf5cc9a543ef36b15049c9901f7a0d6731
+Removing commit:  3887a5423036f448b50e565199c96e272b7e3257
+Removing commit:  4b665dc786a4ff3113bebdc313b08669f8dc155b
+Removing commit:  44d5a219624031c5b8e244229bec958c8bd38caf
+Removing commit:  81ea17c86708e9a9bafe6c7fbe371d9d2d398fce
+Repo:  wicket  tag1:  wicket-1.3.7  tag2:  wicket-1.4.0  cor:  1.9835390946502058  cfor: 1.3909465020576133  pco:  0.21424937241737663
+Repo:  wicket  tag1:  wicket-1.4.0  tag2:  wicket-1.4.2  cor:  1.121212121212121  cfor: 1.0303030303030303  pco:  0.012903225806451613
+Repo:  wicket  tag1:  wicket-1.4.2  tag2:  wicket-1.4.3  cor:  1.1333333333333333  cfor: 1.0333333333333334  pco:  0.03333333333333333
+Repo:  wicket  tag1:  wicket-1.4.3  tag2:  wicket-1.4.4  cor:  1.1694915254237288  cfor: 1.0338983050847457  pco:  0.01844611528822055
+Repo:  wicket  tag1:  wicket-1.4.4  tag2:  wicket-1.4.5  cor:  1.1923076923076923  cfor: 1.0  pco:  0.0
+Repo:  wicket  tag1:  wicket-1.4.5  tag2:  wicket-1.4.6  cor:  1.1111111111111112  cfor: 1.0277777777777777  pco:  0.018779342723004695
+Repo:  wicket  tag1:  wicket-1.4.6  tag2:  wicket-1.4.7  cor:  1.1538461538461537  cfor: 1.0256410256410255  pco:  0.02564102564102564
+Repo:  wicket  tag1:  wicket-1.4.7  tag2:  wicket-1.4.8  cor:  1.2121212121212122  cfor: 1.0606060606060606  pco:  0.10087719298245613
+Repo:  wicket  tag1:  wicket-1.4.8  tag2:  wicket-1.4.9  cor:  1.1142857142857143  cfor: 1.0  pco:  0.0
+Repo:  wicket  tag1:  wicket-1.4.9  tag2:  wicket-1.4.10  cor:  1.457142857142857  cfor: 1.1714285714285715  pco:  0.1921028332281529
+Repo:  wicket  tag1:  wicket-1.4.10  tag2:  wicket-1.4.11  cor:  1.2833333333333334  cfor: 1.05  pco:  0.023076923076923078
+Repo:  wicket  tag1:  wicket-1.4.11  tag2:  wicket-1.4.12  cor:  1.1818181818181819  cfor: 1.0  pco:  0.0
+Repo:  wicket  tag1:  wicket-1.4.12  tag2:  wicket-1.4.13  cor:  1.1785714285714286  cfor: 1.0535714285714286  pco:  0.049134199134199134
+Removing commit:  13132e729917ebbe938571cc42c623c2a3942c08
+Repo:  wicket  tag1:  wicket-1.4.13  tag2:  wicket-1.4.14  cor:  1.125  cfor: 1.015625  pco:  0.022222222222222223
+Repo:  wicket  tag1:  wicket-1.4.14  tag2:  wicket-1.4.15  cor:  1.3461538461538463  cfor: 1.1538461538461537  pco:  0.13952991452991453
+Repo:  wicket  tag1:  wicket-1.4.15  tag2:  wicket-1.4.16  cor:  1.3018867924528301  cfor: 1.0754716981132075  pco:  0.06027280182021875
+Repo:  wicket  tag1:  wicket-1.4.16  tag2:  wicket-1.4.17  cor:  1.2115384615384615  cfor: 1.0576923076923077  pco:  0.027960526315789474
+Repo:  wicket  tag1:  wicket-1.4.17  tag2:  wicket-1.4.18  cor:  1.472972972972973  cfor: 1.1756756756756757  pco:  0.0845481131012284
+Repo:  wicket  tag1:  wicket-1.4.18  tag2:  wicket-1.4.19  cor:  1.2222222222222223  cfor: 1.0  pco:  0.0
+Repo:  wicket  tag1:  wicket-1.4.19  tag2:  wicket-1.4.20  cor:  1.2352941176470589  cfor: 1.088235294117647  pco:  0.09391534391534391
+Removing commit:  791e65d04671160cd63fb789329a2070781d5563
+Removing commit:  a3d2608f806505dec72a6fa8bec25d77f01e267a
+Removing commit:  abb5b496bec8a101b51728fd3dd9a33142cf2668
+Removing commit:  e50faaea84d9853169e406b7b95861ccdda990bd
+Removing commit:  146721b66cf7c49bd574e25fdcd4ba48d7af22bb
+Removing commit:  6b892fa43a304cee8e204c9cc09b805b7d49c8a2
+Removing commit:  6d366ae5ff0be02f1cb05f0d3c655de5750a96a5
+Removing commit:  d1185d4d2dd41c465876be7a04702c293ca668e8
+Removing commit:  9ee3be4c4de5af72a0b2965267a35d65bf4505b6
+Removing commit:  ded66b17ee6fefb74e0ef6e9397e21ed1a0b2250
+Removing commit:  9d71a934aacd6bb6034b4ef957f7e867591ed42b
+Removing commit:  62b8e704ab18f707b693d43cffbefe08b3b03f67
+Removing commit:  2f263f3272d42d1b8a6fd3ae41f63d04d045b429
+Removing commit:  5e25c737a3a0f6e23d582fe8071e40fc80657216
+Removing commit:  bd3bd06f2356f9647c8ad3fea001b0e7ccb2ba90
+Removing commit:  59aafefb9ca19bf47a798490417aea42496a6818
+Removing commit:  b3df8515274186d473fc7f17e922fe857db66df1
+Removing commit:  3a9bebb372268a5aa2005c1e751b4eeaecf1af22
+Removing commit:  8f5ff62516df56e9af4ce8c6846de3da8b6533c2
+Removing commit:  b0fea8393d7f8f8db5d9e034a51d4578018d2fdf
+Removing commit:  64024788d5122cfe9a9b173b165ac7c069b7f665
+Removing commit:  d469084650866decfbbbc2aacd4dc6829488d45a
+Removing commit:  321c87606b85ec727baa89ecf1e7e24a788b2716
+Removing commit:  b5eb640aaa0e3930c587262ebaf4325be8f95fcc
+Removing commit:  b7a4547dbcd8c147f1e00029831604cb8a974bb4
+Removing commit:  546a751d8dea157c4828432b9c829d54c73dbdd2
+Removing commit:  e894966ab593dc341f537f8e2d3a02ba3354f91d
+Removing commit:  d52223b59834995c20425ca27cee24395ee35a43
+Removing commit:  276405655a38d6655ad613c5ea81aa103110f543
+Removing commit:  2e72e103b7400dfd4eb390c6cdade5fca20990c1
+Removing commit:  4a86559c1d996a04a419ce5d61dd29b999b51c29
+Removing commit:  954d12f348dd9daa10d315a802ca3c1de30676d7
+Removing commit:  c468488dea62755cee6ef9ce48581d88d0c3cca0
+Removing commit:  02b166d90645b8d820a79ad74a843d6c8c0f9157
+Removing commit:  828200764a96731fd9171dfd36c90a8e7501b0b2
+Removing commit:  377e3f9d4908d46739ba42ccf05fc2a896eb85a4
+Removing commit:  59ae0450e770994e745e8b7cd29099378b9d67bd
+Removing commit:  cdb3f5d5dbe5828c14599e3ed42e480d7b2c98ce
+Removing commit:  472596dbcf41da72c586fdb419f3a51b3aed6615
+Removing commit:  94d0ca999d1a7b72cd8f96b9b8239056ef44af39
+Removing commit:  1aaf189fc8c8f04f932b6df38776aba30685665b
+Removing commit:  63f4cbadf3cc688de8d011382ef27d6f2401e524
+Removing commit:  b210c70472e6f35ee07e0ca77fee0233369e208e
+Removing commit:  9b6524b6b5aab542a8ef25987f5d36627d15bc4c
+Removing commit:  6b9ef84559ff341c66c4e6db1b199cb1f67be8d5
+Removing commit:  fa2da7a95d3b4337c0b9ad849d23e4ecceaf8780
+Removing commit:  c21f5fcc0a5f773bfd0fc32589a10827f9b051be
+Removing commit:  5c1b07c49cebbfa2169e37b02facb121bbcd9f2b
+Removing commit:  f0b0cb8dc9feb3b95bf583a35e611634f589c857
+Removing commit:  c381b01904d410d41cc5fc19929ef96396a63225
+Removing commit:  7ec6cb791a3123e6cef3b3a5e0047e2dd5f39098
+Removing commit:  997e4c57d8049ed39e8b7d96b2b44a70e9cfab2b
+Removing commit:  3040c8b836dbb0d67821969f9a1048229b17832c
+Removing commit:  c119d1a4aefd0f8378f5e7bd8acae18d49e94e08
+Removing commit:  38cb2f11577bb77bf48c5c360e0847977f5df3e1
+Removing commit:  4ed7cf86a22f420505d292c78f1008ffaaa279d6
+Removing commit:  075da88d93534b64f600696ebea7617a7a22c706
+Removing commit:  7e6bf896a8adc4304eced4c05f09a87680529217
+Removing commit:  37170031f7f54b1e5c7967d4aa70d385b8ec8071
+Removing commit:  17e10b1d0cd4cfa4f4742d15587e68a24021cc27
+Removing commit:  35b7f0c9849de7d1e7371dba122e9c0ad2ebf97a
+Removing commit:  074f4afb90a1ab6d61c7204ef3dff1a55d355a73
+Removing commit:  638230da8fe88ff10e616dd61ef3af9e33a4381b
+Removing commit:  d2be7fd368cdca02dd7481490de587bcc1a6e4cd
+Removing commit:  b3ec465e81262febb7b87d72cd5a5242ec2aa3ea
+Removing commit:  50b3df5a7faa02af60b7009bcb852600ca656571
+Removing commit:  8b41d46cc364ea868047c40dc64a1509ddeca601
+Removing commit:  fb1ecd6df90163dd42e92523677b5f66904c8143
+Removing commit:  2a2a904e6b5302fb6207be07b77831bae6e15f60
+Removing commit:  25c98b6e6f93cb4517ca6dd22ae3019c2f5afd22
+Removing commit:  e56adb0a7006a218b8e012fcdd7a44e315fe33ac
+Removing commit:  1663c959642b9f6de347ceb8bd562e984d1be457
+Removing commit:  4977f66ef55eaa5d89ed5d3751ff6aefc9652c50
+Repo:  wicket  tag1:  wicket-1.4.20  tag2:  wicket-1.5.0  cor:  2.5913312693498454  cfor: 1.5379256965944272  pco:  0.29663431156903836
+Repo:  wicket  tag1:  wicket-1.5.0  tag2:  wicket-1.5.1  cor:  1.4696969696969697  cfor: 1.121212121212121  pco:  0.06935556963309045
+Repo:  wicket  tag1:  wicket-1.5.1  tag2:  wicket-1.5.2  cor:  1.2936507936507937  cfor: 1.0793650793650793  pco:  0.0821187241876897
+Removing commit:  a7f8efd0c711f7bace770983229df5145ee80d1d
+Repo:  wicket  tag1:  wicket-1.5.2  tag2:  wicket-1.5.3  cor:  1.3214285714285714  cfor: 1.0833333333333333  pco:  0.0341712204007286
+Repo:  wicket  tag1:  wicket-1.5.3  tag2:  wicket-1.5.4  cor:  1.229665071770335  cfor: 1.0956937799043063  pco:  0.0599184168695638
+Repo:  wicket  tag1:  wicket-1.5.4  tag2:  wicket-1.5.5  cor:  1.316326530612245  cfor: 1.0918367346938775  pco:  0.15963061184399413
+Repo:  wicket  tag1:  wicket-1.5.5  tag2:  wicket-1.5.6  cor:  1.3061224489795917  cfor: 1.0714285714285714  pco:  0.04810996563573883
